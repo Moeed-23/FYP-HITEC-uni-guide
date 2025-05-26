@@ -1,0 +1,142 @@
+/* Global reset + body space for fixed Navbar */
+body {
+  margin: 0;
+  padding-top: 64px; /* if your Navbar is fixed at 64px height */
+  font-family: 'Roboto', sans-serif;
+  background: linear-gradient(to right, #0d1b2a, #1b263b);
+  color: #fff;
+}
+
+/* Loader & error */
+.loader {
+  padding: 2em;
+  text-align: center;
+  color: #ddd;
+}
+.error-banner {
+  background: rgba(231,97,97,0.2);
+  color: #e63946;
+  padding: 0.75em;
+  text-align: center;
+}
+
+/* Main wrapper */
+.dashboard-wrapper {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 2em 1em;
+}
+
+/* Avatar uploader */
+.avatar-section {
+  text-align: center;
+  margin-bottom: 2em;
+}
+.avatar-wrapper {
+  position: relative;
+  display: inline-block;
+}
+.avatar-img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid #f77f00;
+  transition: opacity 0.3s;
+}
+.avatar-img.uploading {
+  opacity: 0.5;
+}
+.avatar-edit-btn {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  background: #f77f00;
+  border: none;
+  border-radius: 50%;
+  padding: 0.4em;
+  cursor: pointer;
+  color: #fff;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.3);
+}
+.avatar-edit-btn:hover {
+  background: #d96e00;
+}
+.avatar-input {
+  display: none;
+}
+.avatar-section h2 {
+  margin-top: 0.5em;
+  color: #f77f00;
+}
+
+/* Summary metric cards */
+.summary-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px,1fr));
+  gap: 1.5rem;
+  margin-bottom: 2em;
+}
+.metric-card {
+  background: rgba(255,255,255,0.05);
+  border-radius: 8px;
+  padding: 1.5em;
+  display: flex;
+  align-items: center;
+  gap: 1em;
+  transition: background 0.3s, transform 0.3s;
+}
+.metric-card:hover {
+  background: rgba(247,119,0,0.1);
+  transform: translateY(-4px);
+}
+.metric-card .icon {
+  font-size: 2.5rem;
+  color: #f77f00;
+}
+.metric-card h3 {
+  margin: 0;
+  font-size: 2rem;
+}
+.metric-card p {
+  margin: 0;
+  font-size: 0.9rem;
+  color: #ccc;
+}
+
+/* Quick actions grid */
+.quick-links {
+  margin-top: 2em;
+}
+.quick-links h3 {
+  color: #f77f00;
+  text-align: center;
+  margin-bottom: 1em;
+}
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(160px,1fr));
+  gap: 1.5rem;
+}
+.action-card {
+  background: rgba(255,255,255,0.05);
+  border-radius: 8px;
+  padding: 1.2em;
+  text-align: center;
+  color: #fff;
+  text-decoration: none;
+  transition: background 0.3s, transform 0.3s;
+}
+.action-card i {
+  margin-bottom: 0.5em;
+  color: #2a9d8f;
+}
+.action-card span {
+  display: block;
+  font-size: 1.1rem;
+  margin-top: 0.5em;
+}
+.action-card:hover {
+  background: rgba(42,157,143,0.1);
+  transform: translateY(-4px);
+}

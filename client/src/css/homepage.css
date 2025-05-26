@@ -1,0 +1,212 @@
+/* body {
+    font-family: 'Roboto', Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(to right, #0d1b2a, #1b263b);
+    color: #ffffff;
+    overflow-x: hidden;
+}
+.landing-header{
+  position: sticky;
+}
+
+.hero_2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 3em;
+    background-image: url('https://hitecuni.edu.pk/assets/images/campus.jpg');
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+
+.hero_2::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.6);
+    z-index: 1;
+}
+
+.hero_2 h1, .hero_2 p, .hero_2 a {
+    z-index: 2;
+    position: relative;
+}
+
+.hero_2 h1 {
+    font-size: 3em;
+    margin-bottom: 0.5em;
+    color: #f77f00;
+}
+
+.hero_2 p {
+    font-size: 1.2em;
+    margin-bottom: 1em;
+    color: #a8dadc;
+}
+
+.cta-button_0 {
+    text-decoration: none;
+    background-color: #e63946;
+    color: white;
+    padding: 0.8em 1.5em;
+    border-radius: 30px;
+    font-size: 1em;
+    font-weight: bold;
+    transition: all 0.3s;
+}
+
+.cta-button_0:hover {
+    background-color: #f77f00;
+    transform: translateY(-5px);
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.3);
+}
+
+.features {
+    background-color: #142d4c;
+    padding: 2em;
+    text-align: center;
+}
+
+.features h2 {
+    margin-bottom: 1em;
+    font-size: 2em;
+}
+
+.feature-item {
+    display: inline-block;
+    max-width: 300px;
+    margin: 1em;
+    padding: 1.5em;
+    border-radius: 15px;
+    background: #1b263b;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+    text-align: left;
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.feature-item:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.5);
+}
+
+.feature-item h3 {
+    font-size: 1.5em;
+    color: #f77f00;
+    margin-bottom: 0.5em;
+}
+.feature-item p {
+
+    color: #ffffff !important;
+}
+.features p{
+    color: #ffffff !important;
+    padding-bottom: 30px;
+}
+
+
+@keyframes fadeInDown {
+    0% {
+      opacity: 0;
+      transform: translateY(-20px);
+    }
+    100% {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+  
+  @keyframes fadeInUp {
+    0% {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+    100% {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+  
+  @keyframes fadeIn {
+    0% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
+  
+  
+  .hero_2 h1 {
+    animation: fadeInDown 1s ease-out both;
+  }
+  
+  .hero_2 p {
+    animation: fadeInUp 1s ease-out 0.3s both;
+  }
+  
+  .cta-button_0 {
+    animation: fadeIn 1s ease-out 0.6s both;
+  }
+  
+ 
+  .features h2 {
+    opacity: 0;
+    animation: fadeIn 1s ease-out 0.4s forwards;
+  }
+  
+  .feature-item {
+    opacity: 0;
+    animation: fadeInUp 0.8s ease-out forwards;
+  }
+  
+  .feature-item:nth-child(1) {
+    animation-delay: 0.5s;
+  }
+  
+  .feature-item:nth-child(2) {
+    animation-delay: 0.7s;
+  }
+  
+  .feature-item:nth-child(3) {
+    animation-delay: 0.9s;
+  }
+  
+ 
+  .footer {
+    opacity: 0;
+    position: relative;
+    animation: fadeIn 1s ease-out 1.2s forwards;
+    z-index: 0;
+  }
+  
+  
+  .feedback-btn {
+    opacity: 0;
+    animation: fadeInUp 0.8s ease-out 1s forwards;
+    z-index: 1000; 
+  }
+  
+
+  
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}
+@keyframes slideIn {
+  from { transform: translateY(-30px); opacity: 0; }
+  to   { transform: translateY(0);     opacity: 1; }
+}
+@keyframes fadeInUp {
+  from { transform: translateY(30px);  opacity: 0; }
+  to   { transform: translateY(0);     opacity: 1; }
+} */
+
+
+

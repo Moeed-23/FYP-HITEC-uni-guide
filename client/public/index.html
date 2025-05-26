@@ -1,0 +1,12 @@
+<!-- public/index.html -->
+  <!-- … your existing body markup … -->
+
+  <script>
+    if ("serviceWorker" in navigator) {
+      navigator.serviceWorker
+               .register("../public/sw.js")
+               .catch(err => console.error("SW registration failed:", err));
+    }
+  </script>
+</body>
+</html>

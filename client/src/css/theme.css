@@ -1,0 +1,13 @@
+:root {
+    --navy:   #1b263b;
+    --orange: #f77f00;
+    --light:  #f5f7fa;
+    --white:  #ffffff;
+    --gray:   #6c757d;
+    --glow:   rgba(247,127,0,0.4);
+  
+    --font-base: 'Segoe UI', sans-serif;
+    --radius: 15px;
+    --transition: 0.4s ease;
+  }
+  

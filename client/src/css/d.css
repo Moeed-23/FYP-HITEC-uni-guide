@@ -1,0 +1,363 @@
+/* d.css (scoped to Dashboard only) */
+.dashboard-page * {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.dashboard-page {
+  --navy: #1b263b;
+  --orange: #f77f00;
+  --light: #f5f7fa;
+  --white: #ffffff;
+  --gray: #6c757d;
+  --glow: rgba(247, 127, 0, 0.4);
+
+  font-family: 'Segoe UI', sans-serif;
+  background: var(--light);
+  color: var(--navy);
+  font-size: 1.1em;
+  line-height: 1.6;
+}
+
+/* Notification Bar */
+.dashboard-page .notification-bar {
+  background: #ffecb3;
+  text-align: center;
+  padding: 1em;
+  font-weight: 500;
+  color: #333;
+  font-size: 1em;
+}
+
+/* Hero */
+.dashboard-page .hero {
+  padding: 3em 5vw;
+  text-align: center;
+  background: var(--white);
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+}
+
+.dashboard-page .hero h2 {
+  font-size: 2.4em;
+  margin-bottom: 0.4em;
+}
+
+.dashboard-page .hero p {
+  color: var(--gray);
+  font-size: 1.1em;
+}
+
+/* Cards (Metrics & Quick Actions) */
+.dashboard-page .cards {
+  padding: 3em 5vw;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 2em;
+}
+
+.dashboard-page .card {
+  background: var(--white);
+  padding: 2em;
+  border-radius: 15px;
+  text-align: center;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.05);
+  transition: 0.4s ease;
+  border: 2px solid transparent;
+}
+
+.dashboard-page .card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 0 15px var(--glow);
+  border-color: var(--orange);
+}
+
+.dashboard-page .card i {
+  font-size: 2.2em;
+  color: var(--orange);
+  margin-bottom: 0.5em;
+}
+
+.dashboard-page .card h3 {
+  font-size: 1.4em;
+  margin: 0.5em 0;
+}
+
+.dashboard-page .card p {
+  font-size: 1em;
+  color: var(--gray);
+}
+
+/* Learning Bites */
+.dashboard-page .learning-bites {
+  background: var(--white);
+  padding: 3em 5vw;
+  margin-top: 2em;
+}
+
+.dashboard-page .learning-bites h2 {
+  text-align: center;
+  margin-bottom: 2em;
+  font-size: 2em;
+}
+
+.dashboard-page .tiles {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 2em;
+}
+
+.dashboard-page .tile {
+  background: var(--light);
+  border-left: 5px solid var(--orange);
+  padding: 1.5em;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.06);
+}
+
+.dashboard-page .tile h4 {
+  margin-bottom: 0.6em;
+  color: var(--navy);
+  font-size: 1.3em;
+}
+
+.dashboard-page .tile ul {
+  padding-left: 1.2em;
+  font-size: 1em;
+  color: var(--gray);
+}
+
+/* Quote Box */
+.dashboard-page .quote-box {
+  background: linear-gradient(135deg, #fff, #f7f7f7);
+  margin: 3em auto;
+  text-align: center;
+  padding: 2.5em 3em;
+  border-radius: 15px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.07);
+  max-width: 700px;
+}
+
+.dashboard-page .quote-box i {
+  color: var(--orange);
+  font-size: 2.2em;
+  margin-bottom: 0.5em;
+}
+
+.dashboard-page .quote-box blockquote {
+  font-size: 1.3em;
+  font-style: italic;
+  color: #444;
+  margin: 0.5em 0;
+}
+
+.dashboard-page .quote-box span {
+  display: block;
+  margin-top: 0.5em;
+  font-size: 1em;
+  color: var(--gray);
+}
+
+/* Dashboard feedback button */
+.dashboard-feedback-btn {
+  position: fixed;
+  bottom: 1.5em;
+  right: 1.5em;
+  background: #f77f00;
+  /* Orange */
+  color: white;
+  border: none;
+  padding: 0.8em 1.2em;
+  border-radius: 50px;
+  font-size: 0.75em;
+  cursor: pointer;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+  transition: transform 0.3s ease;
+}
+
+.dashboard-feedback-btn:hover {
+  background: #d32f2f;
+  /* Red on hover */
+  transform: translateY(-5px);
+  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.3);
+}
+
+
+/* Dashboard feedback modal backdrop */
+.dashboard-feedback-modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  backdrop-filter: blur(4px);
+  display: none;
+  align-items: center;
+  justify-content: center;
+  z-index: 1001;
+}
+
+.dashboard-feedback-modal.open {
+  display: flex;
+}
+
+/* Modal content box */
+.dashboard-feedback-modal .modal-content {
+  background: #1b263b;
+  padding: 2em;
+  border-radius: 15px;
+  width: 90%;
+  max-width: 500px;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.5);
+}
+
+/* Form controls inside the modal */
+.dashboard-feedback-modal input,
+.dashboard-feedback-modal select,
+.dashboard-feedback-modal textarea {
+  width: 100%;
+  margin-bottom: 1em;
+  padding: 0.75em;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  font-size: 1em;
+  color: #333 !important;
+}
+
+.dashboard-feedback-modal textarea h2 {
+  color: #ffffff !important;
+}
+
+/* Submit button inside the modal */
+.dashboard-feedback-modal button {
+  background: #f77f00;
+  color: white;
+  border: none;
+  padding: 0.75em 1em;
+  border-radius: 25px;
+  font-size: 1em;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+.dashboard-feedback-modal button:hover {
+  background: #d32f2f;
+}
+
+
+
+.dashboard-page .chat-assistant-fab {
+  position: fixed;
+  bottom: 70px;
+  /* Above the feedback button if you keep both */
+  right: 24px;
+  z-index: 999;
+  background: var(--orange);
+  color: #fff;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.2em;
+  transition: background 0.3s;
+  cursor: pointer;
+  border: none;
+  text-decoration: none;
+}
+
+.dashboard-page .chat-assistant-fab:hover {
+  background: #e53935;
+  color: #fff;
+}
+
+.dashboard-feedback-btn {
+  opacity: 0;
+  animation: fadeInUp 0.8s ease-out 1s forwards;
+}
+
+/* Footer */
+.dashboard-page footer {
+  background: var(--navy);
+  color: #fff;
+  text-align: center;
+  padding: 2em 1em;
+  font-size: 1em;
+}
+
+/* Responsive tweaks */
+@media (max-width: 768px) {
+  .dashboard-page {
+    font-size: 1em;
+  }
+
+  .dashboard-page .hero h2 {
+    font-size: 2em;
+  }
+
+  .dashboard-page .quote-box blockquote {
+    font-size: 1.1em;
+  }
+}
+
+
+/* Animations */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes slideIn {
+  from {
+    transform: translateY(-30px);
+    opacity: 0;
+  }
+
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+@keyframes fadeInUp {
+  from {
+    transform: translateY(30px);
+    opacity: 0;
+  }
+
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+
+/* .landing-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1rem 5vw;
+}
+
+.landing-header nav a {
+  margin-right: 1rem;
+  color: #fff;
+}
+
+.header-avatar img {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+}
+
+.header-avatar i {
+  font-size: 2rem;
+  color: #fff;
+} */

@@ -1,0 +1,108 @@
+/* ── Desktop by default ─────────────────────────────────────── */
+.site-header {
+    
+  display: flex;
+  position: sticky;
+  top: 0;
+  width: 100%;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0em 1em;
+  background: var(--navy);
+  z-index: 1000;
+  animation: slideDown 0.5s ease-in-out;
+}
+
+
+/* hide hamburger on desktop */
+.nav-toggle {
+  display: none;
+  background: none;
+  border: none;
+  font-size: 1.04em;
+  color: var(--white);
+  cursor: pointer;
+}
+.nav-toggle :hover{
+    color: #f77f00;
+}
+.nav-toggle nav a::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  bottom: 8px;
+  width: 0%;
+  height: 2px;
+  background-color: var(--orange);
+  transition: width 0.3s ease;
+}
+.landing-header nav a:hover::after {
+  width: 100%;
+}
+
+/* your normal horizontal nav */
+.site-nav ul {
+  display: flex;
+  gap: 0.5em;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.site-nav a {
+  color: var(--white);
+  text-decoration: none;
+  font-weight: 300;
+}
+.site-nav a:hover {
+  color: var(--orange);
+}
+
+
+/* ── Mobile (<768px) ──────────────────────────────────────── */
+@media (max-width: 768px) {
+  /* show hamburger */
+  .nav-toggle {
+    display: block;
+  }
+
+  /* collapse nav off-canvas */
+  .site-nav {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    background: var(--navy);
+    overflow: hidden;
+    max-height: 0;
+    transition: max-height 0.3s ease;
+  }
+
+  /* when you add .open in React, it slides down */
+  .site-nav.open {
+    max-height: 600px; /* enough to show all links */
+  }
+
+  /* stack links vertically */
+  .site-nav ul {
+    flex-direction: column;
+    padding: 1em 0;
+  }
+  .site-nav li {
+    padding: 0.2em 1em;
+  }
+}
+
+@media (min-width: 769px) {
+  /* kill the duplicate site-header once you’ve got your real navbar in place */
+  .site-header {
+    display: none;
+  }
+}
+/* ── Mobile: hide the landing-header entirely ───────────────── */
+@media (max-width: 768px) {
+  .landing-header {
+    display: none !important;
+  }
+}

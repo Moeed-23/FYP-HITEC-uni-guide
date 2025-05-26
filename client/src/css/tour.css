@@ -1,0 +1,288 @@
+/* Global Styles */
+body {
+  font-family: 'Roboto', Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(to right, #0d1b2a, #1b263b);
+  color: #ffffff;
+  overflow-x: hidden;
+}
+
+/* Intro Section */
+.tourIntro {
+  text-align: center;
+  padding: 2.5em 1em;
+  background: linear-gradient(135deg, #1b263b, #0d1b2a);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+  border-bottom-left-radius: 50px;
+  border-bottom-right-radius: 50px;
+}
+.tourIntro h1 {
+  font-size: 3em;
+  letter-spacing: 2px;
+  animation: fadeIn 2s ease-in-out;
+}
+.tourIntro p {
+  font-size: 1.2em;
+  color: #a8dadc;
+  margin-top: 0.5em;
+  animation: slideIn 1.5s ease-in-out;
+}
+
+/* Search Bar */
+.tourSearchBar {
+  text-align: center;
+  margin: 2em 0;
+}
+.tourSearchBar .searchContainer {
+  position: relative;
+  width: 100%;
+  max-width: 600px;
+  margin: 0 auto;
+}
+.tourSearchBar input {
+  width: 100%;
+  padding: 12px 50px 12px 16px;
+  border: 2px solid #ccc;
+  border-radius: 30px;
+  font-size: 1rem;
+  outline: none;
+  color: #333;
+}
+.tourSearchBar button {
+  position: absolute;
+  right: 8px;
+  top: 50%;
+  transform: translateY(-50%);
+  background-color: #f77f00;
+  border: none;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  color: white;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+.tourSearchBar button:hover {
+  background-color: #d32f2f;
+}
+
+/* Suggestions Dropdown */
+.tourSearchBar .searchContainer .suggestions {
+  position: absolute;
+  top: calc(100% + 4px);
+  left: 0;
+  width: 100%;
+  max-height: 200px;
+  overflow-y: auto;
+  background-color: white;
+  border: 1px solid #ccc;
+  border-top: none;
+  border-radius: 0 0 8px 8px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  z-index: 10;
+  color: black;
+}
+.tourSearchBar .searchContainer .suggestions li {
+  list-style: none;
+  padding: 10px 16px;
+  font-size: 0.95rem;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+.tourSearchBar .searchContainer .suggestions li:hover {
+  background-color: #f5f5f5;
+}
+
+/* Map Cards Grid */
+.mapSection {
+  padding: 3em 2em;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2em;
+  justify-content: center;
+}
+.mapCard {
+  background-color: #1b263b;
+  border-radius: 15px;
+  padding: 1.5em;
+  width: 320px;
+  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.3);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.mapCard:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.5);
+}
+.mapCard .mapThumbnail,
+.mapCard iframe {
+  width: 100%;
+  height: 200px;
+  border: none;
+  border-radius: 10px;
+  margin-bottom: 1em;
+}
+.mapCard h3 {
+  font-size: 1.4em;
+  margin-bottom: 0.5em;
+}
+.mapCard p {
+  font-size: 1em;
+  color: #a8dadc;
+}
+.mapCard .viewMapBtn {
+  display: inline-block;
+  margin-top: 0.75em;
+  color: #f77f00;
+  text-decoration: none;
+  font-weight: bold;
+  transition: color 0.2s;
+}
+.mapCard .viewMapBtn:hover {
+  color: #ffb74d;
+}
+
+/* FAQ Section */
+.faqSection {
+  background-color: #142d4c;
+  padding: 3em;
+  text-align: center;
+}
+.faqSection h2 {
+  margin-bottom: 1.5em;
+  font-size: 2.5em;
+}
+.faqCard {
+  text-align: left;
+  margin: 0 auto 1em;
+  max-width: 800px;
+  background: #1b263b;
+  padding: 1.5em;
+  border-radius: 15px;
+  color: #ffffff;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+}
+
+/* Feedback Button */
+.feedback-btn {
+  position: fixed;
+  bottom: 1.5em;
+  right: 1.5em;
+  background: #f77f00; /* Orange */
+  color: white;
+  border: none;
+  padding: 0.8em 1.2em;
+  border-radius: 50px;
+  font-size: 0.8em;
+  cursor: pointer;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+  transition: background 0.3s, transform 0.2s;
+}
+
+.feedback-btn:hover {
+  background: #d32f2f;   /* Red on hover */
+  transform: translateY(-5px);
+  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.3);
+}
+
+/* Feedback Modal */
+.feedback-modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  backdrop-filter: blur(4px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.feedback-modal .modal-content {
+  background: #1b263b;
+  padding: 2em;
+  border-radius: 15px;
+  width: 90%;
+  max-width: 500px;
+  box-shadow: 0 6px 20px rgba(0,0,0,0.5);
+}
+.feedback-modal input,
+.feedback-modal select,
+.feedback-modal textarea {
+  width: 100%;
+  margin-bottom: 1em;
+  padding: 0.75em;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  font-size: 1em;
+  color: #333 !important;
+}
+.feedback-modal button {
+  background: #f77f00;
+  color: white;
+  border: none;
+  padding: 0.75em 1em;
+  border-radius: 25px;
+  font-size: 1em;
+  cursor: pointer;
+  transition: transform 0.3s ease; 
+}
+.feedback-modal button:hover {
+  background: #d32f2f;
+}
+
+.feedback-btn {
+  opacity: 0;
+  animation: fadeInUp 0.8s ease-out 1s forwards;
+}
+
+/* Footer */
+.tourFooter {
+  background-color: #1b263b;
+  text-align: center;
+  padding: 1.5em;
+  margin-top: 2em;
+  box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.1);
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+}
+.tourFooter p {
+  margin: 0;
+  font-size: 1em;
+}
+.tourSocialIcons {
+  margin-top: 1em;
+  display: flex;
+  justify-content: center;
+  gap: 1em;
+}
+.tourSocialIcons a {
+  color: white;
+  font-size: 1.5em;
+  transition: color 0.3s;
+}
+.tourSocialIcons a:hover {
+  color: #f77f00;
+}
+
+/* Sub-block label */
+.subBlockLabel {
+  color: #555;
+  font-size: 14px;
+  margin-bottom: 5px;
+  font-style: italic;
+}
+
+/* Animations */
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}
+@keyframes slideIn {
+  from { transform: translateY(-30px); opacity: 0; }
+  to   { transform: translateY(0);     opacity: 1; }
+}
+@keyframes fadeInUp {
+  from { transform: translateY(30px);  opacity: 0; }
+  to   { transform: translateY(0);     opacity: 1; }
+}
+

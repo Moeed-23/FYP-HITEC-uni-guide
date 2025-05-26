@@ -1,0 +1,520 @@
+/* industry_integration.css */
+
+/* 2. Intro / Hero */
+.intro {
+  background: #e9f0f7;
+}
+
+.intro-content {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 2em;
+  padding: 4em 2em;
+  max-width: 1200px;
+  margin: auto;
+}
+
+.intro-text {
+  flex: 1 1 400px;
+  text-align: left;
+}
+
+.intro-text h2 {
+  color: #23303b;
+  font-size: 2.8em;
+  margin-bottom: 0.5em;
+}
+
+
+.intro-text p {
+  font-size: 1.2em;
+  margin-bottom: 1.5em;
+  color: #0d1b2a;
+}
+
+.intro-text a {
+  display: inline-block;
+  background: #23303b;
+  color: #fff;
+  padding: 1em 2em;
+  border-radius: 30px;
+  font-weight: bold;
+  text-decoration: none;
+  transition: background 0.3s ease;
+}
+
+.intro-text a:hover {
+  background: #1a2027;
+}
+
+.intro-image {
+  flex: 1 1 400px;
+}
+
+.intro-image img {
+  width: 100%;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+/* 3. Sections */
+.section {
+  padding: 4em 3%;
+  background: #fff;
+  text-align: center;
+  color: #0d1b2a;
+
+}
+.section h2{
+  font-size: 2em;
+  font-weight: 300;
+}
+
+
+/* 4. Feature cards */
+.feature-cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 3em;
+  margin-top: 2.5em;
+}
+
+.feature-card {
+  background: #f9f9f9;
+  padding: 2.5em;
+  border-radius: 12px;
+  box-shadow: 0 5px 12px rgba(0, 0, 0, 0.1);
+  width: 320px;
+  text-align: left;
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.feature-card:hover {
+  transform: scale(1.03);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+}
+
+.feature-card h3 {
+  color: #23303b;
+  font-size: 1.6em;
+}
+
+.feature-card p {
+  color: #333;
+  font-size: 1.1em;
+  margin: 1.2em 0;
+}
+
+.link {
+  color: rgba(0, 0, 255, 0.591);
+}
+
+
+/* 5. Profile section & job-match */
+.profile-section {
+  padding: 3em 2em;
+  background: #f7f7f7;
+  text-align: center;
+  margin-top: 4em;
+  border-radius: 10px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+  color: #0d1b2a;
+
+}
+
+.profile-section h2 {
+  font-size: 2em;
+  font-weight: 300;
+}
+.profile-section h3 {
+  font-size: 1.5em;
+  font-weight: 300;
+  padding-bottom: 20px;
+  text-align: center;
+}
+
+.job-match-card {
+  background: #f9f9f9;
+  padding: 2.5em;
+  border-radius: 12px;
+  box-shadow: 0 5px 12px rgba(0, 0, 0, 0.1);
+  width: 90%;
+  max-width: 500px;
+  margin: 2.5em auto 0;
+  text-align: center;
+
+}
+
+.job-match-card ul {
+  text-align: left;
+  list-style-type: square;
+  padding-left: 1.2em;
+  padding-bottom: 20px;
+  text-align:justify;
+}
+
+.job-match-card a {
+  display: inline-block;
+  background: #23303b;
+  color: #fff;
+  padding: 1em 2.5em;
+  border-radius: 35px;
+  font-weight: bold;
+  text-decoration: none;
+  transition: transform 0.3s ease; 
+}
+
+.job-match-card a:hover {
+  background: #1a2027;
+}
+
+/* 6. Feedback button & modal */
+.feedback-btn {
+  position: fixed;
+  bottom: 1.5em;
+  right: 1.5em;
+  background: #f77f00; /* Orange */
+  color: white;
+  border: none;
+  padding: 0.8em 1.2em;
+  border-radius: 50px;
+  font-size: 0.8em;
+  cursor: pointer;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+  transition: background 0.3s, transform 0.2s;
+}
+
+.feedback-btn:hover {
+  background: #d32f2f;   /* Red on hover */
+  transform: translateY(-5px);
+  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.3);
+}
+
+.feedback-modal {
+  position: fixed;
+  inset: 0;
+  display: none;
+  justify-content: center;
+  align-items: center;
+  background: rgba(0, 0, 0, 0.7);
+  z-index: 2000;
+}
+
+.feedback-modal.open {
+  display: flex;
+}
+
+body.modal-open {
+  overflow: hidden;
+}
+
+.modal-content {
+  width: 90%;
+  max-width: 600px;
+  border-radius: 15px;
+  overflow: hidden;
+  background: #1b263b;
+}
+
+.feedback-header {
+  text-align: center;
+  padding: 2.5em 1em;
+  background: #0d1b2a;
+}
+
+.feedback-header h1 {
+  margin: 0;
+  font-size: 3em;
+  color: #fff;
+}
+
+.feedback-header p {
+  margin-top: 0.5em;
+  font-size: 1.2em;
+  color: #a8dadc;
+}
+
+.feedback-form {
+  padding: 2em;
+  color: #fff;
+}
+
+.feedback-form label {
+  display: block;
+  margin-bottom: 0.5em;
+  font-weight: bold;
+}
+
+.feedback-form input,
+.feedback-form textarea,
+.feedback-form select {
+  width: 100%;
+  padding: 0.8em;
+  margin-bottom: 1.5em;
+  border: none;
+  border-radius: 5px;
+  background: #142d4c;
+  color: #fff;
+  font-size: 1em;
+}
+
+.feedback-form button {
+  background: #f77f00;
+  color: #fff;
+  border: none;
+  padding: 0.8em 1.5em;
+  border-radius: 25px;
+  font-size: 1em;
+  cursor: pointer;
+  display: block;
+  margin: 0 auto;
+}
+
+.feedback-form button:hover {
+  background: #e63946;
+}
+
+/* 7. Contact widget */
+.contact-widget {
+  position: fixed;
+  bottom: 65px;
+  right: 20px;
+  background: #23303b;
+  color: #fff;
+  padding: 10px 15px;
+  border-radius: 50px;
+  font-weight: bold;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+  cursor: pointer;
+  z-index: 2002;
+  transition: transform 0.3s ease;
+}
+
+.contact-widget:hover {
+  transform: scale(1.1);
+}
+
+.chat-assistant-fab1 {
+  position: fixed;
+  bottom: 115px;           
+  right: 24px;
+  z-index: 999;
+  background: var(--orange);
+  color: #fff;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.2);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.2em;
+  cursor: pointer;
+  border: none;
+  text-decoration: none;
+  transition: transform 0.3s ease;
+}
+
+.chat-assistant-fab1:hover {
+  background: #e53935;
+  color: #fff;
+}
+/* 8. Footer & social icons */
+footer {
+  background: #1b263b;
+  color: #fff;
+  text-align: center;
+  padding: 1.5em;
+  margin-top: 2em;
+}
+
+.social-icons {
+  margin-top: 1em;
+  display: flex;
+  justify-content: center;
+  gap: 1em;
+}
+
+.social-icons a {
+  color: #fff;
+  font-size: 1.5em;
+  transition: color 0.3s ease;
+}
+
+.social-icons a:hover {
+  color: #f77f00;
+}
+
+.contact-widget {
+  opacity: 0;
+  animation: fadeInUp 0.8s ease-out 1s forwards;
+  z-index: 1000;
+  /* stay on top of footer */
+}
+
+.chat-assistant-fab1 {
+  opacity: 0;
+  animation: fadeInUp 0.8s ease-out 1s forwards;
+
+}
+
+
+
+/* Animations */
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}
+@keyframes slideIn {
+  from { transform: translateY(-30px); opacity: 0; }
+  to   { transform: translateY(0);     opacity: 1; }
+}
+@keyframes fadeInUp {
+  from { transform: translateY(30px);  opacity: 0; }
+  to   { transform: translateY(0);     opacity: 1; }
+}
+
+/* ─── Responsive ──────────────────────────────────────────────── */
+/* Tablets & small desktops (≤768px) */
+@media (max-width: 768px) {
+
+  /* Hero intro stacks vertically */
+  .intro-content {
+    flex-direction: column;
+    padding: 2em 1em;
+    gap: 1.5em;
+  }
+  .intro-text,
+  .intro-image {
+    flex: 1 1 100%;
+  }
+  .intro-text {
+    text-align: center;
+  }
+  .intro-text h2 {
+    font-size: 2.2em;
+  }
+  .intro-text p {
+    font-size: 1em;
+  }
+  .intro-text a {
+    padding: .8em 1.2em;
+    font-size: .9em;
+  }
+
+  /* Section headings */
+  .section h2 {
+    font-size: 1.6em;
+  }
+
+  /* Feature cards: full-width stack */
+  .feature-cards {
+    flex-direction: column;
+    gap: 2em;
+  }
+  .feature-card {
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 2em;
+  }
+  .feature-card h3 {
+    font-size: 1.4em;
+  }
+  .feature-card p {
+    font-size: 1em;
+  }
+
+  /* Profile / job-match */
+  .profile-section {
+    padding: 2em 1em;
+  }
+  .profile-section h2 {
+    font-size: 1.8em;
+  }
+  .job-match-card {
+    width: 100%;
+    padding: 2em;
+  }
+  .job-match-card h3 {
+    font-size: 1.4em;
+  }
+  .job-match-card ul {
+    font-size: .95em;
+    padding-left: 1em;
+  }
+  .job-match-card a {
+    padding: .8em 1.2em;
+    font-size: .9em;
+  }
+
+}
+/* Mobile phones (≤480px) */
+@media (max-width: 480px) {
+
+  /* Hero */
+  .intro-content {
+    padding: 1.5em .5em;
+    gap: 1em;
+  }
+  .intro-text h2 {
+    font-size: 1.8em;
+  }
+  .intro-text p {
+    font-size: .95em;
+  }
+  .intro-text a {
+    padding: .6em 1em;
+    font-size: .85em;
+  }
+
+  /* Sections */
+  .section h2 {
+    font-size: 1.4em;
+  }
+
+  /* Feature cards */
+  .feature-card {
+    padding: 1.5em;
+  }
+  .feature-card h3 {
+    font-size: 1.2em;
+  }
+  .feature-card p {
+    font-size: .9em;
+  }
+
+  /* Profile */
+  .profile-section {
+    padding: 1.5em .8em;
+  }
+  .profile-section h2 {
+    font-size: 1.6em;
+  }
+  .job-match-card {
+    padding: 1.5em;
+  }
+  .job-match-card h3 {
+    font-size: 1.3em;
+  }
+  .job-match-card ul {
+    font-size: .85em;
+  }
+
+  /* Contact widget */
+  .contact-widget {
+    bottom: 5.5em;
+    right: .8em;
+    padding: .6em .8em;
+    font-size: .85em;
+  }
+
+  /* Footer */
+  footer {
+    padding: 1em .5em;
+    font-size: .8em;
+  }
+}

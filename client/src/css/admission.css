@@ -1,0 +1,155 @@
+:root {
+  --navy: #1b263b;
+  --orange: #f77f00;
+  --white: #ffffff;
+  --light-gray: #f8f9fa;
+}
+
+body {
+  font-family: 'Segoe UI', sans-serif;
+  margin: 0;
+  background: var(--white);
+  color: var(--navy);
+  scroll-behavior: smooth;
+}
+
+.admissions-page header {
+  background: var(--navy);
+  color: white;
+  padding: 1.2em 2em;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
+
+.admissions-page header h1 a {
+  color: var(--orange);
+  text-decoration: none;
+  font-size: 1.6em;
+}
+
+.admissions-page nav a {
+  color: white;
+  margin-left: 1.2em;
+  text-decoration: none;
+  transition: 0.3s;
+}
+.admissions-page nav a:hover {
+  color: var(--orange);
+}
+
+.admissions-page .hero {
+  background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)),
+    url('https://www.shutterstock.com/image-photo/exam-school-students-taking-educational-600nw-2470275967.jpg')
+    center/cover no-repeat;
+  text-align: center;
+  color: white;
+  padding: 7em 2em;
+}
+.admissions-page .hero h1 {
+  font-size: 3em;
+  color: var(--orange);
+}
+.admissions-page .hero p {
+  font-size: 1.2em;
+  margin-top: 0.5em;
+  color: #f8f9fa !important;
+}
+
+.admissions-page .cta-button {
+  background: var(--orange);
+  color: white;
+  padding: 0.8em 1.5em;
+  border-radius: 30px;
+  text-decoration: none;
+  font-weight: bold;
+  margin-top: 1.5em;
+  display: inline-block;
+  transition: all 0.4s ease;
+  box-shadow: 0 0 0 rgba(0, 0, 0, 0);
+}
+.admissions-page .cta-button:hover {
+  transform: scale(1.08);
+  box-shadow: 0 0 20px rgba(247, 127, 0, 0.5);
+}
+
+.admissions-page .features {
+  padding: 5em 2em;
+  background: var(--light-gray);
+  text-align: center;
+}
+.admissions-page .features h2 {
+  color: var(--orange);
+  margin-bottom: 1em;
+  font-size: 2em;
+}
+
+.admissions-page .cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 2em;
+  margin-top: 2em;
+}
+
+.admissions-page .card {
+  background: white;
+  padding: 2em;
+  border-radius: 15px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+  transition: transform 0.5s ease, box-shadow 0.4s ease;
+  position: relative;
+}
+.admissions-page .card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 8px 20px rgba(247, 127, 0, 0.3);
+}
+.admissions-page .card i {
+  font-size: 2.2em;
+  margin-bottom: 0.6em;
+  color: var(--orange);
+}
+.admissions-page .card h3 {
+  color: var(--orange);
+  margin-top: 1em;
+}
+
+.admissions-page .popup {
+  background: var(--white);
+  border: 2px solid var(--orange);
+  color: black !important;
+  border-radius: 10px;
+  padding: 1em;
+  max-width: 300px;
+  position: fixed;
+  top: 90px;
+  right: 20px;
+  z-index: 2000;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.15);
+}
+
+
+#admissions-page #scrollTopBtn,
+.admissions-page #scrollTopBtn {
+  position: fixed;
+  bottom: 20px;
+  left: 20px;
+  background: var(--orange);
+  color: white;
+  border: none;
+  border-radius: 50%;
+  width: 45px;
+  height: 45px;
+  font-size: 18px;
+  cursor: pointer;
+  display: block;
+  z-index: 2000;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+
+@media (max-width: 768px) {
+  .admissions-page .hero h1 { font-size: 2.2em; }
+  .admissions-page .hero p  { font-size: 1em;   }
+}

@@ -1,0 +1,392 @@
+@import '../theme.css';
+
+/* Page wrapper */
+.schedule-page {
+  padding: 2em 5vw;
+  background: var(--light);
+  color: var(--navy);
+  font-family: var(--font-base);
+  animation: fadeIn 0.7s ease-out;
+   margin-bottom: -3.5rem;
+  width: 100%;
+  min-width: 100%;
+  min-height: 100vh;
+}
+.schedule-page h2 {
+  text-align: center;
+  color: var(--orange);
+  font-size: 2.4em;
+  margin: 1em 0;
+}
+
+/* Official Calendar Sections */
+.official-section {
+  margin-bottom: 2.5em;
+}
+.sem-title {
+  font-size: 1.8em;
+  color: var(--navy);
+  border-bottom: 2px solid var(--orange);
+  display: inline-block;
+  margin-bottom: 1em;
+}
+.official-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 1em;
+}
+.official-card {
+  background: var(--white);
+  padding: 1em;
+  border-radius: var(--radius);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+  transition: var(--transition);
+  border: 0.5px solid transparent;
+}
+.official-card:hover {
+  transform: translateY(-6px);
+  border-color: var(--orange);
+  box-shadow: 0 0 15px var(--glow);
+}
+.official-card h4 {
+  margin: 0 0 0.5em;
+  color: var(--navy);
+}
+.dates {
+  font-size: 0.9em;
+  color: rgba(0,0,0,0.6);
+}
+.weeks {
+  margin-top: 0.5em;
+  font-size: 0.85em;
+  color: var(--orange);
+}
+
+/* Holidays */
+.holidays .holiday-list {
+  list-style: none;
+  padding: 0;
+}
+.holidays .holiday-list li {
+  padding: 0.5em 0;
+  border-bottom: 1px solid rgba(0,0,0,0.1);
+  font-size: 0.95em;
+}
+.holidays .note {
+  color: rgba(0,0,0,0.5);
+  font-style: italic;
+}
+
+/* Personal Schedule Header */
+.personal-title {
+  margin: 3em 0 1em;
+}
+
+/* Add-Event Form */
+.schedule-form {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1em;
+  max-width: 900px;
+  margin: 0 auto 2em;
+  background: var(--white);
+  padding: 1.5em;
+  border-radius: var(--radius);
+  box-shadow: 0 6px 18px rgba(0,0,0,0.05);
+}
+.schedule-form input {
+  flex: 1 1 200px;
+  padding: 0.75em;
+  border: 1px solid #ccc;
+  border-radius: var(--radius);
+  font-size: 1em;
+}
+.schedule-form textarea {
+  flex: 1 1 100%;
+  padding: 0.75em;
+  border: 1px solid #ccc;
+  border-radius: var(--radius);
+  font-family: var(--font-base);
+  font-size: 1em;
+  resize: vertical;
+  min-height: 4.5em;
+}
+.schedule-form button {
+  flex: 1 1 140px;
+  background: var(--orange);
+  color: #fff;
+  border: none;
+  border-radius: var(--radius);
+  cursor: pointer;
+  font-size: 1em;
+  transition: var(--transition);
+}
+.schedule-form button:disabled {
+  opacity: 0.6;
+  cursor: default;
+}
+.schedule-form button:hover:not(:disabled) {
+  background: #e66e00;
+}
+
+/* Personal Schedule Cards */
+.schedule-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 1.5em;
+  max-width: 1200px;
+  white-space: normal;
+  overflow-wrap: break-word;
+  word-break: break-word;
+  margin: auto;
+  margin-bottom: 4rem;
+}
+.schedule-card {
+  position: relative;
+  background: var(--white);
+  border: 1px solid transparent;
+  border-radius: var(--radius);
+  padding: 1.6em;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.05);
+  transition: var(--transition);
+  border-left: 4px solid transparent;
+  
+}
+.schedule-card.upcoming {
+  border-left-color: var(--orange);
+}
+.schedule-card:hover {
+  transform: translateY(-6px);
+  border-color: var(--orange);
+  box-shadow: 0 0 15px var(--glow);
+}
+.delete-btn {
+  position: absolute;
+  top: 0.5em;
+  right: 0.5em;
+  background: transparent;
+  border: none;
+  color: #d32f2f;
+  font-size: 1.2em;
+  cursor: pointer;
+  transition: color 0.2s;
+}
+.delete-btn:hover {
+  color: #b71c1c;
+}
+.course {
+  margin: 0 0 0.5em;
+  color: var(--navy);
+  font-size: 1.2em;
+  font-weight: 600;
+}
+.datetime {
+  display: flex;
+  gap: 0.75em;
+  font-size: 0.9em;
+  color: rgba(0,0,0,0.6);
+}
+
+/* Fade-in */
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}
+
+/* Responsive */
+@media (max-width: 600px) {
+  .schedule-form {
+    flex-direction: column;
+  }
+}
+/* ── Tablet & small desktop (≤768px) ──────────────────────────── */
+@media (max-width: 768px) {
+  /* Page padding and headings */
+  .schedule-page {
+    padding: 1.5em 1em;
+  }
+  .schedule-page h2,
+  .personal-title {
+    font-size: 1.8em;
+  }
+
+  /* Official calendar grid → single column */
+  .official-grid {
+    grid-template-columns: 1fr;
+    gap: 0.8em;
+  }
+  .official-card {
+    padding: 1em;
+  }
+  .sem-title {
+    font-size: 1.5em;
+  }
+
+  /* Holidays list tighter */
+  .holidays .holiday-list li {
+    font-size: 0.9em;
+    padding: 0.4em 0;
+  }
+
+  /* Add‐event form stacks */
+  .schedule-form {
+    flex-direction: column;
+    padding: 1em;
+    gap: 0.8em;
+  }
+  .schedule-form input,
+  .schedule-form textarea,
+  .schedule-form button {
+    font-size: 0.9em;
+  }
+
+  /* Reminders → single‐column cards */
+  .schedule-cards {
+    grid-template-columns: 1fr;
+    gap: 1em;
+  }
+  .schedule-card {
+    padding: 1em;
+  }
+  .delete-btn {
+    font-size: 1em;
+    top: 0.4em;
+    right: 0.4em;
+  }
+}
+
+/* ── Mobile phones (≤480px) ─────────────────────────────────────── */
+@media (max-width: 480px) {
+  /* Even smaller headings */
+  .schedule-page h2,
+  .personal-title {
+    font-size: 1.5em;
+  }
+  .sem-title {
+    font-size: 1.3em;
+  }
+
+  /* Holiday text & list */
+  .holidays .holiday-list li {
+    font-size: 0.8em;
+  }
+
+  /* Form inputs & button */
+  .schedule-form input,
+  .schedule-form textarea {
+    font-size: 0.85em;
+    padding: 0.6em;
+  }
+  .schedule-form button {
+    font-size: 0.85em;
+    padding: 0.6em;
+  }
+
+  /* Card text smaller */
+  .schedule-card {
+    padding: 0.8em;
+  }
+  .datetime {
+    font-size: 0.8em;
+  }
+
+  /* Scroll‐to‐top button smaller and closer */
+  #scrollTopBtn {
+    bottom: 12px;
+    right: 12px;
+    font-size: 1em;
+  }
+}
+/* ── Tighter Add‐Reminder Form on Mobile (≤480px) ───────────────── */
+@media (max-width: 480px) {
+  .schedule-form {
+    gap: 0.5rem;
+    padding: 1rem;
+  }
+
+  .schedule-form textarea,
+  .schedule-form input[type="date"],
+  .schedule-form input[type="time"] {
+    padding: 0.5rem 0.75rem;
+    font-size: 0.9rem;
+    min-height: auto;
+    height: auto;
+  }
+
+  .schedule-form textarea {
+    min-height: 3em;      /* shrink the tall textbox */
+  }
+
+  .schedule-form button {
+    padding: 0.6rem;
+    font-size: 0.95rem;
+  }
+}
+
+/* ── Compact Reminders on Phones (≤480px) ───────────────────── */
+@media (max-width: 480px) {
+  /* tighten the gap between cards */
+  .schedule-cards {
+    gap: 0.6rem;
+  }
+
+  /* shrink each card’s padding */
+  .schedule-card {
+    padding: 0.8rem;
+  }
+
+  /* smaller reminder text */
+  .schedule-card .reminder-text {
+    font-size: 0.9rem;
+    line-height: 1.2;
+    margin-bottom: 0.4rem;
+  }
+
+  /* smaller date/time line */
+  .schedule-card .datetime {
+    font-size: 0.75rem;
+    gap: 0.4rem;
+  }
+
+  /* shrink the delete “×” */
+  .delete-btn {
+    top: 0.3rem;
+    right: 0.3rem;
+    font-size: 1rem;
+  }
+
+  /* collapse into single column */
+  .schedule-cards {
+    grid-template-columns: 1fr;
+  }
+}
+/* ── Ultra-Compact Add-Reminder Form on Phones (≤480px) ───────────────── */
+@media (max-width: 480px) {
+  .schedule-form {
+    padding: 0.8rem !important;
+    gap: 0.4rem !important;
+  }
+
+  /* override the 1 1 200px basis and tall min-heights */
+  .schedule-form input[type="date"],
+  .schedule-form input[type="time"],
+  .schedule-form textarea {
+    flex: 1 1 auto !important;
+    min-width: auto !important;
+    padding: 0.4rem !important;
+    font-size: 0.9rem !important;
+    height: auto !important;
+    min-height: 0 !important;
+  }
+
+  /* give just enough height to textarea */
+  .schedule-form textarea {
+    min-height: 2.5em !important;
+  }
+
+  .schedule-form button {
+    flex: 1 1 auto !important;
+    padding: 0.5rem !important;
+    font-size: 0.9rem !important;
+  }
+}

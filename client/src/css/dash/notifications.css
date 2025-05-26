@@ -1,0 +1,163 @@
+@import '../theme.css';
+
+/* Loader & error states */
+.loader {
+  padding: 2em;
+  text-align: center;
+  font-size: 1.2em;
+  color: var(--navy);
+}
+
+.error-banner {
+  background: #ffe5e5;
+  color: #b00020;
+  padding: 1em;
+  border-radius: var(--radius);
+  margin-bottom: 1.5em;
+  font-weight: 500;
+}
+
+/* Page wrapper */
+.notifications-page {
+  padding: 3em 5vw;
+  background: var(--light);
+  color: var(--navy);
+  font-family: var(--font-base);
+  min-height: 100vh;
+  animation: fadeIn 0.7s ease-out;
+}
+
+.notifications-page h2 {
+  font-size: 2.4em;
+  color: var(--orange);
+  text-align: center;
+  margin-bottom: 1em;
+}
+
+/* Clear All button */
+.clear-all-btn1 {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5em;
+  background: var(--orange);
+  color: var(--white);
+  border: none;
+  padding: 0.5em 1em;
+  border-radius: var(--radius);
+  cursor: pointer;
+  font-size: 0.95em;
+  margin: 0 auto 1.5em;
+  transition: 0.2s;
+}
+.clear-all-btn1:hover {
+  opacity: 0.9;
+}
+
+/* Upcoming official events section */
+.upcoming-official {
+  margin-bottom: 2.5em;
+}
+
+.upcoming-official h3 {
+  font-size: 1.5em;
+  color: var(--navy);
+  border-bottom: 2px solid var(--orange);
+  display: inline-block;
+  margin-bottom: 0.75em;
+}
+
+/* List of notifications */
+.notifications-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+/* Individual notification */
+.notification-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 1em;
+  padding: 1em;
+  background: var(--white);
+  border-radius: var(--radius);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+  transition: var(--transition);
+  margin-bottom: 1em;
+  position: relative;
+}
+.notification-item.unread {
+  border-left: 4px solid var(--orange);
+  background: rgba(255, 243, 230, 0.6);
+}
+.notification-item.official {
+  border-left: 4px solid var(--orange);
+}
+.notification-item:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.08);
+}
+
+/* Icon indicating type */
+.notif-icon {
+  font-size: 1.5em;
+  flex-shrink: 0;
+}
+
+/* Notification text container */
+.notif-body {
+  flex: 1;
+}
+
+/* Message text */
+.notif-msg {
+  margin: 0 0 0.5em;
+  font-size: 1em;
+  color: var(--navy);
+  line-height: 1.4;
+}
+
+/* Timestamp */
+.notif-time {
+  display: block;
+  font-size: 0.85em;
+  color: rgba(0, 0, 0, 0.5);
+  font-family: monospace;
+}
+
+/* Individual delete icon */
+.delete-notif-btn {
+  background: transparent;
+  border: none;
+  font-size: 1.2em;
+  color: rgba(0, 0, 0, 0.3);
+  position: absolute;
+  top: 0.5em;
+  right: 0.5em;
+  cursor: pointer;
+  transition: 0.2s;
+}
+.delete-notif-btn:hover {
+  color: rgba(0, 0, 0, 0.6);
+}
+
+/* Empty state */
+.empty {
+  text-align: center;
+  color: rgba(0, 0, 0, 0.6);
+  font-size: 1.1em;
+  margin-top: 2em;
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 1.5em;
+  background: var(--white);
+  border-radius: var(--radius);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+}
+
+/* Fade-in keyframe */
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}
