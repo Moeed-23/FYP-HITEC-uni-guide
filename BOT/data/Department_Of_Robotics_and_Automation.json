@@ -1,0 +1,135 @@
+{
+  "department": "Department of Robotics and Automation",
+  "description": "BS Robotics and Automation program at HITEC University is an ensemble of electrical, electronics, mechanical, and computer technologies that builds a firm foundation of graduates in the robotics and automation field. The program focuses on interdisciplinary skills for robotic system design—incorporating mathematics, electrical, mechanics, electronics, and computer engineering—and provides state-of-the-art facilities for hands-on experience and market-ready skills.",
+  "programs": {
+    "BS Robotics and Automation": {
+      "schemeOfStudy": [
+        {
+          "semester": 1,
+          "totalCreditHours": "18",
+          "courses": [
+            { "code": "HS-101",   "courseTitle": "English",                                        "creditHours": "3+0" },
+            { "code": "MT-101",   "courseTitle": "Calculus and Analytical Geometry",               "creditHours": "3+0" },
+            { "code": "EE-102",   "courseTitle": "Linear Circuit Analysis",                       "creditHours": "3+0" },
+            { "code": "EC-110",   "courseTitle": "Computing Fundamentals",                        "creditHours": "2+1" },
+            { "code": "EE-101",   "courseTitle": "Workshop Practice",                             "creditHours": "0+1" },
+            { "code": "RB-101",   "courseTitle": "Applied Electronics",                           "creditHours": "3+0" },
+            { "code": "EE-102L",  "courseTitle": "Linear Circuit Analysis Lab",                  "creditHours": "0+1" },
+            { "code": "RB-101L",  "courseTitle": "Applied Electronics Lab",                      "creditHours": "0+1" },
+            { "code": "QT-101",   "courseTitle": "Translation of the Quran: Beliefs",            "creditHours": "1+0 (NC)" }
+          ]
+        },
+        {
+          "semester": 2,
+          "totalCreditHours": "17",
+          "courses": [
+            { "code": "MT-103",   "courseTitle": "Differential Equations",                       "creditHours": "3+0" },
+            { "code": "HS-201",   "courseTitle": "Technical Report Writing",                     "creditHours": "3+0" },
+            { "code": "IS-211",   "courseTitle": "Islamic Studies",                              "creditHours": "2+0" },
+            { "code": "HS-102",   "courseTitle": "Pakistan Studies",                             "creditHours": "2+0" },
+            { "code": "EC-112",   "courseTitle": "Object Oriented Programming",                  "creditHours": "2+1" },
+            { "code": "EE-103",   "courseTitle": "Electrical Network Analysis",                  "creditHours": "3+0" },
+            { "code": "EE-103L",  "courseTitle": "Electrical Network Analysis Lab",              "creditHours": "0+1" },
+            { "code": "HS-203",   "courseTitle": "Community Service",                            "creditHours": "0+1 (NC)" }
+          ]
+        },
+        {
+          "semester": 3,
+          "totalCreditHours": "18",
+          "courses": [
+            { "code": "MT-201",   "courseTitle": "Complex Variables & Transforms",               "creditHours": "3+0" },
+            { "code": "HS-103",   "courseTitle": "Communication Skills",                         "creditHours": "3+0" },
+            { "code": "EE-203",   "courseTitle": "Digital Logic Design",                         "creditHours": "3+0" },
+            { "code": "ME-211",   "courseTitle": "Engineering Drawing",                          "creditHours": "2+1" },
+            { "code": "EC-222",   "courseTitle": "Data Structure & Algorithms",                  "creditHours": "3+0" },
+            { "code": "RB-201",   "courseTitle": "Engineering Mechanics-I",                     "creditHours": "3+0" },
+            { "code": "RB-201L",  "courseTitle": "Engineering Mechanics-I Lab",                 "creditHours": "0+1" },
+            { "code": "EE-203L",  "courseTitle": "Digital Logic Design Lab",                    "creditHours": "0+1" },
+            { "code": "QT-201",   "courseTitle": "Translation of the Quran: Worships",          "creditHours": "1+0 (NC)" }
+          ]
+        },
+        {
+          "semester": 4,
+          "totalCreditHours": "17",
+          "courses": [
+            { "code": "RB-203",   "courseTitle": "Operating Systems",                             "creditHours": "3+0" },
+            { "code": "MT-303",   "courseTitle": "Applied Linear Algebra",                        "creditHours": "2+0" },
+            { "code": "EE-204",   "courseTitle": "Introduction to Embedded Systems",              "creditHours": "3+0" },
+            { "code": "MT-302",   "courseTitle": "Probability and Statistics",                    "creditHours": "3+0" },
+            { "code": "RB-202",   "courseTitle": "Engineering Mechanics-II",                    "creditHours": "3+0" },
+            { "code": "RB-202L",  "courseTitle": "Engineering Mechanics-II Lab",                "creditHours": "0+1" },
+            { "code": "EE-204L",  "courseTitle": "Introduction to Embedded Systems Lab",         "creditHours": "0+1" },
+            { "code": "RB-203L",  "courseTitle": "Operating Systems Lab",                        "creditHours": "0+1" }
+          ]
+        },
+        {
+          "semester": 5,
+          "totalCreditHours": "18",
+          "courses": [
+            { "code": "EE-309",   "courseTitle": "Electrical Machines",                          "creditHours": "3+0" },
+            { "code": "RB-301",   "courseTitle": "Database Systems",                             "creditHours": "3+0" },
+            { "code": "RB-302",   "courseTitle": "Introduction to Robotics",                     "creditHours": "3+0" },
+            { "code": "EE-305",   "courseTitle": "Linear Control Systems",                       "creditHours": "0+3" },
+            { "code": "EE-304",   "courseTitle": "Communication Systems",                        "creditHours": "2+0" },
+            { "code": "EE-309L",  "courseTitle": "Electrical Machines Lab",                      "creditHours": "0+1" },
+            { "code": "EE-305L",  "courseTitle": "Linear Control Systems Lab",                  "creditHours": "0+1" },
+            { "code": "RB-301L",  "courseTitle": "Database Systems Lab",                         "creditHours": "0+1" },
+            { "code": "RB-302L",  "courseTitle": "Introduction to Robotics Lab",                "creditHours": "0+1" },
+            { "code": "EE-304L",  "courseTitle": "Communication Systems Lab",                   "creditHours": "0+1" },
+            { "code": "QT-301",   "courseTitle": "Translation of the Quran: Moral Values",      "creditHours": "1+0 (NC)" }
+          ]
+        },
+        {
+          "semester": 6,
+          "totalCreditHours": "17",
+          "courses": [
+            { "code": "MT-202",   "courseTitle": "Numerical Methods",                            "creditHours": "3+0" },
+            { "code": "ME-407",   "courseTitle": "Health Safety and Environment",                "creditHours": "2+0" },
+            { "code": "RB-306",   "courseTitle": "Robotics & Automation",                        "creditHours": "3+0" },
+            { "code": "RM-303",   "courseTitle": "Robotics Machine Design",                      "creditHours": "3+0" },
+            { "code": "HS-402",   "courseTitle": "Economics",                                    "creditHours": "3+0" },
+            { "code": "RB-306L",  "courseTitle": "Robotics & Automation Lab",                  "creditHours": "0+1" },
+            { "code": "RB-305",   "courseTitle": "Signal Processing",                            "creditHours": "3+0" },
+            { "code": "RB-305L",  "courseTitle": "Signal Processing Lab",                        "creditHours": "0+1" }
+          ]
+        },
+        {
+          "semester": 7,
+          "totalCreditHours": "18",
+          "courses": [
+            { "code": "RB-4XX",   "courseTitle": "Depth Elective I",                             "creditHours": "3+0" },
+            { "code": "RB-4XX",   "courseTitle": "Depth Elective II",                            "creditHours": "3+0" },
+            { "code": "HS-403",   "courseTitle": "Management and Entrepreneurship",              "creditHours": "3+0" },
+            { "code": "RB-403",   "courseTitle": "Sensors & Transducers",                        "creditHours": "3+0" },
+            { "code": "HS-404",   "courseTitle": "Foreign Language",                             "creditHours": "1+1" },
+            { "code": "RB-401",   "courseTitle": "Senior Design Project – I",                    "creditHours": "0+3" },
+            { "code": "QT-401",   "courseTitle": "Translation of the Quran: Dealings and Commandments", "creditHours": "1+0 (NC)" }
+          ]
+        },
+        {
+          "semester": 8,
+          "totalCreditHours": "17",
+          "courses": [
+            { "code": "RB-4XX",   "courseTitle": "Depth Elective III",                           "creditHours": "2+1" },
+            { "code": "RB-402",   "courseTitle": "Artificial Intelligence",                      "creditHours": "1+0" },
+            { "code": "RB-403",   "courseTitle": "Hydraulic & Pneumatic Actuators",              "creditHours": "3+0" },
+            { "code": "RB-401",   "courseTitle": "Senior Design Project – II",                   "creditHours": "3+0" },
+            { "code": "HS-401",   "courseTitle": "Professional Values and Ethics",               "creditHours": "2+0" }
+          ]
+        }
+      ]
+    },
+    "ElectiveCourses": {
+      "description": "List of elective courses",
+      "courses": [
+        { "code": "RB-404", "courseTitle": "Model Predictive Control",        "creditHours": "3+0" },
+        { "code": "RB-405", "courseTitle": "Industrial Automation",           "creditHours": "3+0" },
+        { "code": "RB-406", "courseTitle": "Mechatronics System Design",      "creditHours": "3+0" },
+        { "code": "RB-407", "courseTitle": "Machine Vision",                 "creditHours": "3+0" },
+        { "code": "RB-408", "courseTitle": "Industrial Drives",              "creditHours": "3+0" },
+        { "code": "RB-409", "courseTitle": "Robot Communications",           "creditHours": "3+0" },
+        { "code": "RB-410", "courseTitle": "Special Topics in Robotics",      "creditHours": "3+0" }
+      ]
+    }
+  }
+}

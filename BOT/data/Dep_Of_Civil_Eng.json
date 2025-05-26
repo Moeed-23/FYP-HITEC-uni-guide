@@ -1,0 +1,430 @@
+
+{
+  "department": "Department of Civil Engineering",
+  "description": "Launching the department of Civil Engineering is the latest initiative of HITEC University. It has taken nearly three years of requirement analysis, a deep appraisal of the Civil Engineering programs offered by other institutions, and an evaluation of the unique and distinguishing features that should be the hallmark of our program. The Civil Engineering department of HITEC University enshrines the same attributes that have earned our other programs national and international recognition: top-class faculty, very well-equipped laboratories, and an unstinted commitment to imparting state-of-the-art knowledge. Prospective students are encouraged to choose a university that follows Outcome Based Education (OBE) and meets the Washington Accord criteria for quality teaching and learning. Our Civil Engineering program benefits from a proud five-year legacy. The department has highly qualified and dedicated faculty with diverse intellect, creativity, and talent. It hosts excellent laboratories with the latest equipment in environmentally controlled premises. In addition to its own labs, the department shares facilities with the Electrical, Mechanical, and Computer Engineering departments. The curriculum, developed according to the guidelines of the Higher Education Commission (HEC) and the Pakistan Engineering Council (PEC), fully meets the evolving demands of the Civil Engineering discipline. We consider our students our most valued asset and commit to imparting professional knowledge, skills, and a positive attitude so that our graduates become sought-after professionals in both national and international markets. Civil Engineering covers specialties such as structural engineering, transportation systems, fluid mechanics, water resources, geo-systems, and environmental engineering. With recent regional infrastructure projects under the China Pakistan Economic Corridor (CPEC) and national water-scarcity initiatives, the demand for proficient civil engineers has never been higher. The department, established in 2019, currently offers a BS in Civil Engineering that spans four years (eight semesters) and comprises 136 credit hours. It also provides a comprehensive guiding system, counseling, and support to help students identify real-world problems and recommend economically and environmentally viable solutions.",
+  "faculty": [
+    {
+      "name": "Dr. Sabahat Hussan",
+      "designation": "Assistant Professor/Chairman",
+      "qualification": "PhD (Civil Engineering), UET, Taxila",
+      "areaOfInterest": "Transportation Engineering, Pavement Materials, Highway Engineering",
+      "contact": "sabahat.hasan@hitecuni.edu.pk"
+    },
+    {
+      "name": "Engr. Yasir Rasheed",
+      "designation": "Lecturer",
+      "qualification": "MS (Structural Engineering), CECOS University, Peshawar",
+      "areaOfInterest": "Dynamics of Structures, Properties of Green Concrete",
+      "contact": "yasir.rasheed@hitecuni.edu.pk"
+    },
+    {
+      "name": "Engr. Muhammad Nasir Ayaz Khan",
+      "designation": "Lecturer",
+      "qualification": "MS (Structural Engineering), CECOS University, Peshawar",
+      "areaOfInterest": "Fire Resistant Structure, Gamma Radiation on Building Materials",
+      "contact": "nasir.ayaz@hitecuni.edu.pk"
+    },
+    {
+      "name": "Engr. Fatima Ashfaq",
+      "designation": "Lecturer",
+      "qualification": "MS (Transportation Engineering), UET Taxila",
+      "areaOfInterest": "Pavement Materials and Evaluation, Highway and Traffic Engineering",
+      "contact": "fatima.ashfaq@hitecuni.edu.pk"
+    },
+    {
+      "name": "Engr. Muhammad Ehtsham",
+      "designation": "Lecturer",
+      "qualification": "MS (Water Resources Engineering), UET Lahore",
+      "areaOfInterest": "Remote Sensing, Rainfall-Runoff Modeling, Hydrology",
+      "contact": "muhammad.ehtsham@hitecuni.edu.pk"
+    },
+    {
+      "name": "Engr. Safi-Ur-Rehman",
+      "designation": "Lecturer",
+      "qualification": "MS (Structural Engineering), UET Taxila / PhD (In progress)",
+      "areaOfInterest": "Structural Mechanics, Structural Dynamics, Supplementary Cementitious Materials",
+      "contact": "safi.urrehman@hitecuni.edu.pk"
+    },
+    {
+      "name": "Engr. Muhammad Irfan",
+      "designation": "Lecturer",
+      "qualification": "MS (Construction Engineering and Management), NUST, H-12, Islamabad",
+      "areaOfInterest": "Circular Economy, Sustainability in Construction, Stakeholder Management, Organizational Culture",
+      "contact": "muhammad.irfan@hitecuni.edu.pk"
+    },
+    {
+      "name": "Engr. Saad Nasir",
+      "designation": "Lecturer",
+      "qualification": "MS (Water Resource Engineering and Management), NUST, Islamabad",
+      "areaOfInterest": "Drough Monitoring & Evaluation, Climate Change, Hydrologic System Modeling",
+      "contact": "saad.nisar@hitecuni.edu.pk"
+    },
+    {
+      "name": "Engr. Hassan Danish",
+      "designation": "Lecturer",
+      "qualification": "MS (Geotechnical Engineering), NUST, Islamabad",
+      "areaOfInterest": "Geotechnical Engineering",
+      "contact": "hassan.danish@hitecuni.edu.pk"
+    },
+    {
+      "name": "Engr. Hamza Munir",
+      "designation": "Lab Engineer",
+      "qualification": "MSc (In progress, Geotechnical Engineering), NUST, Islamabad",
+      "areaOfInterest": "Geotechnical Engineering, Foundation Engineering",
+      "contact": "hamza.munir@hitecuni.edu.pk"
+    },
+    {
+      "name": "Engr. Muhammad Usman Khan",
+      "designation": "Lab Engineer",
+      "qualification": "MSc (In progress, Construction Management), CUST, Islamabad",
+      "areaOfInterest": "Construction Planning, Scheduling and Management, Materials",
+      "contact": "muhammadusman.khan@hitecuni.edu.pk"
+    },
+    {
+      "name": "Engr. Aftab Ullah",
+      "designation": "Lab Engineer",
+      "qualification": "MS (In progress, Water Resource Engineering and Management), NUST, Islamabad",
+      "areaOfInterest": "Hydraulic Modeling, 2D Flood Modeling & Sensitivity Analysis",
+      "contact": "astab.ullah@hitecuni.edu.pk"
+    },
+    {
+      "name": "Engr. Inayat Ullah Khan",
+      "designation": "Lecturer",
+      "qualification": "MS (Structural Engineering), UET Peshawar",
+      "areaOfInterest": "Structural Engineering",
+      "contact": "inayat.ullah@hitecuni.edu.pk"
+    },
+    {
+      "name": "Engr. Sarmed Wahab",
+      "designation": "Lecturer",
+      "qualification": "BSc (Civil Engineering) from UET Taxila, MSc in Structural Engineering (in progress)",
+      "areaOfInterest": "Concrete Technology and Machine Learning",
+      "contact": "sarmed.wahab@hitecuni.edu.pk"
+    },
+    {
+      "name": "Engr. Mamoonah Rasheed",
+      "designation": "Lab Engineer",
+      "qualification": "BSc Civil Engineering (UET, Taxila)",
+      "areaOfInterest": "Structures",
+      "contact": "mamoonah.rasheed@hitecuni.edu.pk"
+    }
+  ],
+  "program": {
+    "BS Civil Engineering": {
+      "description": "The BS Civil Engineering program is designed to produce civil engineers who are equipped with the necessary technical, practical, and professional skills to meet the demands of the industry at national and international levels. The program follows the PEC and HEC guidelines and covers a diverse range of subjects including structural engineering, transportation, fluid mechanics, water resources, geotechnical, and environmental engineering. The department also ensures that students receive appropriate counseling and guidance to identify real-world problems and develop viable solutions. Upon completion, students receive a degree along with a transcript that details the sequence of subjects studied. The program spans four years (eight semesters) and comprises 136 credit hours.",
+      "duration": "4 years (8 semesters)",
+      "totalCreditHours": 136,
+      "semesters": [
+        {
+          "semester": 1,
+          "totalCreditHours": 18,
+          "courses": [
+            {
+              "code": "CE-101",
+              "courseTitle": "Engineering Drawing",
+              "creditHours": "1+2"
+            },
+            {
+              "code": "CE-102",
+              "courseTitle": "Engineering Mechanics",
+              "creditHours": "2+1"
+            },
+            {
+              "code": "IS-211",
+              "courseTitle": "Islamic Studies",
+              "creditHours": "2+0"
+            },
+            {
+              "code": "CE-103",
+              "courseTitle": "Basic Electro Mechanical Engineering",
+              "creditHours": "2+2"
+            },
+            {
+              "code": "MT-101",
+              "courseTitle": "Calculus and Analytic Geometry",
+              "creditHours": "3+0"
+            },
+            {
+              "code": "HS-101",
+              "courseTitle": "English",
+              "creditHours": "3+0"
+            },
+            {
+              "code": "QT-101",
+              "courseTitle": "Workshop Practice",
+              "creditHours": "0+1"
+            }
+          ]
+        },
+        {
+          "semester": 2,
+          "totalCreditHours": 18,
+          "courses": [
+            {
+              "code": "CE-104",
+              "courseTitle": "Computer Aided Drafting",
+              "creditHours": "0+1"
+            },
+            {
+              "code": "CE-105",
+              "courseTitle": "Engineering Surveying-I",
+              "creditHours": "2+1"
+            },
+            {
+              "code": "CE-106",
+              "courseTitle": "Construction Materials and Methods",
+              "creditHours": "2+1"
+            },
+            {
+              "code": "MT-102",
+              "courseTitle": "Differential Equations",
+              "creditHours": "3+0"
+            },
+            {
+              "code": "HS-102",
+              "courseTitle": "Communication Skills",
+              "creditHours": "3+0"
+            },
+            {
+              "code": "IS-212",
+              "courseTitle": "Pakistan Studies",
+              "creditHours": "2+0"
+            },
+            {
+              "code": "ME-107",
+              "courseTitle": "Engineering Mechanics – Dynamics",
+              "creditHours": "2+1"
+            }
+          ]
+        },
+        {
+          "semester": 3,
+          "totalCreditHours": 18,
+          "courses": [
+            {
+              "code": "CE-201",
+              "courseTitle": "Fluid Mechanics-I",
+              "creditHours": "2+1"
+            },
+            {
+              "code": "CE-202",
+              "courseTitle": "Structural Analysis-I",
+              "creditHours": "2+1"
+            },
+            {
+              "code": "CE-203",
+              "courseTitle": "Engineering Surveying-II",
+              "creditHours": "1+1"
+            },
+            {
+              "code": "CE-204",
+              "courseTitle": "Engineering Geology",
+              "creditHours": "2+0"
+            },
+            {
+              "code": "MT-201",
+              "courseTitle": "Numerical Analysis",
+              "creditHours": "3+0"
+            },
+            {
+              "code": "HS-201",
+              "courseTitle": "Technical Report Writing",
+              "creditHours": "2+0"
+            },
+            {
+              "code": "EE-101",
+              "courseTitle": "Electrical Engineering",
+              "creditHours": "2+1"
+            }
+          ]
+        },
+        {
+          "semester": 4,
+          "totalCreditHours": 18,
+          "courses": [
+            {
+              "code": "CE-205",
+              "courseTitle": "Structural Analysis-II",
+              "creditHours": "2+1"
+            },
+            {
+              "code": "CE-206",
+              "courseTitle": "Fluid Mechanics-II",
+              "creditHours": "2+1"
+            },
+            {
+              "code": "CE-207",
+              "courseTitle": "Engineering Surveying-III",
+              "creditHours": "1+1"
+            },
+            {
+              "code": "CE-208",
+              "courseTitle": "Geotechnical Engineering-I",
+              "creditHours": "2+1"
+            },
+            {
+              "code": "MT-202",
+              "courseTitle": "Linear Algebra",
+              "creditHours": "3+0"
+            },
+            {
+              "code": "HS-202",
+              "courseTitle": "Engineering Economics",
+              "creditHours": "2+0"
+            }
+          ]
+        },
+        {
+          "semester": 5,
+          "totalCreditHours": 18,
+          "courses": [
+            {
+              "code": "CE-301",
+              "courseTitle": "Structural Analysis-III",
+              "creditHours": "2+1"
+            },
+            {
+              "code": "CE-302",
+              "courseTitle": "Reinforced Concrete Design-I",
+              "creditHours": "2+1"
+            },
+            {
+              "code": "CE-303",
+              "courseTitle": "Geotechnical Engineering-II",
+              "creditHours": "2+1"
+            },
+            {
+              "code": "CE-304",
+              "courseTitle": "Transportation Engineering-I",
+              "creditHours": "2+1"
+            },
+            {
+              "code": "CE-305",
+              "courseTitle": "Hydrology",
+              "creditHours": "2+0"
+            },
+            {
+              "code": "CE-306",
+              "courseTitle": "Environmental Engineering-I",
+              "creditHours": "2+1"
+            }
+          ]
+        },
+        {
+          "semester": 6,
+          "totalCreditHours": 18,
+          "courses": [
+            {
+              "code": "CE-307",
+              "courseTitle": "Steel Design-I",
+              "creditHours": "2+1"
+            },
+            {
+              "code": "CE-308",
+              "courseTitle": "Reinforced Concrete Design-II",
+              "creditHours": "2+1"
+            },
+            {
+              "code": "CE-309",
+              "courseTitle": "Transportation Engineering-II",
+              "creditHours": "2+1"
+            },
+            {
+              "code": "CE-310",
+              "courseTitle": "Environmental Engineering-II",
+              "creditHours": "2+1"
+            },
+            {
+              "code": "CE-311",
+              "courseTitle": "Quantity Surveying & Cost Estimation",
+              "creditHours": "1+1"
+            },
+            {
+              "code": "CE-312",
+              "courseTitle": "Construction Planning & Management",
+              "creditHours": "2+0"
+            }
+          ]
+        },
+        {
+          "semester": 7,
+          "totalCreditHours": 16,
+          "courses": [
+            {
+              "code": "CE-401",
+              "courseTitle": "Steel Design-II",
+              "creditHours": "2+1"
+            },
+            {
+              "code": "CE-402",
+              "courseTitle": "Water Supply & Sewerage Systems",
+              "creditHours": "2+1"
+            },
+            {
+              "code": "CE-403",
+              "courseTitle": "Foundation Engineering",
+              "creditHours": "2+1"
+            },
+            {
+              "code": "CE-4xx",
+              "courseTitle": "Technical Elective-I",
+              "creditHours": "3+0 / 2+1"
+            },
+            {
+              "code": "CE-404",
+              "courseTitle": "Design Project-I",
+              "creditHours": "0+3"
+            },
+            {
+              "code": "HS-401",
+              "courseTitle": "Professional Practice",
+              "creditHours": "2+0"
+            }
+          ]
+        },
+        {
+          "semester": 8,
+          "totalCreditHours": 12,
+          "courses": [
+            {
+              "code": "CE-405",
+              "courseTitle": "Irrigation & Drainage Engineering",
+              "creditHours": "2+1"
+            },
+            {
+              "code": "CE-406",
+              "courseTitle": "Construction Engineering",
+              "creditHours": "2+0"
+            },
+            {
+              "code": "CE-4xx",
+              "courseTitle": "Technical Elective-II",
+              "creditHours": "3+0 / 2+1"
+            },
+            {
+              "code": "CE-407",
+              "courseTitle": "Design Project-II",
+              "creditHours": "0+3"
+            },
+            {
+              "code": "HS-402",
+              "courseTitle": "Project Management",
+              "creditHours": "2+0"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "laboratories": {
+    "SurveyingLab": "The Surveying Laboratory is fully equipped with both classical and state-of-the-art equipment including electronic total station, digital theodolite, automatic level, tripod-mounted laser level, walkie talkie sets, and GPS units for triangulation, traversing, curve layout and chain surveying.",
+    "ConcreteTechnologyLab": "Equipped with Digi-Max smart line semi-automatic compression and flexural testing machine, core drilling machine, Vicat apparatus, le-chatlier’s apparatus, compacting factor apparatus, slump test apparatus, electric concrete and mortar mixers, vibrating table, Smidth hammer, poker concrete vibrator, Los Angeles machine for aggregate abrasion, and standard molds, along with an adjacent curing and storage room.",
+    "GeoTechnicalEngineeringLab": "Provides practical application of soil behavior and its interaction with structural materials. Equipped with computer-controlled triaxial testing machine, shear box test apparatus, vane shear apparatus, consolidation apparatus, standard penetration test apparatus, plate load test apparatus, Atterberg limit apparatus, specific gravity apparatus, standard sieves, Proctor test apparatus, soil permeameters, hydrometer test apparatus, and laboratory ovens.",
+    "FluidMechanicsLab": "Equipped with Bernoulli’s theorem apparatus, drag coefficient apparatus, hydraulic bench, hydrostatic pressure apparatus, metacentric height apparatus, flow over weirs apparatus, dead weight tester, viscometer, orifice meter, and shared advanced equipment such as Francis turbine, Osborne’s Reynolds apparatus, hydrostatic pressure apparatus, impact jet apparatus, reaction turbine, Pelton wheel, and pipe friction apparatus.",
+    "EngineeringMechanicsLab": "Demonstrates principles of engineering mechanics using verification of concurrent force system apparatus, beam deflection apparatus, Varignon’s apparatus, center of gravity apparatus, jib and crane apparatus, three wire suspension apparatus, inclined plane apparatus, and impact testing machine.",
+    "MechanicsOfSolidsLab": "Focuses on mechanics of structural materials with equipment such as a computer-controlled electro-hydraulic universal testing machine, impact testing machine, column buckling apparatus, shear center apparatus, cantilever beam apparatus, and shared advanced equipment including Brinell hardness tester, torsion testing machine, fatigue testing machine, and optical microscope.",
+    "TransportationEngineeringLab": "Provides practical experience in highway engineering, pavement materials, and traffic engineering with equipment like rolling thin film oven, skid resistance tester, ultrasonic pulse velocity meter, CBR machine, flash and fire point test apparatus, penetration test apparatus, ductility test apparatus, aggregate specific gravity apparatus, aggregate impact value test apparatus, Marshall stability machine, compactor, and theoretical maximum specific gravity apparatus.",
+    "EnvironmentalEngineeringLab": "Furnished for experiments related to water quality assessment, wastewater treatment, and solid waste management; equipped with spectrometer, biological microscope, distillation and volumetric apparatus, pH meter, turbidity meter, conductimeter, TDS meter, BOD incubator, DO meter, desiccator, filtration apparatus, COD reactor, and jar test apparatus.",
+    "HydraulicsLab": "Designed for hydraulic flow and modeling studies; equipped with hydraulic flume, pipe surge and water hammer apparatus, hydrology apparatus, current meter, rain gauges, infiltrometer, anemometer, and other devices to satisfy the requirements of ‘Hydraulics & Irrigation Engineering’ and ‘Hydrology & Water Resources’ courses."
+  }
+}

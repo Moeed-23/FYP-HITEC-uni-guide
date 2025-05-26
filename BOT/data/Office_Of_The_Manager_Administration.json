@@ -1,0 +1,52 @@
+
+{
+  "officeOfManagerAdministration": {
+    "manager": {
+      "name": "Major (R) Wasim Ahmed",
+      "qualifications": "MBA (COL), MA (IR), SCM (Qualified)"
+    },
+    "role": "Responsible for providing excellent facilities to students, faculty, officers, and staff; managing security, transport, maintenance, procurement, and infrastructure development.",
+    "responsibilities": [
+      "Security management",
+      "Transport services",
+      "Campus maintenance",
+      "Procurement of supplies and equipment",
+      "Infrastructure development",
+      "Event and function support (Convocations, Olympiads, conferences, etc.)"
+    ],
+    "buildingAndWorks": {
+      "description": "Monitors procurement of stores, equipment, furniture, fixtures; oversees new construction and renovation; ensures safety and security of buildings, students, and employees."
+    },
+    "transport": {
+      "description": "Operates buses, vans, and pickups for daily student transport from Taxila and surroundings at nominal charges; two main routes plus local transport options; new vehicle acquisition in progress.",
+      "routes": [
+        "Route 1: Islamabad",
+        "Route 2: Rawalpindi"
+      ],
+      "contact": "In case of any query or complaint please do not hesitate to contact on the following numbers and e-mail address."
+    },
+    "security": {
+      "description": "Provides round‑the‑clock indigenous security services via vigilant guards, fenced boundary walls, and CCTV cameras to ensure a safe environment for all campus users."
+    },
+    "miscellaneousServices": [
+      {
+        "service": "Stationery & Photocopy Shop",
+        "location": "RUMI Block",
+        "description": "Provides learning materials, internet, photocopier, stationery items, and secretarial facilities."
+      },
+      {
+        "service": "Cafeterias",
+        "location": "Two cafeterias in RUMI Block",
+        "description": "Serves hygienic food at economical rates."
+      },
+      {
+        "service": "Horticulture",
+        "description": "Manages campus beautification, an on‑campus nursery for evergreen and seasonal plants, and a water feeding system for fountains and green belts."
+      },
+      {
+        "service": "Janitorial Services",
+        "description": "A trained team maintains cleanliness of buildings, offices, auditoria, grounds, and open areas through sweeping, mopping, vacuuming, dusting, and spot cleaning."
+      }
+    ]
+  }
+}

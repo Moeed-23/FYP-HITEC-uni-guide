@@ -1,0 +1,447 @@
+{
+    "department": {
+        "name": "Biomedical Engineering",
+        "overview": "BS Biomedical Engineering is a multi-disciplinary  bachelor degree program which is recently approved  by Pakistan Engineering Council (PEC) aster their initial  visit in addition to approval granted by honorable  Governor Punjab being the Chancellor of the  University. BS biomedical engineering program at  HITEC University aims to bridge the gap between  engineering and medical sciences. It aims to improve  the present health care system ranging from diagnosis  tools, patient monitoring to therapeutic plans and  drug design. The major aim of this program is  therefore to impart appropriate engineering  knowledge to students thereby enabling them to  skillfully tackle any problem related to health care.  The curriculum is in line with the requirements of PEC  and is comprehensive enough to meet all challenges  and requirements of the field of biomedical  engineering both locally and globally. The program is  intended to train the students to take up any role in a  variety of fields including industry, government,  academia, hospitals and R&D organizations. It  includes areas of studies such as Electronics and  Instrumentation, Signal Processing and Control,  Biomedical Physics and Bioinformatics, Biomaterials,  Physiology, Biochemistry and Anatomy. The  biomedical engineering program spans over eight  semesters (four years) and the degree of BS  Biomedical Engineering is conferred upon students  aster demonstrating satisfactory performance in the  allocated 138 credit hours in addition to completion of  hospital/industry internship.  Currently all the engineering core courses and labs are  taught and conducted at HITEC University main  building, while courses and labs of the medical  sciences track HITEC Institute of Medical Sciences.  Students would be also facilitated to visit HIT hospital  to acquire acquaintance of medical tools and  equipment. The students would be encouraged to  avail library facilities existing at both institutes"
+    },
+    "faculty": [
+        {
+            "name": "Dr. Nizamuddin (HEC Approved Supervisor)",
+            "designation": "Assistant Professor/ Chairperson Biomedical Engineering Department",
+            "qualification": "PhD Electrical Engineering, King Saud University, Riyadh, Saudi Arabia",
+            "areas_of_interest": [
+                "Hyperthermia Treatment of Cancer",
+                "Application of RF and Microwave in   Medicine and Food processing",
+                "HIFU systems"
+            ],
+            "contact": "nizam.uddin@hitecuni.edu.pk"
+        },
+        {
+            "name": "Engr. Rohmma Latif",
+            "designation": "Lab Engineer",
+            "qualification": "BS (Biomedical Engineering), Riphah International University, Islamabad",
+            "areas_of_interest": [
+                "Biomedical Instrumentation",
+                "Medical Image Processing"
+            ],
+            "contact": "rohmma.latif@hitecuni.edu.pk"
+        },
+        {
+            "name": "Engr. Muhammad Ahtasham Abid",
+            "designation": "Lecturer",
+            "qualification": "MS (Electrical Power Engineering), COMSATS, Abbottabad, PhD (In Progress)",
+            "areas_of_interest": [
+                "Power Systems"
+            ],
+            "contact": "ahtasham.abid@hitecuni.edu.pk"
+        },
+        {
+            "name": "Dr. Anum Khalid",
+            "designation": "Senior Lecturer, HITEC-IMS",
+            "qualification": "MBBS",
+            "areas_of_interest": [
+                "Anatomy"
+            ],
+            "contact": "anumkhalid261@ gmail.com"
+        }
+    ],
+    "courses": {
+        "BS_Biomedical_Engineering": {
+            "semesters": {
+                "semester_1": [
+                    {
+                        "code": "--------------",
+                        "title": "| BS-105     | Applied Physics",
+                        "credit_hour": "2+1"
+                    },
+                    {
+                        "code": "EC-110",
+                        "title": "Computing Fundamentals",
+                        "credit_hour": "2+1"
+                    },
+                    {
+                        "code": "EE-220",
+                        "title": "Fundamentals of Electrical Engineering",
+                        "credit_hour": "3+0"
+                    },
+                    {
+                        "code": "EE-220L",
+                        "title": "Fundamentals of Electrical Engineering Lab",
+                        "credit_hour": "0+1"
+                    },
+                    {
+                        "code": "BS-100",
+                        "title": "Basic Biology",
+                        "credit_hour": "2+0"
+                    },
+                    {
+                        "code": "MT-100",
+                        "title": "Basic Mathematics",
+                        "credit_hour": "2+0"
+                    },
+                    {
+                        "code": "HS-102",
+                        "title": "Pakistan Studies",
+                        "credit_hour": "2+0"
+                    },
+                    {
+                        "code": "QT-101",
+                        "title": "Translation of the Quran: Beliefs",
+                        "credit_hour": "1+0 (NC)"
+                    }
+                ],
+                "semester_2": [
+                    {
+                        "code": "--------------",
+                        "title": "| IS-211     | Islamic Studies",
+                        "credit_hour": "2+0"
+                    },
+                    {
+                        "code": "MT-101",
+                        "title": "Calculus and Analytic Geometry",
+                        "credit_hour": "3+0"
+                    },
+                    {
+                        "code": "EE-103",
+                        "title": "Electrical Network Analysis",
+                        "credit_hour": "3+0"
+                    },
+                    {
+                        "code": "EE-103L",
+                        "title": "Electrical Network Analysis Lab",
+                        "credit_hour": "0+1"
+                    },
+                    {
+                        "code": "BM-113",
+                        "title": "Human Anatomy",
+                        "credit_hour": "2+0"
+                    },
+                    {
+                        "code": "BM-113L",
+                        "title": "Human Anatomy Lab",
+                        "credit_hour": "0+1"
+                    }
+                ],
+                "semester_3": [
+                    {
+                        "code": "--------------",
+                        "title": "| MT-201     | Complex Variables & Transforms",
+                        "credit_hour": "3+0"
+                    },
+                    {
+                        "code": "BM-211",
+                        "title": "Physiology II",
+                        "credit_hour": "2+0"
+                    },
+                    {
+                        "code": "BM-211L",
+                        "title": "Physiology II Lab",
+                        "credit_hour": "0+1"
+                    },
+                    {
+                        "code": "BM-202",
+                        "title": "Biochemistry",
+                        "credit_hour": "2+0"
+                    },
+                    {
+                        "code": "BM-202L",
+                        "title": "Biochemistry Lab",
+                        "credit_hour": "0+1"
+                    },
+                    {
+                        "code": "EE-203",
+                        "title": "Digital Logic Design",
+                        "credit_hour": "3+0"
+                    },
+                    {
+                        "code": "EE-203L",
+                        "title": "Digital Logic Design Lab",
+                        "credit_hour": "0+1"
+                    },
+                    {
+                        "code": "HS-103",
+                        "title": "Communication Skills",
+                        "credit_hour": "3+0"
+                    },
+                    {
+                        "code": "QT-201",
+                        "title": "Translation of the Quran: Worships",
+                        "credit_hour": "1+0 (NC)"
+                    }
+                ],
+                "semester_4": [
+                    {
+                        "code": "--------------",
+                        "title": "| MT-205     | Linear Algebra & Differential Equations",
+                        "credit_hour": "3+0"
+                    },
+                    {
+                        "code": "BM-213",
+                        "title": "Biomedical Electronics",
+                        "credit_hour": "3+0"
+                    },
+                    {
+                        "code": "BM-213L",
+                        "title": "Biomedical Electronics Lab",
+                        "credit_hour": "0+1"
+                    },
+                    {
+                        "code": "BM-214",
+                        "title": "Biomechanics",
+                        "credit_hour": "3+0"
+                    },
+                    {
+                        "code": "BM-214L",
+                        "title": "Biomechanics Lab",
+                        "credit_hour": "0+1"
+                    },
+                    {
+                        "code": "EE-206",
+                        "title": "Signals and Systems",
+                        "credit_hour": "3+0"
+                    },
+                    {
+                        "code": "EE-206L",
+                        "title": "Signals and Systems Lab",
+                        "credit_hour": "0+1"
+                    }
+                ],
+                "semester_5": [
+                    {
+                        "code": "--------------",
+                        "title": "| BM-311     | Biomedical Instrumentation I",
+                        "credit_hour": "3+0"
+                    },
+                    {
+                        "code": "BM-311L",
+                        "title": "Biomedical Instrumentation I Lab",
+                        "credit_hour": "0+1"
+                    },
+                    {
+                        "code": "MT-302",
+                        "title": "Probability and Statistics",
+                        "credit_hour": "3+0"
+                    },
+                    {
+                        "code": "HS-201",
+                        "title": "Technical Report Writing",
+                        "credit_hour": "3+0"
+                    },
+                    {
+                        "code": "EE-300",
+                        "title": "Introduction to Microprocessor and Interfacing Techniques",
+                        "credit_hour": "2+0"
+                    },
+                    {
+                        "code": "EE-300L",
+                        "title": "Introduction to Microprocessor and Interfacing Techniques Lab",
+                        "credit_hour": "0+1"
+                    },
+                    {
+                        "code": "BM-312",
+                        "title": "Biomedical Signal Processing",
+                        "credit_hour": "3+0"
+                    },
+                    {
+                        "code": "BM-312L",
+                        "title": "Biomedical Signal Processing Lab",
+                        "credit_hour": "0+1"
+                    },
+                    {
+                        "code": "QT-301",
+                        "title": "Translation of the Quran: Moral Values",
+                        "credit_hour": "1+0 (NC)"
+                    }
+                ],
+                "semester_6": [
+                    {
+                        "code": "--------------",
+                        "title": "| MT-202     | Numerical Methods",
+                        "credit_hour": "2+1"
+                    },
+                    {
+                        "code": "BM-313",
+                        "title": "Biomedical Instrumentation II",
+                        "credit_hour": "3+0"
+                    },
+                    {
+                        "code": "BM-313L",
+                        "title": "Biomedical Instrumentation II Lab",
+                        "credit_hour": "0+1"
+                    },
+                    {
+                        "code": "BM-314",
+                        "title": "Biomedical Control Systems",
+                        "credit_hour": "3+0"
+                    },
+                    {
+                        "code": "BM-314L",
+                        "title": "Biomedical Control Systems Lab",
+                        "credit_hour": "0+1"
+                    },
+                    {
+                        "code": "BM-315",
+                        "title": "Biomaterials",
+                        "credit_hour": "3+0"
+                    },
+                    {
+                        "code": "BM-315L",
+                        "title": "Biomaterials Lab",
+                        "credit_hour": "0+1"
+                    },
+                    {
+                        "code": "HS-203",
+                        "title": "Community Service",
+                        "credit_hour": "0+1 (NC)"
+                    }
+                ],
+                "semester_7": [
+                    {
+                        "code": "--------------",
+                        "title": "| HS-401     | Professional Values & Ethics",
+                        "credit_hour": "2+0"
+                    },
+                    {
+                        "code": "HS-403",
+                        "title": "Management and Entrepreneurship",
+                        "credit_hour": "3+0"
+                    },
+                    {
+                        "code": "BM-411",
+                        "title": "Medical Imaging",
+                        "credit_hour": "2+0"
+                    },
+                    {
+                        "code": "BM-411L",
+                        "title": "Medical Imaging Lab",
+                        "credit_hour": "0+1"
+                    },
+                    {
+                        "code": "BM-XXX",
+                        "title": "Elective-II",
+                        "credit_hour": "3+0"
+                    },
+                    {
+                        "code": "BM-XXX",
+                        "title": "Elective-III",
+                        "credit_hour": "3+0"
+                    },
+                    {
+                        "code": "BM-401",
+                        "title": "Project Part-I",
+                        "credit_hour": "0+3"
+                    },
+                    {
+                        "code": "QT-401",
+                        "title": "Translation of the Quran: Dealings and Commandments",
+                        "credit_hour": "1+0 (NC)"
+                    }
+                ],
+                "semester_8": [
+                    {
+                        "code": "--------------",
+                        "title": "| HS-404     | Foreign Language",
+                        "credit_hour": "1+1"
+                    },
+                    {
+                        "code": "BM-XXX",
+                        "title": "Elective-IV",
+                        "credit_hour": "3+0"
+                    },
+                    {
+                        "code": "BM-400",
+                        "title": "Modeling & Simulation",
+                        "credit_hour": "2+1"
+                    },
+                    {
+                        "code": "BM-XXX",
+                        "title": "Elective-V",
+                        "credit_hour": "3+0"
+                    },
+                    {
+                        "code": "BM-401",
+                        "title": "Project Part-II",
+                        "credit_hour": "0+3"
+                    },
+                    {
+                        "code": "HS-402",
+                        "title": "Economics",
+                        "credit_hour": "2+0"
+                    },
+                    {
+                        "code": "ME-407",
+                        "title": "Health Safety and Environment",
+                        "credit_hour": "1+0"
+                    }
+                ]
+            }
+        }
+    },
+    "electives": {
+        "Tissue_Engineering_and_Molecular_Bioengineering": [
+            {
+                "code": "--------------",
+                "title": "| BM-420     | Biophysics",
+                "credit_hour": "3+0"
+            },
+            {
+                "code": "BM-422",
+                "title": "Tissue Engineering",
+                "credit_hour": "3+0"
+            },
+            {
+                "code": "BM-423",
+                "title": "Genetic Engineering",
+                "credit_hour": "3+0"
+            },
+            {
+                "code": "BM-424",
+                "title": "Nano Biotechnology",
+                "credit_hour": "3+0"
+            }
+        ],
+        "Biomedical_Computing": [
+            {
+                "code": "--------------",
+                "title": "| BM-430     | Bioinformatics",
+                "credit_hour": "3+0"
+            },
+            {
+                "code": "BM-432",
+                "title": "Medical Data System",
+                "credit_hour": "3+0"
+            },
+            {
+                "code": "BM-433",
+                "title": "Artificial Intelligence",
+                "credit_hour": "3+0"
+            },
+            {
+                "code": "BM-434",
+                "title": "Telemedicine Systems",
+                "credit_hour": "3+0"
+            }
+        ],
+        "Instrumentation": [
+            {
+                "code": "--------------",
+                "title": "| BM-440     | Biomedical Engineering Systems",
+                "credit_hour": "3+0"
+            },
+            {
+                "code": "BM-441",
+                "title": "Medical Device Quality and Standards",
+                "credit_hour": "3+0"
+            },
+            {
+                "code": "BM-442",
+                "title": "Medical Device Regulatory Affairs",
+                "credit_hour": "3+0"
+            },
+            {
+                "code": "BM-443",
+                "title": "Medical Robotics",
+                "credit_hour": "3+0"
+            }
+        ]
+    }
+}

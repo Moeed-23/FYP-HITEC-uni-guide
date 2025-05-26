@@ -1,0 +1,96 @@
+
+{
+  "libraryAndInformationTechnologyServices": {
+    "library": {
+      "actingLibrarian": {
+        "name": "Sajid Iqbal",
+        "qualifications": "Master of Library and Information Sciences, MBA (HR)",
+        "email": "librarian@hitecuni.edu.pk"
+      },
+      "description": "HITEC University Library forms an essential complement of academic pursuits of our faculty and students. The Library provides access to materials and information resources which will help you in your studies. All new students are offered an orientation tour of the Library.",
+      "location": "Basement of Masjid-e-Noor, Religious Education Center precincts",
+      "hours": "Open late night Monday–Friday; occasionally weekends",
+      "systems": [
+        "Electromagnetic security system",
+        "Library Management System (LibMax)",
+        "Online Public Access Catalog (OPAC)",
+        "Dewey Decimal Classification",
+        "Library of Congress Subject Headings (LCSH)"
+      ],
+      "facilities": [
+        "Scanning",
+        "Photocopying",
+        "WiFi"
+      ],
+      "collections": {
+        "books": 33000,
+        "domains": [
+          "Electrical Engineering",
+          "Mechanical Engineering",
+          "Civil Engineering",
+          "Biomedical Engineering",
+          "Software Engineering",
+          "Computer Engineering",
+          "Computer Science",
+          "Humanities",
+          "Management Sciences",
+          "Statistics",
+          "Physics",
+          "Islamic Studies",
+          "Advanced Mathematics"
+        ],
+        "professionalJournals": "Printed and online versions covering Engineering & Sciences departments",
+        "databases": "Various research databases",
+        "HECjournals": "Access to HEC‑provided journals and magazines",
+        "audioVisualItems": 16000
+      },
+      "loanPolicy": {
+        "maxBooks": 7,
+        "loanPeriod": "2 weeks"
+      },
+      "staff": "Qualified library sciences staff available for search and referral services"
+    },
+    "informationTechnologyServices": {
+      "manager": {
+        "name": "Nauman Ali Khan",
+        "qualifications": "MS (Computer Science)",
+        "email": "manager.it@hitecuni.edu.pk"
+      },
+      "description": "IT Services creates a digital campus—managed PCs/laptops, storage, email, networking, multimedia, enterprise applications—to support learning, teaching, research, and administration, ensuring students and staff can be as creative and productive as possible.",
+      "applicationServices": [
+        "e-learning",
+        "web designing",
+        "digital library system",
+        "admission system",
+        "online attendance system",
+        "Microsoft Imagine access"
+      ],
+      "campusManagementSystem": "Online admissions, semester registrations, student fees, attendance, evaluations, result compilation, transcript and degree generation",
+      "architectureSecurityIntrusionDetection": "Managed via open-source IDS, modern security appliances for network protection; supports file servers, domain controller, network management, Wi-Fi",
+      "servers": [
+        "Open-source proxy servers",
+        "Contingent proxy server",
+        "LMS (Moodle) server",
+        "CMS server",
+        "Domain controller",
+        "File server",
+        "Fedena (payroll) server",
+        "Cluster server (48 cores)",
+        "News server",
+        "Web server",
+        "Backup domain controller"
+      ],
+      "equipment": "Routers with OSPF and ACL, manageable layer-2 switches for VLANs, F‑5200 firewall; 3000 active network users",
+      "internet": {
+        "connection": "100 Mbps dedicated",
+        "availability": "24/7",
+        "perStudentBandwidth": "750 KB download",
+        "wifiHotspots": "Throughout campus"
+      },
+      "PERN": "Pakistan Education and Research Network connects HITEC University to other research institutes via high-speed bandwidth for collaboration and videoconferencing",
+      "dataCentre": "Private cloud and cluster services for application deployment without managing hardware/software layers",
+      "libraryAutomation": "Gigabit optical fiber to data center; EM security and LibMax for book check‑in/out; connected to HEC digital library via public IP",
+      "onlineEducationSetup": "G Suite Education: official email, 5 TB Google Drive, Classroom, Meet, Docs, Sheets, Slides, Sites, Calendar, Google support; Google Classroom for virtual teaching and timely student–teacher collaboration"
+    }
+  }
+}

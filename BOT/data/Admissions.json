@@ -1,0 +1,270 @@
+{
+  "registrar_office": {
+    "description": "The Office of the Registrar is the nucleus of the University and coordinates all activities within and outside the University. It is the custodian of the common seal and academic records, provides secretariat support to the Board of Governors and the Vice Chancellor, and maintains the register of students and graduates. It is responsible for admissions, registration, semester enrolments, and the preparation of degrees, as well as maintaining records of students, faculty, and staff.",
+    "admissions_policy": "Admissions are strictly based on merit. The University is open to all persons without prejudice to gender, religion, race, creed, colour, or domicile. Admission is granted on the basis of eligibility criteria. Applicants awaiting results are provisionally admitted on the undertaking that they will pass the examination, and they must submit attested copies of their certificates/degrees within two weeks of result declaration. Only complete admission formalities, including fee deposit, will lead to registration. Every undergraduate student must take the full load of prescribed courses, while a master level student may enrol for fewer courses."
+  },
+  "admission_ad": {
+    "institution": "HITEC University Taxila",
+    "programs": {
+      "bs_programs": [
+        "Mechanical Engineering",
+        "Electrical Engineering",
+        "Computer Engineering",
+        "Civil Engineering",
+        "Biomedical Engineering",
+        "Computer Science",
+        "Software Engineering",
+        "Cyber Security",
+        "Artificial Intelligence",
+        "Accounting & Finance",
+        "Business Administration",
+        "Business Analytics",
+        "Internet of Things",
+        "Robotics & Automation",
+        "Islamic Studies",
+        "Mathematics"
+      ],
+      "mba": "Master of Business Administration – Morning/Evening",
+      "ms_programs": [
+        "Mechanical Engineering",
+        "Electrical Engineering",
+        "Computer Engineering",
+        "Software Engineering",
+        "Computer Science",
+        "Mathematics",
+        "Islamic Studies (Weekend Programs Available)"
+      ],
+      "phd_programs": [
+        "Mechanical Engineering",
+        "Electrical Engineering",
+        "Computer Engineering",
+        "Computer Science",
+        "Mathematics",
+        "Islamic Studies (Weekend Programs Available)"
+      ]
+    },
+    "financial_assistance_and_scholarships": [
+      "100% Tuition Fee Waiver for completion of BS degree program to Top 25 Board Position Holders (Limited Seats Available)",
+      "Tuition Fee Waiver for top 250 Position Holders in aggregate Merit List of the University",
+      "High Achievers Semester Based Scholarships",
+      "Financial Assistance to Needy Students"
+    ],
+    "facilities": [
+      "Purpose built dedicated Boys and Girls Hostel within University Premises",
+      "University Transport for Twin Cities",
+      "In-house Gymnasium",
+      "In-house Swimming Pool",
+      "Fully Air Conditioned Class Rooms",
+      "State of the Art Laboratories"
+    ],
+    "online_admission_test": {
+      "note": "Online Admission Test will be conducted for BS Engineering & BS Computer Science, Software Engineering Programs only. A facility for on-campus test is also available."
+    },
+    "key_points": [
+      "Candidates with HSSC and Computer Science (plus Physics and Mathematics) are eligible for BS Engineering Programs.",
+      "Candidates having DAE can apply on open merit.",
+      "Candidates with Pre-Medical are eligible for BS Biomedical Engineering, and several other programs including BS Computer Science, Software Engineering, Internet of Things, Robotics & Automation, Mathematics, Islamic Studies, Accounting & Finance, Business Administration, Business Analytics, Artificial Intelligence, and Cyber Security."
+    ],
+    "accreditation_and_recognition": {
+      "engineering": "Level-II, OBE Accreditation from PEC; Engineering Degrees accepted worldwide under Washington Accord: UK, USA, Japan, Canada, Australia, New Zealand",
+      "software_and_computer": "Software Engineering & Computer Science Programs are approved and accredited by NCEAC"
+    },
+    "apply_online": "http://admissions.hitecuni.edu.pk",
+    "contact_details": {
+      "registrar": "HITEC University Taxila",
+      "phone": "051-4908144, 051-4908146-49",
+      "cell": "0320-5060001, 0333-5172586",
+      "email": "admissions@hitecuni.edu.pk"
+    }
+  },
+  "eligibility_criteria": {
+    "bs_electrical_engineering": {
+      "requirements": [
+        "F Sc/A Level or equivalent with Physics, Chemistry and Mathematics",
+        "Diploma of Associate Engineers with same/Relevant Technology/Disciplines approved by PEC",
+        "Minimum 60% marks"
+      ]
+    },
+    "bs_robotics_and_automation": {
+      "requirements": [
+        "Intermediate or equivalent degree",
+        "Physics and Mathematics",
+        "Second Division"
+      ]
+    },
+    "bs_mechanical_engineering": {
+      "requirements": [
+        "F Sc/A Level or equivalent with Physics, Chemistry and Mathematics",
+        "Diploma of Associate Engineers with same/Relevant Technology/Disciplines approved by PEC",
+        "Minimum 60% marks"
+      ]
+    },
+    "bs_computer_engineering": {
+      "requirements": [
+        "F Sc/A Level or equivalent with Physics, Chemistry/Computer Science and Mathematics",
+        "Diploma of Associate Engineers with same/Relevant Technology/Disciplines approved by PEC",
+        "Minimum 60% marks"
+      ]
+    },
+    "bs_internet_of_things": {
+      "requirements": [
+        "F Sc/A Level or DAE",
+        "Minimum 50% marks"
+      ]
+    },
+    "bs_civil_engineering": {
+      "requirements": [
+        "F Sc/A Level or equivalent with Physics, Chemistry and Mathematics",
+        "Diploma of Associate Engineers with same/Relevant Technology/Disciplines approved by PEC",
+        "Minimum 60% marks"
+      ]
+    },
+    "bs_bio_medical_engineering": {
+      "requirements": [
+        "F.Sc/A-Level or equivalent with Biology/Mathematics, Chemistry and Physics",
+        "Diploma of Associate Engineers with same/Relevant Technology/Disciplines approved by PEC",
+        "Minimum 60% marks"
+      ]
+    },
+    "bs_computer_sciences_software_engineering": {
+      "requirements": [
+        "F.Sc Pre-Engineering/Pre-Medical/ICS/A Level or equivalent",
+        "Minimum 50% marks"
+      ]
+    },
+    "bs_mathematics": {
+      "requirements": [
+        "Intermediate or equivalent with Mathematics having minimum 50% marks",
+        "Diploma of Associate Engineers with minimum 60% marks"
+      ]
+    },
+    "bs_statistics": {
+      "requirements": [
+        "F.A./F.Sc./A-Level or equivalent to 12 years’ education",
+        "Minimum 45% marks"
+      ]
+    },
+    "bs_islamic_studies": {
+      "requirements": [
+        "Intermediate or equivalent/Khassa Certificate recognized by HEC",
+        "Minimum 50% marks"
+      ]
+    },
+    "bba": {
+      "requirements": [
+        "Intermediate or equivalent with minimum 50% marks"
+      ]
+    },
+    "bs_accounting_finance": {
+      "requirements": [
+        "Intermediate or equivalent with minimum 50% marks"
+      ]
+    },
+    "ms_engineering": {
+      "disciplines": [
+        "Electrical Engineering",
+        "Mechanical Engineering",
+        "Computer Engineering",
+        "Design & Manufacturing"
+      ],
+      "requirements": [
+        "BE/BS/BSc Engineering in relevant discipline",
+        "Minimum CGPA 2.00/4.00 or 50% marks",
+        "GAT General conducted by NTS/University Admission Test with minimum 50% cumulative score"
+      ]
+    },
+    "ms_computer_science_software_engineering": {
+      "requirements": [
+        "BS (Computer Science/Software Engineering), MCS/MSc Comp Sc.",
+        "Minimum CGPA 2.00/4.00 or 50% marks",
+        "GAT General conducted by NTS/University Admission Test with minimum 50% cumulative score"
+      ]
+    },
+    "ms_mathematics": {
+      "requirements": [
+        "BS/M.Sc Mathematics",
+        "Minimum CGPA 2.00/4.00 or 50% marks",
+        "GAT General conducted by NTS/University Admission Test with minimum 50% cumulative score"
+      ]
+    },
+    "ms_islamic_studies": {
+      "requirements": [
+        "MA/BS (Islamic Studies/Shariah/Arabic)",
+        "Dars-e-Nizami from HEC recognized institution with 50% marks",
+        "Minimum CGPA 2.00/4.00 or 50% marks",
+        "GAT General conducted by NTS/University Admission Test with minimum 50% cumulative score"
+      ]
+    },
+    "mba": {
+      "pathway_i": {
+        "qualifications": [
+          "BBA (Hons)",
+          "B.Com (Hons)",
+          "BSc Accounting and Finance",
+          "CA",
+          "ACCA",
+          "ACMA",
+          "M.Com, etc."
+        ]
+      },
+      "pathway_ii": {
+        "qualifications": [
+          "16 Years education or MA, MSc, BS, MBBS, B-pharm, etc."
+        ]
+      },
+      "requirements": [
+        "Minimum CGPA 2.00/4.00 or 50% marks",
+        "GAT General conducted by NTS/University Admission Test with minimum 50% cumulative score"
+      ]
+    },
+    "phd": {
+      "requirements": [
+        "MS/M Phil or equivalent in relevant discipline with minimum CGPA 3.00/4.00 from an HEC recognized institution",
+        "Minimum 70% cumulative score",
+        "GAT Subject Test conducted by NTS with minimum 60% score"
+      ]
+    }
+  },
+  "admission_test": {
+    "general": "A written Admission Test is compulsory for admissions in undergraduate engineering programs. Candidates with valid results from NAT-IE / IM / ICS / IGS / ICOM / IA / HAT / ECAT conducted by NTS, HEC, and UETs are also eligible to apply.",
+    "test_date": "Held on a prescribed date as advertised in the national press",
+    "subject_marks": {
+      "engineering": {
+        "English": "20%",
+        "Physics": "30%",
+        "Mathematics": "30%",
+        "Chemistry": "20%"
+      },
+      "bio_medical_engineering": {
+        "English": "20%",
+        "Physics": "30%",
+        "Biology/Mathematics": "30%",
+        "Chemistry": "20%"
+      },
+      "computer_engineering": {
+        "English": "20%",
+        "Physics": "30%",
+        "Mathematics": "30%",
+        "Chemistry/Computer Science": "30%"
+      }
+    },
+    "merit_determination": {
+      "University_Admission_Test": "50%",
+      "HSSC_Part_1_or_equivalent": "30%",
+      "SSC_or_O-level": "20%"
+    },
+    "result_announcement": "Results will be announced as per the given schedule on the University website. Selected candidates will be informed via Email and SMS, and a list of selected candidates will be displayed at the University Secretariat.",
+    "late_admissions_policy": "Late admissions are not entertained and no deviation will be made from the announced schedule. The University reserves the right to reject applications without providing a reason."
+  },
+  "registration_and_enrollment": {
+    "instructions": [
+      "On completion of admission formalities including fee deposit, applicants will be registered as bonafide students.",
+      "Applicants must provide original academic certificates and documents at the Registrar Office during registration.",
+      "After registration, the Registrar Office will issue a University Registration Card/Identity Card.",
+      "Students are allowed to enrol in the courses offered by their department after receiving their Registration Number.",
+      "If a student fails to enrol within the first two weeks of the semester, their name may be struck off and the vacant position offered to the next candidate."
+    ],
+    "provisional_admission_note": "All admissions will be provisional until original documents are provided."
+  },
+  "transfer_policy": "Students are generally not encouraged to shift from one discipline to another. However, in extreme circumstances, transfers within HITEC University may be allowed either within the same merit or to a discipline with lower merit upon the student's request."
+}

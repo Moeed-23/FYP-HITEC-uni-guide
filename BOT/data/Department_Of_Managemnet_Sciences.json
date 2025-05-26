@@ -1,0 +1,396 @@
+
+{
+  "department": "Department of Management Sciences",
+  "description": "The 21st century brings a new set of unprecedented challenges for the corporate world, which has translated into the need for a truly global and efficient workforce. The Management Sciences program provides the foundations for creating, transforming and leading sustainable, innovative enterprises. Its essence rests in the practicability in problem-solving and decision making using qualitative and quantitative methods. The department is established at HITEC University to prepare graduates for influential careers by combining business fundamentals with a global perspective. Students are trained to lead with vision and to manage resources effectively to meet the needs of national and international organizations. The vision is to arouse curiosity, focus on solid core courses, and offer flexibility to pursue individual interests. The curriculum is designed by highly competent professionals according to HEC guidelines and the dynamic needs of the business world. The department also emphasizes enriched learning through research, consultancy, state-of-the-art facilities and active industry engagement.",
+  "faculty": [
+    {
+      "name": "Mr. Farrukh Shahzad",
+      "designation": "Chairperson / Registrar",
+      "qualification": "MBA (International Business), UK MIT",
+      "contact": "registrar@hitecuni.edu.pk"
+    },
+    {
+      "name": "Dr. Shakeel Ahmed",
+      "designation": "Assistant Professor",
+      "qualification": "PhD (Finance), International Islamic University, Islamabad",
+      "areaOfInterest": "Finance",
+      "contact": "shakeel.ahmed@hitecuni.edu.pk"
+    },
+    {
+      "name": "Dr. Saima Wazir",
+      "designation": "Lecturer",
+      "qualification": "PhD (HR), Institute of Management Sciences, Peshawar",
+      "areaOfInterest": "Human Resource",
+      "contact": "saima.wazir@hitecuni.edu.pk"
+    },
+    {
+      "name": "Ms. Shaher bano",
+      "designation": "Lecturer",
+      "qualification": "MS (HR), COMSATS University, Islamabad; PhD (In progress)",
+      "areaOfInterest": "Human Resource",
+      "contact": "shaher.bano@hitecuni.edu.pk"
+    },
+    {
+      "name": "Ms. Mehar bano",
+      "designation": "Lecturer",
+      "qualification": "MS (Marketing), COMSATS University, Islamabad",
+      "areaOfInterest": "Marketing",
+      "contact": "mehar.bano@hitecuni.edu.pk"
+    },
+    {
+      "name": "Ms. Zartashia Hameed",
+      "designation": "Lecturer",
+      "qualification": "MS (Finance), COMSATS University, Islamabad; PhD (In progress)",
+      "areaOfInterest": "Finance",
+      "contact": "zartashia.hameed@hitecuni.edu.pk"
+    }
+  ],
+  "programs": {
+    "BBA": {
+      "description": "The Bachelor of Business Administration (BBA) program is designed to provide students with the knowledge and skills necessary to contribute professionally as business professionals. It emphasizes a cross-disciplinary understanding of core business functions and prepares students to work in diverse, ethical, and culturally sensitive environments. The program focuses on producing future managers with strong theoretical knowledge, leadership and management skills, entrepreneurial spirit, and decision-making capabilities.",
+      "schemeOfStudy": [
+        {
+          "semester": 1,
+          "totalCreditHours": 17,
+          "courses": [
+            { "code": "IT-101", "courseTitle": "IT in Business", "creditHours": "2+1" },
+            { "code": "HS-101", "courseTitle": "English", "creditHours": "3+0" },
+            { "code": "MT-108", "courseTitle": "Business Mathematics", "creditHours": "3+0" },
+            { "code": "IS-211", "courseTitle": "Islamic Studies", "creditHours": "2+0" },
+            { "code": "MKT-101", "courseTitle": "Principles of Marketing", "creditHours": "3+0" },
+            { "code": "MGT-101", "courseTitle": "Principles of Management", "creditHours": "3+0" },
+            { "code": "QT-101", "courseTitle": "Translation of the Quran: Beliefs", "creditHours": "*1+0" }
+          ]
+        },
+        {
+          "semester": 2,
+          "totalCreditHours": 17,
+          "courses": [
+            { "code": "ECO-101", "courseTitle": "Micro Economics", "creditHours": "3+0" },
+            { "code": "HS-103", "courseTitle": "Communication Skills", "creditHours": "3+0" },
+            { "code": "ACC-101", "courseTitle": "Financial Accounting – I", "creditHours": "3+0" },
+            { "code": "HS-102", "courseTitle": "Pakistan Studies", "creditHours": "2+0" },
+            { "code": "MT-109", "courseTitle": "Business Statistics – I", "creditHours": "3+0" },
+            { "code": "HS-106", "courseTitle": "Introduction to Sociology", "creditHours": "3+0" }
+          ]
+        },
+        {
+          "semester": 3,
+          "totalCreditHours": 18,
+          "courses": [
+            { "code": "ACC-102", "courseTitle": "Financial Accounting – II", "creditHours": "3+0" },
+            { "code": "MGT-204", "courseTitle": "Human Resource Management", "creditHours": "3+0" },
+            { "code": "ECO-201", "courseTitle": "Macro Economics", "creditHours": "3+0" },
+            { "code": "HS-202", "courseTitle": "Oral Communication", "creditHours": "3+0" },
+            { "code": "MGT-201", "courseTitle": "Organizational Behaviour", "creditHours": "3+0" },
+            { "code": "MT-205", "courseTitle": "Statistical Inference", "creditHours": "3+0" },
+            { "code": "HS-203", "courseTitle": "Community Service", "creditHours": "0+1" },
+            { "code": "QT-201", "courseTitle": "Translation of the Quran: Worships", "creditHours": "*1+0" }
+          ]
+        },
+        {
+          "semester": 4,
+          "totalCreditHours": 18,
+          "courses": [
+            { "code": "MGT-205", "courseTitle": "Business Ethics", "creditHours": "3+0" },
+            { "code": "HS-107", "courseTitle": "Introduction to Psychology", "creditHours": "3+0" },
+            { "code": "FIN-301", "courseTitle": "Business Finance", "creditHours": "3+0" },
+            { "code": "HS-204", "courseTitle": "Business Communication", "creditHours": "3+0" },
+            { "code": "MKT-201", "courseTitle": "Marketing Management", "creditHours": "3+0" },
+            { "code": "FIN-201", "courseTitle": "Cost Accounting", "creditHours": "3+0" }
+          ]
+        },
+        {
+          "semester": 5,
+          "totalCreditHours": 19,
+          "courses": [
+            { "code": "FIN-202", "courseTitle": "Financial Management", "creditHours": "3+0" },
+            { "code": "MGT-301", "courseTitle": "Business Law", "creditHours": "3+0" },
+            { "code": "MIS-201", "courseTitle": "Management Information System", "creditHours": "3+0" },
+            { "code": "ACC-314", "courseTitle": "Managerial Accounting", "creditHours": "3+0" },
+            { "code": "MGT-302", "courseTitle": "Business Research Methods", "creditHours": "3+0" },
+            { "code": "FIN-316", "courseTitle": "Analysis of Financial Statements", "creditHours": "3+0" },
+            { "code": "QT-301", "courseTitle": "Translation of the Quran: Moral Values", "creditHours": "*1+0" }
+          ]
+        },
+        {
+          "semester": 6,
+          "totalCreditHours": 18,
+          "courses": [
+            { "code": "MGT-401", "courseTitle": "International Business Management", "creditHours": "3+0" },
+            { "code": "HS-404", "courseTitle": "Foreign Language", "creditHours": "1+1" },
+            { "code": "HS-405", "courseTitle": "Logic & Critical Thinking", "creditHours": "3+0" },
+            { "code": "XXX", "courseTitle": "Specialization – I", "creditHours": "3+0" },
+            { "code": "XXX", "courseTitle": "Specialization – II", "creditHours": "3+0" },
+            { "code": "QT-401", "courseTitle": "Translation of the Quran: Dealings & Commandments", "creditHours": "*1+0" }
+          ]
+        },
+        {
+          "semester": 7,
+          "totalCreditHours": 18,
+          "courses": [
+            { "code": "HS-405", "courseTitle": "International Relations", "creditHours": "3+0" },
+            { "code": "HS-406", "courseTitle": "Pakistan Economy", "creditHours": "3+0" },
+            { "code": "HS-407", "courseTitle": "Strategic Management", "creditHours": "3+0" },
+            { "code": "XXX", "courseTitle": "Specialization – III", "creditHours": "3+0" },
+            { "code": "XXX", "courseTitle": "Specialization – IV", "creditHours": "3+0" },
+            { "code": "MGT-499", "courseTitle": "Final Year Project – I", "creditHours": "3+0" }
+          ]
+        },
+        {
+          "semester": 8,
+          "totalCreditHours": 12,
+          "courses": [
+            { "code": "XXX", "courseTitle": "Specialization – V", "creditHours": "3+0" },
+            { "code": "XXX", "courseTitle": "Specialization – VI", "creditHours": "3+0" },
+            { "code": "MGT-499", "courseTitle": "Final Year Project – II", "creditHours": "3+0" },
+            { "code": "QT-401", "courseTitle": "Translation of the Quran: Advanced Ethics", "creditHours": "*1+0" }
+          ]
+        }
+      ]
+    },
+    "BSc (Honors) Accounting & Finance": {
+      "description": "The BS (Accounting & Finance) program is a highly specialized degree that prepares graduates with expertise in accountancy and finance. Students acquire the knowledge and technical skills to analyze accounting and finance problems and learn how to communicate and use financial information to support business decisions. The program offers specialization in Accounting and/or Finance and also provides an opportunity to attempt ACCA (UK) examinations. It equips students with a solid foundation in accounting and finance as well as essential interpersonal, computer, and communication skills necessary for success in today’s business environment. Graduates can pursue careers as Financial Accountants, Forensic Accountants, Management Accountants, Auditors, CFOs, Financial Advisors, or Tax Specialists.",
+      "schemeOfStudy": [
+        {
+          "semester": 1,
+          "totalCreditHours": 17,
+          "courses": [
+            { "code": "IT-101", "courseTitle": "IT in Business", "creditHours": "2+1" },
+            { "code": "HS-101", "courseTitle": "English", "creditHours": "3+0" },
+            { "code": "MT-108", "courseTitle": "Business Mathematics", "creditHours": "3+0" },
+            { "code": "IS-211", "courseTitle": "Islamic Studies", "creditHours": "2+0" },
+            { "code": "MKT-101", "courseTitle": "Principles of Marketing", "creditHours": "3+0" },
+            { "code": "MGT-101", "courseTitle": "Principles of Management", "creditHours": "3+0" },
+            { "code": "QT-101", "courseTitle": "Translation of the Quran: Beliefs", "creditHours": "*1+0" }
+          ]
+        },
+        {
+          "semester": 2,
+          "totalCreditHours": 17,
+          "courses": [
+            { "code": "ECO-101", "courseTitle": "Micro Economics", "creditHours": "3+0" },
+            { "code": "HS-103", "courseTitle": "Communication Skills", "creditHours": "3+0" },
+            { "code": "ACC-101", "courseTitle": "Financial Accounting – I", "creditHours": "3+0" },
+            { "code": "HS-102", "courseTitle": "Pakistan Studies", "creditHours": "2+0" },
+            { "code": "MT-109", "courseTitle": "Business Statistics – I", "creditHours": "3+0" },
+            { "code": "HS-106", "courseTitle": "Introduction to Sociology", "creditHours": "3+0" }
+          ]
+        },
+        {
+          "semester": 3,
+          "totalCreditHours": 18,
+          "courses": [
+            { "code": "ACC-102", "courseTitle": "Financial Accounting – II", "creditHours": "3+0" },
+            { "code": "MGT-204", "courseTitle": "Human Resource Management", "creditHours": "3+0" },
+            { "code": "ECO-201", "courseTitle": "Macro Economics", "creditHours": "3+0" },
+            { "code": "HS-202", "courseTitle": "Oral Communication", "creditHours": "3+0" },
+            { "code": "MGT-201", "courseTitle": "Organizational Behaviour", "creditHours": "3+0" },
+            { "code": "MT-205", "courseTitle": "Statistical Inference", "creditHours": "3+0" },
+            { "code": "HS-203", "courseTitle": "Community Service", "creditHours": "0+1" },
+            { "code": "QT-201", "courseTitle": "Translation of the Quran: Worships", "creditHours": "*1+0" }
+          ]
+        },
+        {
+          "semester": 4,
+          "totalCreditHours": 18,
+          "courses": [
+            { "code": "MGT-205", "courseTitle": "Business Ethics", "creditHours": "3+0" },
+            { "code": "FIN-322", "courseTitle": "Financial Reporting", "creditHours": "3+0" },
+            { "code": "FIN-301", "courseTitle": "Business Finance", "creditHours": "3+0" },
+            { "code": "HS-204", "courseTitle": "Business Communication", "creditHours": "3+0" },
+            { "code": "FIN-404", "courseTitle": "Financial Market Institutions", "creditHours": "3+0" },
+            { "code": "FIN-201", "courseTitle": "Cost Accounting", "creditHours": "3+0" }
+          ]
+        },
+        {
+          "semester": 5,
+          "totalCreditHours": 18,
+          "courses": [
+            { "code": "FIN-202", "courseTitle": "Financial Management", "creditHours": "3+0" },
+            { "code": "MGT-301", "courseTitle": "Business Law", "creditHours": "3+0" },
+            { "code": "MIS-201", "courseTitle": "Management Information System", "creditHours": "3+0" },
+            { "code": "ACC-314", "courseTitle": "Managerial Accounting", "creditHours": "3+0" },
+            { "code": "MGT-302", "courseTitle": "Business Research Methods", "creditHours": "3+0" },
+            { "code": "FIN-316", "courseTitle": "Analysis of Financial Statements", "creditHours": "3+0" },
+            { "code": "QT-301", "courseTitle": "Translation of the Quran: Moral Values", "creditHours": "*1+0" }
+          ]
+        },
+        {
+          "semester": 6,
+          "totalCreditHours": 18,
+          "courses": [
+            { "code": "ACC-321", "courseTitle": "Taxation Management", "creditHours": "3+0" },
+            { "code": "MGT-304", "courseTitle": "Operations Management", "creditHours": "3+0" },
+            { "code": "FIN-302", "courseTitle": "Money and Banking", "creditHours": "3+0" },
+            { "code": "HS-304", "courseTitle": "Pakistan Economy", "creditHours": "3+0" },
+            { "code": "FIN-325", "courseTitle": "Investment & Portfolio Management", "creditHours": "3+0" },
+            { "code": "HS-302", "courseTitle": "International Relations", "creditHours": "3+0" }
+          ]
+        }
+      ]
+    },
+    "MBA": {
+      "description": "The HITEC University MBA program is designed to develop students' intellectual ability, executive personality, and managerial skills through a blend of business and general education. It provides a comprehensive management education based on globally recognized best practices with flexibility for adaptation to indigenous contexts. The MBA prepares individuals for careers in business organizations, government, international agencies, and the nonprofit sector, and is offered in two pathways based on the student's background.",
+      "schemeOfStudy": [
+        {
+          "semester": 1,
+          "totalCreditHours": 15,
+          "courses": [
+            { "code": "HS-406", "courseTitle": "Introduction to Economics", "creditHours": "3+0" },
+            { "code": "MT-205", "courseTitle": "Statistical Inference", "creditHours": "3+0" },
+            { "code": "ACC-101", "courseTitle": "Financial Accounting-1", "creditHours": "3+0" },
+            { "code": "MKT-201", "courseTitle": "Marketing Management", "creditHours": "3+0" },
+            { "code": "MGT-101", "courseTitle": "Principles of Management", "creditHours": "3+0" }
+          ]
+        },
+        {
+          "semester": 2,
+          "totalCreditHours": 18,
+          "courses": [
+            { "code": "FIN-521", "courseTitle": "Financial Management", "creditHours": "3+0" },
+            { "code": "ECO-522", "courseTitle": "Managerial Economics", "creditHours": "3+0" },
+            { "code": "ACC-526", "courseTitle": "Managerial Accounting", "creditHours": "3+0" },
+            { "code": "X-XXX", "courseTitle": "Elective 1", "creditHours": "3+0" },
+            { "code": "X-XXX", "courseTitle": "Elective 2", "creditHours": "3+0" },
+            { "code": "X-XXX", "courseTitle": "Elective 3", "creditHours": "3+0" }
+          ]
+        },
+        {
+          "semester": 3,
+          "totalCreditHours": 18,
+          "courses": [
+            { "code": "MGT-611", "courseTitle": "Applied Research Methods", "creditHours": "3+0" },
+            { "code": "MGT-613", "courseTitle": "Strategic Management", "creditHours": "3+0" },
+            { "code": "X-XXX", "courseTitle": "Elective 4", "creditHours": "3+0" },
+            { "code": "X-XXX", "courseTitle": "Elective 5", "creditHours": "3+0" },
+            { "code": "X-XXX", "courseTitle": "Elective 6", "creditHours": "3+0" },
+            { "code": "X-XXX", "courseTitle": "Dissertation/Project - Proposal Development", "creditHours": "3+0" }
+          ]
+        },
+        {
+          "semester": 4,
+          "totalCreditHours": 15,
+          "courses": [
+            { "code": "MKT-525", "courseTitle": "Strategic Marketing", "creditHours": "3+0" },
+            { "code": "FIN-621", "courseTitle": "Strategic Finance", "creditHours": "3+0" },
+            { "code": "X-XXX", "courseTitle": "Elective 7", "creditHours": "3+0" },
+            { "code": "X-XXX", "courseTitle": "Elective 8", "creditHours": "3+0" },
+            { "code": "X-XXX", "courseTitle": "Dissertation/Project-Writeup", "creditHours": "3+0" }
+          ]
+        }
+      ],
+      "alternativeScheme": [
+        {
+          "semester": 1,
+          "totalCreditHours": 12,
+          "courses": [
+            { "code": "ECO-522", "courseTitle": "Managerial Economics", "creditHours": "3+0" },
+            { "code": "ACC-526", "courseTitle": "Managerial Accounting", "creditHours": "3+0" },
+            { "code": "X-XXX", "courseTitle": "Elective 1", "creditHours": "3+0" },
+            { "code": "X-XXX", "courseTitle": "Elective 2", "creditHours": "3+0" }
+          ]
+        },
+        {
+          "semester": 2,
+          "totalCreditHours": 18,
+          "courses": [
+            { "code": "MGT-611", "courseTitle": "Applied Research Methods", "creditHours": "3+0" },
+            { "code": "MGT-613", "courseTitle": "Strategic Management", "creditHours": "3+0" },
+            { "code": "X-XXX", "courseTitle": "Elective 4", "creditHours": "3+0" },
+            { "code": "X-XXX", "courseTitle": "Elective 5", "creditHours": "3+0" },
+            { "code": "X-XXX", "courseTitle": "Elective 6", "creditHours": "3+0" },
+            { "code": "X-XXX", "courseTitle": "Dissertation/Project - Proposal Development", "creditHours": "3+0" }
+          ]
+        },
+        {
+          "semester": 3,
+          "totalCreditHours": 15,
+          "courses": [
+            { "code": "MKT-525", "courseTitle": "Strategic Marketing", "creditHours": "3+0" },
+            { "code": "FIN-621", "courseTitle": "Strategic Finance", "creditHours": "3+0" },
+            { "code": "X-XXX", "courseTitle": "Elective 7", "creditHours": "3+0" },
+            { "code": "X-XXX", "courseTitle": "Elective 8", "creditHours": "3+0" },
+            { "code": "X-XXX", "courseTitle": "Dissertation/Project-Writeup", "creditHours": "3+0" }
+          ]
+        }
+      ]
+    }
+  },
+  "electives": {
+    "Finance": [
+      { "code": "FIN-401", "courseTitle": "Corporate Finance", "creditHours": "3+0" },
+      { "code": "FIN-402", "courseTitle": "Commercial and Investment Banking", "creditHours": "3+0" },
+      { "code": "FIN-403", "courseTitle": "Security and Portfolio Analysis", "creditHours": "3+0" },
+      { "code": "FIN-404", "courseTitle": "Financial Markets and Institutions", "creditHours": "3+0" },
+      { "code": "FIN-405", "courseTitle": "International Finance", "creditHours": "3+0" },
+      { "code": "FIN-406", "courseTitle": "Analysis of Financial Statements", "creditHours": "3+0" }
+    ],
+    "HRM": [
+      { "code": "HRM-401", "courseTitle": "Recruitment & Selection", "creditHours": "3+0" },
+      { "code": "HRM-402", "courseTitle": "Training & Development", "creditHours": "3+0" },
+      { "code": "HRM-403", "courseTitle": "Performance Management", "creditHours": "3+0" },
+      { "code": "HRM-404", "courseTitle": "Negotiations and Conflict Management", "creditHours": "3+0" },
+      { "code": "HRM-405", "courseTitle": "Change Management", "creditHours": "3+0" },
+      { "code": "HRM-406", "courseTitle": "Human Resource Development", "creditHours": "3+0" }
+    ],
+    "Marketing": [
+      { "code": "MKT-401", "courseTitle": "Brand Management", "creditHours": "3+0" },
+      { "code": "MKT-402", "courseTitle": "Service Marketing", "creditHours": "3+0" },
+      { "code": "MKT-403", "courseTitle": "International Marketing", "creditHours": "3+0" },
+      { "code": "MKT-404", "courseTitle": "Retail Marketing", "creditHours": "3+0" },
+      { "code": "MKT-405", "courseTitle": "Customer Relationship Management", "creditHours": "3+0" },
+      { "code": "MKT-406", "courseTitle": "Advertising", "creditHours": "3+0" }
+    ]
+  },
+  "mbaSpecializationCourses": {
+    "Finance": [
+      { "code": "FIN-713", "courseTitle": "Investment Analysis & Advanced Portfolio Management", "creditHours": "3+0" },
+      { "code": "FIN-624", "courseTitle": "Financial Reporting and Analysis", "creditHours": "3+0" },
+      { "code": "FIN-614", "courseTitle": "Financial Risk Management", "creditHours": "3+0" },
+      { "code": "FIN-623", "courseTitle": "Financial Market & Institutions", "creditHours": "3+0" },
+      { "code": "FIN-615", "courseTitle": "Financial Modelling", "creditHours": "3+0" },
+      { "code": "FIN-714", "courseTitle": "Islamic Banking and Finance", "creditHours": "3+0" },
+      { "code": "FIN-610", "courseTitle": "Taxation and Auditing", "creditHours": "3+0" },
+      { "code": "FIN-612", "courseTitle": "Financial Econometrics", "creditHours": "3+0" },
+      { "code": "FIN-716", "courseTitle": "Financial Derivatives", "creditHours": "3+0" },
+      { "code": "FIN-715", "courseTitle": "Fixed Income Analysis", "creditHours": "3+0" },
+      { "code": "FIN-623", "courseTitle": "Debt and Equity Markets", "creditHours": "3+0" },
+      { "code": "FIN-831", "courseTitle": "SME and Micro-Financing", "creditHours": "3+0" },
+      { "code": "FIN-832", "courseTitle": "Financial Modelling for Investment Decisions", "creditHours": "3+0" },
+      { "code": "FIN-831", "courseTitle": "Applied Corporate Finance", "creditHours": "3+0" },
+      { "code": "FIN-832", "courseTitle": "Merges and Acquisitions", "creditHours": "3+0" }
+    ],
+    "Marketing": [
+      { "code": "MKT-611", "courseTitle": "International Marketing", "creditHours": "3+0" },
+      { "code": "MKT-625", "courseTitle": "Advanced Brand Management", "creditHours": "3+0" },
+      { "code": "MKT-613", "courseTitle": "Marketing Analytics", "creditHours": "3+0" },
+      { "code": "MKT-627", "courseTitle": "Integrated Marketing Communication", "creditHours": "3+0" },
+      { "code": "MKT-614", "courseTitle": "Promotion and Advertising Management", "creditHours": "3+0" },
+      { "code": "MKT-615", "courseTitle": "Export Marketing / Brand Management", "creditHours": "3+0" },
+      { "code": "MKT-616", "courseTitle": "New Product Development", "creditHours": "3+0" },
+      { "code": "MKT-626", "courseTitle": "Consumer Behaviour", "creditHours": "3+0" },
+      { "code": "MKT-721", "courseTitle": "Services Marketing", "creditHours": "3+0" },
+      { "code": "MKT-715", "courseTitle": "Future Marketing Technologies", "creditHours": "3+0" },
+      { "code": "MKT-724", "courseTitle": "Marketing Strategies for Emerging Economies", "creditHours": "3+0" },
+      { "code": "---", "courseTitle": "Sales Management", "creditHours": "3+0" }
+    ],
+    "HRM": [
+      { "code": "MGT-615", "courseTitle": "Compensation Management", "creditHours": "3+0" },
+      { "code": "MGT-821", "courseTitle": "Innovation and Change Management", "creditHours": "3+0" },
+      { "code": "MGT-712", "courseTitle": "International Human Resource Management", "creditHours": "3+0" },
+      { "code": "MGT-627", "courseTitle": "Recruitment and Selection Techniques", "creditHours": "3+0" },
+      { "code": "MGT-617", "courseTitle": "Training and Development", "creditHours": "3+0" },
+      { "code": "MGT-626", "courseTitle": "Human Resources Information Systems", "creditHours": "3+0" },
+      { "code": "MGT-618", "courseTitle": "Job Analysis and Design", "creditHours": "3+0" },
+      { "code": "MGT-715", "courseTitle": "Human Resource Development", "creditHours": "3+0" },
+      { "code": "MGT-726", "courseTitle": "Leadership Studies", "creditHours": "3+0" },
+      { "code": "MGT-612", "courseTitle": "Labour Relations Management", "creditHours": "3+0" },
+      { "code": "MGT-825", "courseTitle": "Management of Diversity", "creditHours": "3+0" },
+      { "code": "MGT-813", "courseTitle": "Organizational Learning & Knowledge Management", "creditHours": "3+0" },
+      { "code": "MGT-814", "courseTitle": "Performance Appraisals", "creditHours": "3+0" },
+      { "code": "MGT-616", "courseTitle": "Organizational Development", "creditHours": "3+0" },
+      { "code": "MGT-811", "courseTitle": "Talent Management and Succession Planning", "creditHours": "3+0" }
+    ]
+  }
+}

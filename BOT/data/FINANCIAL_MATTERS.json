@@ -1,0 +1,312 @@
+
+{
+  "financialMatters": {
+    "treasurerOffice": {
+      "description": "The Treasurer is the Chief Financial Officer of HITEC University, responsible for maintaining and preparing the University accounts according to Pakistani accounting practices. This office manages assets, liabilities, receipts, expenditures, funds, and investments; ensures fund utilization per the Board‑approved budget; and performs functions assigned by the Board of Governors."
+    },
+    "paymentOfDuesProcedure": [
+      "Student registers/enrolls in courses through the portal using their official email address.",
+      "After successful enrollment, the semester fee voucher becomes available for download and printing via the student's MIS user ID.",
+      "Student prints the voucher and pays the semester fee by the due date at any Askari Bank Ltd branch or the HITEC University Accounts Office.",
+      "All students must deposit semester fees and allied charges by the due date before classes start; thereafter fines/penalties apply per University policy.",
+      "At admission, students pay admission & registration fees, security deposit, and full semester fee in advance.",
+      "Students must submit the original paid fee voucher to the Treasurer Office – Collection Section.",
+      "Students must also submit a copy of the paid voucher via WhatsApp or email to:\n  • Mobile: 0315-5169152\n  • Email: fee@hitecuni.edu.pk",
+      "Failure to submit the original voucher will result in the student's name appearing on the outstanding dues list."
+    ],
+    "fee": [
+      {
+        "program": "BS Engineering",
+        "admissionRegistrationFee": "Rs. 30,000/-",
+        "securityDeposit": "Rs. 25,000/-",
+        "semesterFee": "Rs. 140,000/-"
+      },
+      {
+        "program": "BS Computer Sciences",
+        "admissionRegistrationFee": "Rs. 35,000/-",
+        "securityDeposit": "Rs. 25,000/-",
+        "semesterFee": "Rs. 108,000/-"
+      },
+      {
+        "program": "BS Software Engineering",
+        "admissionRegistrationFee": "Rs. 35,000/-",
+        "securityDeposit": "Rs. 25,000/-",
+        "semesterFee": "Rs. 108,000/-"
+      },
+      {
+        "program": "BS Artificial Intelligence (AI)",
+        "admissionRegistrationFee": "Rs. 35,000/-",
+        "securityDeposit": "Rs. 25,000/-",
+        "semesterFee": "Rs. 108,000/-"
+      },
+      {
+        "program": "BS Cyber Security",
+        "admissionRegistrationFee": "Rs. 35,000/-",
+        "securityDeposit": "Rs. 25,000/-",
+        "semesterFee": "Rs. 108,000/-"
+      },
+      {
+        "program": "BBA",
+        "admissionRegistrationFee": "Rs. 25,000/-",
+        "securityDeposit": "Rs. 25,000/-",
+        "semesterFee": "Rs. 99,000/-"
+      },
+      {
+        "program": "Accounting & Finance",
+        "admissionRegistrationFee": "Rs. 25,000/-",
+        "securityDeposit": "Rs. 25,000/-",
+        "semesterFee": "Rs. 99,000/-"
+      },
+      {
+        "program": "BS Robotics and Automation",
+        "admissionRegistrationFee": "Rs. 25,000/-",
+        "securityDeposit": "Rs. 25,000/-",
+        "semesterFee": "Rs. 85,000/-"
+      },
+      {
+        "program": "BS IoT (Internet of Things)",
+        "admissionRegistrationFee": "Rs. 25,000/-",
+        "securityDeposit": "Rs. 25,000/-",
+        "semesterFee": "Rs. 85,000/-"
+      },
+      {
+        "program": "BS Mathematics",
+        "admissionRegistrationFee": "Rs. 25,000/-",
+        "securityDeposit": "Rs. 25,000/-",
+        "semesterFee": "Rs. 60,000/-"
+      },
+      {
+        "program": "BS Islamic Studies",
+        "admissionRegistrationFee": "Rs. 25,000/-",
+        "securityDeposit": "Rs. 25,000/-",
+        "semesterFee": "Rs. 36,000/-"
+      },
+      {
+        "program": "MS Engineering",
+        "admissionRegistrationFee": "Rs. 25,000/-",
+        "securityDeposit": "Rs. 25,000/-",
+        "semesterFee": "Rs. 7,500/-"
+      },
+      {
+        "program": "MS Mathematics",
+        "admissionRegistrationFee": "Rs. 25,000/-",
+        "securityDeposit": "Rs. 25,000/-",
+        "semesterFee": "Rs. 7,500/-"
+      },
+      {
+        "program": "MS Computer Sciences",
+        "admissionRegistrationFee": "Rs. 25,000/-",
+        "securityDeposit": "Rs. 25,000/-",
+        "semesterFee": "Rs. 7,500/-"
+      },
+      {
+        "program": "MS Islamic Studies",
+        "admissionRegistrationFee": "Rs. 25,000/-",
+        "securityDeposit": "Rs. 25,000/-",
+        "semesterFee": "Rs. 5,000/-"
+      },
+      {
+        "program": "MBA",
+        "admissionRegistrationFee": "Rs. 25,000/-",
+        "securityDeposit": "Rs. 25,000/-",
+        "semesterFee": "Rs. 99,000/-"
+      },
+      {
+        "program": "PhD",
+        "admissionRegistrationFee": "Rs. 25,000/-",
+        "securityDeposit": "Rs. 25,000/-",
+        "semesterFee": "Rs. 7,500/-"
+      }
+    ],
+    "otherCharges": [
+      {
+        "feeType": "Transportation Fee",
+        "amount": "Rs. 35,000/-"
+      },
+      {
+        "feeType": "MS Thesis Supervisory & Evaluation",
+        "amount": "Rs. 25,000/-"
+      },
+      {
+        "feeType": "PhD Thesis Supervisory & Evaluation",
+        "amount": "Rs. 35,000/-"
+      }
+    ],
+    "hostelChargesFY2024_25": [
+      {
+        "description": "Hostel Security (Refundable)",
+        "boysHostel": "Rs. 60,000/-",
+        "girlsHostel": "Rs. 60,000/-"
+      },
+      {
+        "description": "Monthly Hostel Charges",
+        "boysHostel": "Rs. 30,000/-",
+        "girlsHostel": "Rs. 30,000/-"
+      },
+      {
+        "description": "Hostel Card Fee",
+        "boysHostel": "Rs. 500/-",
+        "girlsHostel": "Rs. 500/-"
+      }
+    ],
+    "feeRefundPolicy": {
+      "policyTable": [
+        {
+          "timeline": "Up to 7th day of commencement of classes",
+          "refundPercentage": "100%"
+        },
+        {
+          "timeline": "From 8th to 15th day of commencement",
+          "refundPercentage": "50%"
+        },
+        {
+          "timeline": "From 16th day of commencement",
+          "refundPercentage": "0%"
+        }
+      ],
+      "notes": [
+        "Admission Fee is non-refundable.",
+        "Timeline includes weekdays and weekends.",
+        "Policy follows HEC letter No. 10-1/HEC/A&C/2012/94 dated 11th September, 2012."
+      ]
+    },
+    "latePaymentPenalties": [
+      {
+        "timeline": "After expiry of one week (8th day)",
+        "fine": "5% of total semester fee"
+      },
+      {
+        "timeline": "After expiry of two weeks (15th day)",
+        "fine": "10% of total semester fee"
+      },
+      {
+        "timeline": "On the 15th day from semester start",
+        "action": "Suspension from University rolls"
+      }
+    ],
+    "reactivationRestoration": {
+      "conditions": [
+        "Within first four weeks of semester",
+        "Payment of reinstatement fee: Rs. 5,000/-",
+        "Plus all outstanding charges and fines"
+      ]
+    },
+    "enrollmentClosure": "Enrollment closes two days after start of Fall (first week of September) and Spring (last week of January) semesters; students failing to enroll or pay will not be allowed to continue.",
+    "concessionFinancialAssistanceScholarship": [
+      {
+        "category": "1st Semester Merit List Positions",
+        "criteria": "50% tuition fee waiver for 1st semester only"
+      },
+      {
+        "category": "NORINCO Scholarship",
+        "criteria": "Awarded to E&ME position holders per semester; minimum GPA 3.50"
+      },
+      {
+        "category": "HITEC University Merit/Position Holder Scholarship",
+        "criteria": "Awarded to position holders of all programs per semester; minimum GPA 3.50"
+      },
+      {
+        "category": "Need Cum Merit Financial Assistance",
+        "criteria": "Awarded to eligible candidates; minimum GPA 2.50"
+      },
+      {
+        "category": "Muhammad Nusrat Scholarship Program",
+        "criteria": "Awarded to deserving candidates as per policy"
+      },
+      {
+        "category": "Begum Razia Sultana Scholarship Program",
+        "criteria": "Awarded to deserving candidates as per policy"
+      },
+      {
+        "category": "Thinker’s Forum Pakistan Scholarship",
+        "criteria": "Awarded on performance basis"
+      },
+      {
+        "category": "Ihsan Trust Qarz-e-Hasna",
+        "criteria": "In collaboration with Meezan Bank’s Ihsan Trust for eligible candidates"
+      },
+      {
+        "category": "Top 25 Board Position Holders",
+        "criteria": "100% tuition fee waiver; minimum GPA 3.50 each semester"
+      },
+      {
+        "category": "Scholarship to Haffaz",
+        "criteria": "Awarded to eligible candidates as per policy"
+      },
+      {
+        "category": "HIT Wards Fee Concession",
+        "criteria": "Awarded to eligible wards of HIT employees"
+      },
+      {
+        "category": "HITEC University Wards Fee Concession",
+        "criteria": "Awarded to eligible wards as per policy"
+      },
+      {
+        "category": "Fee Concession to Graduates of HITEC College",
+        "criteria": "Awarded to HITEC College graduates as per policy"
+      }
+    ],
+    "miscellaneousCharges": [
+      {
+        "feeCategory": "Course Repeat / Additional / Summer Semester Fee",
+        "amount": "Rs. 7,000/- per credit hour"
+      },
+      {
+        "feeCategory": "Semester Freeze Fee (UG)",
+        "amount": "25% of semester fee"
+      },
+      {
+        "feeCategory": "Semester Freeze Fee (PG)",
+        "amount": "Rs. 10,000/- per semester"
+      },
+      {
+        "feeCategory": "Migration Fee",
+        "amount": "25% of semester fee per exempted semester"
+      },
+      {
+        "feeCategory": "Transcript Fee (Normal, 7 working days)",
+        "amount": "Rs. 500/-"
+      },
+      {
+        "feeCategory": "Transcript Fee (Urgent, 3 working days)",
+        "amount": "Rs. 1,500/-"
+      },
+      {
+        "feeCategory": "Degree Fee (Normal, 7 working days)",
+        "amount": "Rs. 3,000/-"
+      },
+      {
+        "feeCategory": "Degree Fee (Urgent, 3 working days)",
+        "amount": "Rs. 5,000/-"
+      },
+      {
+        "feeCategory": "Additional Grade Report (Including Attestation)",
+        "amount": "Rs. 300/- per semester"
+      },
+      {
+        "feeCategory": "Recalculation Fee",
+        "amount": "Rs. 1,000/- per subject"
+      },
+      {
+        "feeCategory": "Attestation Fee",
+        "amount": "Rs. 100/- per document"
+      },
+      {
+        "feeCategory": "Duplicate Admit Card",
+        "amount": "Rs. 200/-"
+      },
+      {
+        "feeCategory": "Verification Fee (Local)",
+        "amount": "Rs. 1,500/-"
+      },
+      {
+        "feeCategory": "Verification Fee (Overseas)",
+        "amount": "Rs. 5,000/-"
+      },
+      {
+        "feeCategory": "Convocation Charges",
+        "amount": "Rs. 10,000/- (deducted from security deposit)"
+      }
+    ]
+  }
+}

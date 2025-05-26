@@ -1,0 +1,285 @@
+{
+  "department": "Department of Computer Engineering",
+  "description": "The Department of Computer Engineering (DCE) was established in 2014 with the objective to furnish students with state-of-the-art quality education and prepare them for a rewarding future. The department focuses on practical and technical skills that students can effectively use in industry and society. It has experienced, dedicated, and foreign-qualified faculty members for its undergraduate and postgraduate programs. The curriculum meets the criteria set by the Higher Education Commission of Pakistan and industrial perspectives, allowing students to explore their interests and capabilities. The department emphasizes Outcome-Based Education (OBE) principles laid down by the Washington Accord and has been accredited by the Pakistan Engineering Council (PEC). It offers advanced computer laboratories and promotes social responsibility through community service and extracurricular activities.",
+  "faculty": [
+    {
+      "name": "Dr. Imran Ashraf",
+      "designation": "Assistant Professor",
+      "qualification": "PhD, TU Delst, The Netherlands",
+      "areaOfInterest": "Advanced Profiling, Heterogeneous Computing, Quantum Computing, Compiler Technology",
+      "contact": "imran.ashraf@hitecuni.edu.pk"
+    },
+    {
+      "name": "Dr. Raza Ali Shah",
+      "designation": "Assistant Professor",
+      "qualification": "PhD (Information and Communication Technologies), AIT, Thailand",
+      "areaOfInterest": "Wireless Communication",
+      "contact": "raza.ali.shah@hitecuni.edu.pk"
+    },
+    {
+      "name": "Mr. Tehseen Ahsan",
+      "designation": "Assistant Professor",
+      "qualification": "MS, University of Surrey, UK; PhD (in progress)",
+      "areaOfInterest": "Deep Learning, Secure Communications, Communication Systems",
+      "contact": "tehseen.ahsan@hitecuni.edu.pk"
+    },
+    {
+      "name": "Mr. Tauqeer Anjum",
+      "designation": "Lecturer",
+      "qualification": "MS, University of Kiel, Germany",
+      "areaOfInterest": "Signal Processing",
+      "contact": "tauqeer.anjum@hitecuni.edu.pk"
+    },
+    {
+      "name": "Ms. Sara Tehsin",
+      "designation": "Lecturer",
+      "qualification": "MS, NUST, Islamabad; PhD (in progress)",
+      "areaOfInterest": "Image Processing, Pattern Recognition, Machine Learning, Neural Networks",
+      "contact": "sara.tehsin@hitecuni.edu.pk"
+    },
+    {
+      "name": "Ms. Kaynat Rana",
+      "designation": "Lab Engineer",
+      "qualification": "MS, UET, Taxila",
+      "areaOfInterest": "Computer Architecture, Embedded Systems",
+      "contact": "kayynat@hitecuni.edu.pk"
+    },
+    {
+      "name": "Ms. Bushra Fiaz",
+      "designation": "Lab Engineer",
+      "qualification": "BS Computer Engineering",
+      "areaOfInterest": "Machine Learning",
+      "contact": "bushra.fiaz@hitecuni.edu.pk"
+    },
+    {
+      "name": "Mr. Ali Raza",
+      "designation": "Lab Engineer",
+      "qualification": "BS Computer Engineering, HITEC University; MS (in progress)",
+      "areaOfInterest": "Image Processing, Computer Vision, Machine Learning, AI on the Edge",
+      "contact": "ali.raza.ce@hitecuni.edu.pk"
+    }
+  ],
+  "program": {
+    "BS Computer Engineering": {
+      "duration": "4 years (8 semesters)",
+      "totalCreditHours": 137,
+      "semesters": [
+        {"semester": 1, "totalCreditHours": 18, "courses": [
+          {"code": "BS-101", "courseTitle": "Engineering Physics", "creditHours": "3+0"},
+          {"code": "HS-101", "courseTitle": "English", "creditHours": "3+0"},
+          {"code": "MT-101", "courseTitle": "Calculus & Analytical Geometry", "creditHours": "3+0"},
+          {"code": "EE-102", "courseTitle": "Electric Circuit Analysis", "creditHours": "3+1"},
+          {"code": "HS-102", "courseTitle": "Pakistan Studies", "creditHours": "2+0"},
+          {"code": "EC-110", "courseTitle": "Computing Fundamentals", "creditHours": "2+1"},
+          {"code": "QT-101", "courseTitle": "Translation of the Quran: Beliefs", "creditHours": "1+0 (NC)"}
+        ]},
+        {"semester": 2, "totalCreditHours": 17, "courses": [
+          {"code": "EE-101", "courseTitle": "Engineering Workshop", "creditHours": "0+1"},
+          {"code": "HS-103", "courseTitle": "Communication Skills", "creditHours": "3+0"},
+          {"code": "EE-111", "courseTitle": "Programming Fundamentals", "creditHours": "3+1"},
+          {"code": "EE-205", "courseTitle": "Electronic Devices and Circuits", "creditHours": "3+1"},
+          {"code": "CS-225", "courseTitle": "Discrete Structures", "creditHours": "3+0"},
+          {"code": "MT-303", "courseTitle": "Applied Linear Algebra", "creditHours": "2+0"}
+        ]},
+        {"semester": 3, "totalCreditHours": 17, "courses": [
+          {"code": "MT-103", "courseTitle": "Differential Equations", "creditHours": "3+0"},
+          {"code": "EE-121", "courseTitle": "Digital Logic Design", "creditHours": "3+1"},
+          {"code": "HS-201", "courseTitle": "Technical Report Writing", "creditHours": "3+0"},
+          {"code": "HS-203", "courseTitle": "Community Service", "creditHours": "0+1 (NC)"},
+          {"code": "IS-211", "courseTitle": "Islamic Studies", "creditHours": "2+0"},
+          {"code": "ME-212", "courseTitle": "Computer-Aided Engineering Design", "creditHours": "0+1"},
+          {"code": "EC-230", "courseTitle": "Object-Oriented Programming", "creditHours": "3+1"},
+          {"code": "QT-201", "courseTitle": "Translation of the Quran: Worships", "creditHours": "1+0 (NC)"}
+        ]},
+        {"semester": 4, "totalCreditHours": 18, "courses": [
+          {"code": "MT-201", "courseTitle": "Complex Variables and Transformers", "creditHours": "3+0"},
+          {"code": "EC-201", "courseTitle": "Engineering Project Management", "creditHours": "3+0"},
+          {"code": "CS-222", "courseTitle": "Data Structures & Algorithms", "creditHours": "3+1"},
+          {"code": "EE-223", "courseTitle": "Signals and Systems", "creditHours": "3+1"},
+          {"code": "CS-228", "courseTitle": "Computer Architecture & Organization", "creditHours": "3+1"}
+        ]},
+        {"semester": 5, "totalCreditHours": 18, "courses": [
+          {"code": "MT-202", "courseTitle": "Numerical Methods", "creditHours": "2+1"},
+          {"code": "CS-204", "courseTitle": "Software Engineering", "creditHours": "3+0"},
+          {"code": "EC-332", "courseTitle": "Computer Communication Networks", "creditHours": "3+1"},
+          {"code": "EC-333", "courseTitle": "Microprocessor & Interfacing Techniques", "creditHours": "3+1"},
+          {"code": "EE-334", "courseTitle": "Database Systems", "creditHours": "3+1"},
+          {"code": "QT-301", "courseTitle": "Translation of the Quran: Moral Values", "creditHours": "1+0 (NC)"}
+        ]},
+        {"semester": 6, "totalCreditHours": 18, "courses": [
+          {"code": "MT-302", "courseTitle": "Probability & Statistics", "creditHours": "3+0"},
+          {"code": "CS-231", "courseTitle": "Operating Systems", "creditHours": "3+1"},
+          {"code": "EC-341", "courseTitle": "Digital System Design", "creditHours": "3+1"},
+          {"code": "EC-390", "courseTitle": "Digital Signal Processing", "creditHours": "3+1"},
+          {"code": "EE-xxx", "courseTitle": "CE Depth Elective-I", "creditHours": "2+1"}
+        ]},
+        {"semester": 7, "totalCreditHours": 16, "courses": [
+          {"code": "HS-401", "courseTitle": "Professional Values & Ethics", "creditHours": "2+0"},
+          {"code": "HS-403", "courseTitle": "Management & Entrepreneurship", "creditHours": "3+0"},
+          {"code": "HS-404", "courseTitle": "Foreign Language", "creditHours": "1+1"},
+          {"code": "EC-xxx", "courseTitle": "CE Depth Elective-II", "creditHours": "2+1"},
+          {"code": "EC-xxx", "courseTitle": "IDEE-I", "creditHours": "2+1"},
+          {"code": "EC-459", "courseTitle": "Final Year Project-I", "creditHours": "0+3"},
+          {"code": "QT-401", "courseTitle": "Translation of the Quran: Dealings & Commands", "creditHours": "1+0 (NC)"}
+        ]},
+        {"semester": 8, "totalCreditHours": 15, "courses": [
+          {"code": "HS-402", "courseTitle": "Economics", "creditHours": "2+0"},
+          {"code": "ME-407", "courseTitle": "Health Safety & Environment", "creditHours": "1+0"},
+          {"code": "EC-xxx", "courseTitle": "CE Depth Elective-III", "creditHours": "2+1"},
+          {"code": "EC-xxx", "courseTitle": "CE Depth Elective-IV", "creditHours": "2+1"},
+          {"code": "EC-xxx", "courseTitle": "IDEE-II", "creditHours": "2+1"},
+          {"code": "EC-493","courseTitle":"Final Year Project-II","creditHours":"0+3"}
+        ]}
+      ]
+    },
+    "MS Computer Engineering": {
+      "duration": "2 years (4 semesters)",
+      "totalCreditHours": 30,
+      "semesters": [
+        {"semester": 1, "totalCreditHours": 9, "courses": [
+          {"code": "EC-xxx", "courseTitle": "Core-I", "creditHours": "3+0"},
+          {"code": "EC-xxx", "courseTitle": "Core-II", "creditHours": "3+0"},
+          {"code": "EC-xxx", "courseTitle": "Elective-I", "creditHours": "3+0"}
+        ]},
+        {"semester": 2, "totalCreditHours": 9, "courses": [
+          {"code": "EC-xxx", "courseTitle": "Core-III", "creditHours": "3+0"},
+          {"code": "EC-xxx", "courseTitle": "Specialization Elective-I", "creditHours": "3+0"},
+          {"code": "EC-xxx", "courseTitle": "Elective-II", "creditHours": "3+0"}
+        ]},
+        {"semester": 3, "totalCreditHours": 9, "courses": [
+          {"code": "EC-xxx", "courseTitle": "Specialization Elective-II", "creditHours": "3+0"},
+          {"code": "EC-xxx", "courseTitle": "Elective-III", "creditHours": "3+0"},
+          {"code": "EC-899", "courseTitle": "Thesis", "creditHours": "3+0"}
+        ]},
+        {"semester": 4, "totalCreditHours": 3, "courses": [
+          {"code": "EC-899", "courseTitle": "Thesis", "creditHours": "3+0"}
+        ]}
+      ],
+      "coreCourses": [
+        {"code": "EC-801", "courseTitle": "Advanced Computer Architecture", "creditHours": "3+0"},
+        {"code": "EC-802", "courseTitle": "Advanced Digital Systems Design", "creditHours": "3+0"},
+        {"code": "EC-803", "courseTitle": "VLSI Architecture and Design Methodologies", "creditHours": "3+0"},
+        {"code": "EC-821", "courseTitle": "Advanced Embedded Systems", "creditHours": "3+0"},
+        {"code": "EC-831", "courseTitle": "Advanced Digital Signal Processing", "creditHours": "3+0"},
+        {"code": "EC-899", "courseTitle": "Thesis", "creditHours": "6+0"}
+      ],
+      "specializationCourses": [
+        {"code": "EC-804","courseTitle":"Advanced Microprocessor and Microcontroller Design","creditHours":"3+0"},
+        {"code": "EC-805","courseTitle":"Microcontroller System Design and Applications","creditHours":"3+0"},
+        {"code": "EC-806","courseTitle":"System on Chip Design","creditHours":"3+0"},
+        {"code": "EC-807","courseTitle":"HW/SW Co-Design","creditHours":"3+0"},
+        {"code": "EC-808","courseTitle":"FPGA Based Systems","creditHours":"3+0"},
+        {"code": "EC-809","courseTitle":"DSP Integrated Circuits","creditHours":"3+0"},
+        {"code": "EC-810","courseTitle":"Advanced FPGA Design","creditHours":"3+0"},
+        {"code": "EC-811","courseTitle":"Parallel Processing Architecture","creditHours":"3+0"},
+        {"code": "EC-812","courseTitle":"RISC Processor Architecture and Programming","creditHours":"3+0"},
+        {"code": "EC-813","courseTitle":"High Performance Programming with Multicore and GPUs","creditHours":"3+0"},
+        {"code": "EC-822","courseTitle":"Embedded Communication Software Design","creditHours":"3+0"},
+        {"code": "EC-823","courseTitle":"Architecture and Design of Distributed Embedded Systems","creditHours":"3+0"},
+        {"code": "EC-824","courseTitle":"Software Modelling for Embedded Systems","creditHours":"3+0"}
+      ],
+      "electives":[{"code":"EC-825","title":"Embedded Control Systems","credits":"3+0"},{"code":"EC-826","title":"Application of MEMS Technology","credits":"3+0"},{"code":"EC-829","title":"Real Time Operating Systems","credits":"3+0"},{"code":"CS-878","title":"Intelligent Systems","credits":"3+0"}]
+    }
+  },
+  
+    "PhD Computer Engineering": {
+      "description": "PhD (Doctor of Philosophy) in Computer Engineering is an esteemed three-year doctorate built around technological advancement and innovation. Following HEC-2021 guidelines and a strong research-oriented learning approach, the program prepares graduates for careers in academia, industry, and research institutions. Students work with experienced faculty across domains such as FPGAs, ASICs, high-performance computing (multicore CPUs, GPUs), and embedded systems, focusing on optimisation for speed, power, energy, reliability, and security. The program requires 24 credit hours of course work plus 30 credit hours of research, and candidates must pass a qualifying exam before commencing doctoral thesis research.",
+      "duration": "3 years",
+      "totalCreditHours": 54,
+      "courseWorkCreditHours": 24,
+      "researchCreditHours": 30,
+      "courses": [
+        {"code": "EC-801", "courseTitle": "Advanced Computer Architecture", "creditHours": "3+0"},
+        {"code": "EC-802", "courseTitle": "Advanced Digital Systems Design", "creditHours": "3+0"},
+        {"code": "EC-803", "courseTitle": "VLSI Architecture and Design Methodologies", "creditHours": "3+0"},
+        {"code": "EC-804", "courseTitle": "Advanced Microprocessor and Microcontroller Design", "creditHours": "3+0"},
+        {"code": "EC-805", "courseTitle": "Microcontroller System Design and Applications", "creditHours": "3+0"},
+        {"code": "EC-806", "courseTitle": "System on Chip Design", "creditHours": "3+0"},
+        {"code": "EC-807", "courseTitle": "HW/SW Co-Design", "creditHours": "3+0"},
+        {"code": "EC-808", "courseTitle": "FPGA Based Systems", "creditHours": "3+0"},
+        {"code": "EC-809", "courseTitle": "DSP Integrated Circuits", "creditHours": "3+0"},
+        {"code": "EC-810", "courseTitle": "Advanced FPGA Design", "creditHours": "3+0"},
+        {"code": "EC-811", "courseTitle": "Parallel Processing Architecture", "creditHours": "3+0"},
+        {"code": "EC-812", "courseTitle": "RISC Processor Architecture and Programming", "creditHours": "3+0"},
+        {"code": "EC-813", "courseTitle": "High-Performance Programming with Multicore and GPUs", "creditHours": "3+0"},
+        {"code": "EC-814", "courseTitle": "Quantum Computing", "creditHours": "3+0"},
+        {"code": "EC-821", "courseTitle": "Advanced Embedded Systems", "creditHours": "3+0"},
+        {"code": "EC-822", "courseTitle": "Embedded Communication Software Design", "creditHours": "3+0"},
+        {"code": "EC-823", "courseTitle": "Architecture and Design of Distributed Embedded Systems", "creditHours": "3+0"},
+        {"code": "EC-824", "courseTitle": "Software Modelling for Embedded Systems", "creditHours": "3+0"},
+        {"code": "EC-825", "courseTitle": "Embedded Control Systems", "creditHours": "3+0"},
+        {"code": "EC-826", "courseTitle": "Application of MEMS Technology", "creditHours": "3+0"},
+        {"code": "EC-829", "courseTitle": "Real-Time Operating Systems", "creditHours": "3+0"},
+        {"code": "EC-831", "courseTitle": "Advanced Digital Signal Processing", "creditHours": "3+0"},
+        {"code": "EC-832", "courseTitle": "Advanced Digital Image Processing and Applications", "creditHours": "3+0"},
+        {"code": "EC-842", "courseTitle": "Wireless and Mobile Communication", "creditHours": "3+0"},
+        {"code": "EC-851", "courseTitle": "Soft Computing", "creditHours": "3+0"},
+        {"code": "EC-853", "courseTitle": "Pattern Recognition and Analysis", "creditHours": "3+0"},
+        {"code": "EC-854", "courseTitle": "Neural and Fuzzy Systems", "creditHours": "3+0"},
+        {"code": "EC-861", "courseTitle": "Advanced Operating Systems", "creditHours": "3+0"},
+        {"code": "EC-955", "courseTitle": "Advance Pattern Recognition", "creditHours": "3+0"},
+        {"code": "EC-871", "courseTitle": "Mobile Communication Systems", "creditHours": "3+0"},
+        {"code": "EC-872", "courseTitle": "Data Communication and Networks", "creditHours": "3+0"},
+        {"code": "EC-873", "courseTitle": "Multimedia Communication", "creditHours": "3+0"},
+        {"code": "EC-874", "courseTitle": "Information Theory and Coding", "creditHours": "3+0"},
+        {"code": "EC-876", "courseTitle": "Embedded Wireless Sensor Networks", "creditHours": "3+0"},
+        {"code": "EC-877", "courseTitle": "Embedded Networking", "creditHours": "3+0"},
+        {"code": "EC-878", "courseTitle": "Ad-hoc Networks", "creditHours": "3+0"},
+        {"code": "EC-879", "courseTitle": "Distributed Embedded Computing", "creditHours": "3+0"},
+        {"code": "EC-880", "courseTitle": "Advance Cloud Computing", "creditHours": "3+0"},
+        {"code": "EC-882", "courseTitle": "Distributed Database Systems", "creditHours": "3+0"},
+        {"code": "EC-884", "courseTitle": "Advanced Fault-Tolerant Computing", "creditHours": "3+0"},
+        {"code": "EC-890", "courseTitle": "Robotics and Control", "creditHours": "3+0"},
+        {"code": "EC-891", "courseTitle": "Pervasive Devices and Technology", "creditHours": "3+0"},
+        {"code": "EC-892", "courseTitle": "Real-Time Systems", "creditHours": "3+0"},
+        {"code": "EC-893", "courseTitle": "Applied Mathematics for Engineers", "creditHours": "3+0"},
+        {"code": "EC-920", "courseTitle": "Advance Systems Programming", "creditHours": "3+0"},
+        {"code": "EC-921", "courseTitle": "Advanced Multimedia Communication", "creditHours": "3+0"},
+        {"code": "EC-922", "courseTitle": "Advanced Human-Computer Interaction", "creditHours": "3+0"},
+        {"code": "EC-930", "courseTitle": "Selected Topics in Digital Image Processing", "creditHours": "3+0"},
+        {"code": "EC-935", "courseTitle": "Big Data Analysis", "creditHours": "3+0"},
+        {"code": "EC-950", "courseTitle": "Advanced Neural Networks and Fuzzy Logic", "creditHours": "3+0"},
+        {"code": "EC-951", "courseTitle": "Advanced Deep Learning", "creditHours": "3+0"},
+        {"code": "EC-953", "courseTitle": "Advanced Distributed Data Processing", "creditHours": "3+0"},
+        {"code": "EC-954", "courseTitle": "Advanced Machine Learning", "creditHours": "3+0"},
+        {"code": "EC-960", "courseTitle": "Advanced Algorithm Analysis", "creditHours": "3+0"},
+        {"code": "EC-961", "courseTitle": "Advanced Formal Methods", "creditHours": "3+0"},
+        {"code": "EC-970", "courseTitle": "Advanced Topics in Computer Networks", "creditHours": "3+0"},
+        {"code": "EC-971", "courseTitle": "Advanced Topics in Applied Cryptography", "creditHours": "3+0"},
+        {"code": "EC-990", "courseTitle": "Advance Robotics Systems", "creditHours": "3+0"},
+        {"code": "CS-811", "courseTitle": "Advanced Computer Networks", "creditHours": "3+0"},
+        {"code": "CS-815", "courseTitle": "Cryptography and Network Security", "creditHours": "3+0"},
+        {"code": "CS-823", "courseTitle": "Machine Learning", "creditHours": "3+0"},
+        {"code": "CS-824", "courseTitle": "Artificial Neural Networks", "creditHours": "3+0"},
+        {"code": "CS-831", "courseTitle": "Advanced Database Management Systems", "creditHours": "3+0"},
+        {"code": "CS-832", "courseTitle": "Data Mining", "creditHours": "3+0"},
+        {"code": "CS-833", "courseTitle": "Data Warehousing", "creditHours": "3+0"},
+        {"code": "CS-834", "courseTitle": "Web Engineering", "creditHours": "3+0"},
+        {"code": "CS-835", "courseTitle": "Advanced Web Analytics", "creditHours": "3+0"},
+        {"code": "CS-836", "courseTitle": "Semantic Web", "creditHours": "3+0"},
+        {"code": "CS-841", "courseTitle": "Advanced Software Engineering", "creditHours": "3+0"},
+        {"code": "CS-843", "courseTitle": "Software Quality Assurance", "creditHours": "3+0"},
+        {"code": "CS-857", "courseTitle": "Parallel Distributed Systems", "creditHours": "3+0"},
+        {"code": "EE-844", "courseTitle": "Research Methodology", "creditHours": "3+0"},
+        {"code": "CS-859", "courseTitle": "Mobile and Pervasive Computing", "creditHours": "3+0"},
+        {"code": "CS-878", "courseTitle": "Intelligent Systems", "creditHours": "3+0"},
+        {"code": "EE-817", "courseTitle": "Statistical Signal Processing", "creditHours": "3+0"},
+        {"code": "EE-819", "courseTitle": "Array Signal Processing", "creditHours": "3+0"},
+        {"code": "EE-823", "courseTitle": "Advanced Digital Communication", "creditHours": "3+0"},
+        {"code": "CS-844", "courseTitle": "Information Security", "creditHours": "3+0"}
+      ]
+    }
+}
+  
+
+
+    
+    
+
+  
+  
+
+  
+
+      
+      

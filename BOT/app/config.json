@@ -1,0 +1,18 @@
+{
+  "model_path": "Mistral-7B-Instruct/mistral-7b-instruct-v0.1.Q4_K_M.gguf",
+  "embedder": "sentence-transformers/all-MiniLM-L6-v2",
+  "faiss_index": "index/index.faiss",
+  "doc_meta": "index/docs.pkl",
+  "top_k": 5,
+  "max_tokens": 512,
+  "n_ctx": 2048,
+  "n_threads": 4,
+  "host": "127.0.0.1",
+  "port": 8000,
+  "mongo_url": "mongodb://localhost:27017/",
+  "debug_context": true,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "sampling_top_k": 40,
+  "repeat_penalty": 1.2
+}

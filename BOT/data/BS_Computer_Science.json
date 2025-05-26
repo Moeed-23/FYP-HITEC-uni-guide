@@ -1,0 +1,1476 @@
+{
+  "department": "Department of Computer Science",
+  "description": "The Department of Computer Science and Engineering  was established in Spring 2014 and is re-designated as Department of Computer Science (DCS) on the instructions of Punjab Higher Education Commission Pakistan in July 2019.  The Department aims to impart quality education to its students. The Department not only emphasizes technical and practical skills but also endeavors to enhance their sense of responsibility towards humanity. It employs highly qualified, experienced, research-focused, and professionally sound faculty for its various academic programs. Dedicated, spacious, and well-equipped laboratories have been established to foster sound computing knowledge, complex problem-solving capabilities, and critical thinking in problem design and analysis. The curriculum of BS CS broadly covers the four streams of computer science, including computing, artificial intelligence, data science, and information security. The curriculum and laboratory work are designed and integrated in such a way that our graduates gain a competitive edge in securing positions in the industry, academia, and research both nationally and internationally. After completing the BSCS program, our students will have a thorough understanding of the latest computing tools as well as the theoretical and practical aspects of the subject area.",
+
+  "faculty": [
+    {
+      "name": "Dr. Junaid Ali Khan",
+      "designation": "Professor, Chairman and Director ORIC / Dean Sciences",
+      "qualification": "PhD, International Islamic University, Islamabad, Pakistan",
+      "areasOfInterest": [
+        "Artificial Intelligence",
+        "Cognitive Computation",
+        "Neural Networks Modeling"
+      ],
+      "contact": "junaid.ali@hitecuni.edu.pk"
+    },
+    {
+      "name": "Dr. Muhammad Nazir",
+      "designation": "Assistant Professor",
+      "qualification": "PhD (Computer Science), Islamia College Peshawar, Pakistan",
+      "areasOfInterest": [
+        "Artificial Intelligence",
+        "Computer Vision",
+        "Machine Learning"
+      ],
+      "contact": "muhammad.nazir@hitecuni.edu.pk"
+    },
+    {
+      "name": "Dr. Saima Shaheen",
+      "designation": "Assistant Professor",
+      "qualification": "PhD, National University of Sciences and Technology, Islamabad, Pakistan",
+      "areasOfInterest": [
+        "Computer Networks",
+        "Computer Vision",
+        "Image and Video Processing",
+        "Multimedia Computation",
+        "Digital Image Processing"
+      ],
+      "contact": "saima.shaheen@hitecuni.edu.pk"
+    },
+    {
+      "name": "Dr. Yasir Noman Khalid",
+      "designation": "Assistant Professor",
+      "qualification": "PhD, Capital University of Science and Technology, Islamabad, Pakistan",
+      "areasOfInterest": [
+        "Parallel Computing",
+        "Heterogeneous Computing",
+        "GPGPU",
+        "Performance Modelling",
+        "Green Computing"
+      ],
+      "contact": "yasir.noman.khalid@hitecuni.edu.pk"
+    },
+    {
+      "name": "Dr. Hasna Arshad",
+      "designation": "Assistant Professor",
+      "qualification": "PhD, Comsats University, Islamabad",
+      "areasOfInterest": [
+        "Software Engineering"
+      ],
+      "contact": "hasna.arshad@hitecuni.edu.pk"
+    },
+    {
+      "name": "Dr. Mehwish Naseer",
+      "designation": "Assistant Professor",
+      "qualification": "PhD, Shanghai University, Shanghai, China",
+      "areasOfInterest": [
+        "Software Engineering",
+        "Learning Analytics",
+        "Machine Learning"
+      ],
+      "contact": "mehwish.naseer@hitecuni.edu.pk"
+    },
+    {
+      "name": "Dr. Muhammad Attique Khan",
+      "designation": "Assistant Professor",
+      "qualification": "PhD (Computer Science), CUI, Wah Campus, Pakistan; PhD (In Progress)",
+      "areasOfInterest": [
+        "Surveillance",
+        "Biometrics",
+        "Medical Imaging",
+        "Agricultural Plants"
+      ],
+      "contact": "attique.khan@hitecuni.edu.pk"
+    },
+    {
+      "name": "Dr. Samia Ijaz",
+      "designation": "Assistant Professor",
+      "qualification": "PhD (Computer Science), COMSATS University Islamabad, Wah Campus",
+      "areasOfInterest": [
+        "Parallel and Distributed Computing",
+        "Workflow Scheduling",
+        "Internet of Things",
+        "Fog Computing",
+        "Machine Learning"
+      ],
+      "contact": "samia.ijaz@hitecuni.edu.pk"
+    },
+    {
+      "name": "Ms. Veena Dillshad",
+      "designation": "Assistant Professor",
+      "qualification": "MS, NUST, Islamabad, Pakistan; PhD (in progress)",
+      "areasOfInterest": [
+        "Wireless Sensor Networks",
+        "Software Engineering"
+      ],
+      "contact": "veena.dillshad@hitecuni.edu.pk"
+    },
+    {
+      "name": "Engr. Zeeshan Habib",
+      "designation": "Assistant Professor",
+      "qualification": "MS (Electrical Engineering), HITEC University, Taxila; PhD (In Progress)",
+      "areasOfInterest": [
+        "Wireless Communication",
+        "Signal Processing"
+      ],
+      "contact": "zeeshan.habib@hitecuni.edu.pk"
+    },
+    {
+      "name": "Engr. Waqas Ahmed",
+      "designation": "Assistant Professor",
+      "qualification": "MS (Electrical Engineering), HITEC University, Taxila; PhD (In Progress)",
+      "areasOfInterest": [
+        "Signal Processing",
+        "Communication"
+      ],
+      "contact": "waqas.ahmed@hitecuni.edu.pk"
+    },
+    {
+      "name": "Mr. Shahid Iqbal",
+      "designation": "Lecturer",
+      "qualification": "MS (Computer Science), Gomal University, D.I.Khan & MS Computer Engineering (CASE) UET, Taxila",
+      "areasOfInterest": [
+        "Data Structure",
+        "OOP",
+        "Programming Fundamentals",
+        "IICT"
+      ],
+      "contact": "shahid.iqbal@hitecuni.edu.pk"
+    },
+    {
+      "name": "Mr. Waqar Ismail",
+      "designation": "Lecturer",
+      "qualification": "MS (Computer Science), UET Taxila, Pakistan; PhD (In Progress)",
+      "areasOfInterest": [
+        "Image Processing",
+        "Machine Learning",
+        "Artificial Intelligence",
+        "Pattern Recognition",
+        "Medical Imaging",
+        "Agro Robotics",
+        "Video Surveillance"
+      ],
+      "contact": "waqar.ismail@hitecuni.edu.pk"
+    },
+    {
+      "name": "Mr. Muhammad Nouman Noor",
+      "designation": "Lecturer",
+      "qualification": "MS (Computer Science), Bahria University Islamabad, Pakistan; PhD (In Progress)",
+      "areasOfInterest": [
+        "Image Processing",
+        "Machine Learning",
+        "Deep Learning",
+        "Artificial Intelligence",
+        "Software Engineering"
+      ],
+      "contact": "nouman.noor@hitecuni.edu.pk"
+    },
+    {
+      "name": "Mr. Inzamam Mashood Nasir",
+      "designation": "Lecturer",
+      "qualification": "MS (Computer Science), COMSATS University Islamabad, Wah Campus, Pakistan; PhD (In Progress)",
+      "areasOfInterest": [
+        "Web Development",
+        "Databases",
+        "Blockchain",
+        "Machine Learning"
+      ],
+      "contact": "inzamam.mashood@hitecuni.edu.pk"
+    },
+    {
+      "name": "Ms. Iram Abdullah",
+      "designation": "Lecturer",
+      "qualification": "MS (Software Engineering), UET Taxila, Pakistan; PhD (In Progress)",
+      "areasOfInterest": [
+        "Medical Imaging",
+        "Web & Mobile Application Development"
+      ],
+      "contact": "iram.abdullah@hitecuni.edu.pk"
+    },
+    {
+      "name": "Mr. Syed Ali Naqi Raza",
+      "designation": "Lecturer",
+      "qualification": "MSc (Software Engineering), University of Hertfordshire (UK)",
+      "areasOfInterest": [
+        "Mobile Application Development",
+        "Database Management",
+        "Speech Recognition"
+      ],
+      "contact": "ali.naqi@hitecuni.edu.pk"
+    },
+    {
+      "name": "Mr. Usama Khalid",
+      "designation": "Lecturer",
+      "qualification": "MS (Computer Science), COMSATS University Islamabad, Wah Campus, Pakistan",
+      "areasOfInterest": [
+        "Cloud Computing",
+        "Tele-medicine",
+        "Software Engineering"
+      ],
+      "contact": "usama.khalid@hitecuni.edu.pk"
+    },
+    {
+      "name": "Mr. Yosha Jawad",
+      "designation": "Lecturer",
+      "qualification": "MS (Computer Science), UET Taxila, Pakistan",
+      "areasOfInterest": [
+        "Cloud Computing",
+        "Tele-medicine",
+        "Software Engineering"
+      ],
+      "contact": "yosha.jawad@hitecuni.edu.pk"
+    },
+    {
+      "name": "Mr. Muhammad Shah Jahan",
+      "designation": "Lecturer",
+      "qualification": "MS (Software Engineering) from NUST, Islamabad",
+      "areasOfInterest": [
+        "Software Engineering",
+        "Artificial Intelligence",
+        "NLP",
+        "Machine Learning",
+        "Computational Linguistics"
+      ],
+      "contact": "muhammad.shahjahan@hitecuni.edu.pk"
+    },
+    {
+      "name": "Mr. Junaid Ali Khan",
+      "designation": "Lecturer",
+      "qualification": "Master of Science in Software Engineering, COMSATS University Islamabad",
+      "areasOfInterest": [
+        "Software Engineering",
+        "Artificial Intelligence",
+        "NLP",
+        "Machine Learning",
+        "Deep Learning",
+        "Computational Linguistics"
+      ],
+      "contact": "junaid.alikhan@hitecuni.edu.pk"
+    },
+    {
+      "name": "Mr. Umar Astab",
+      "designation": "Lecturer",
+      "qualification": "Masters of Philosophy in Computer Science (MPhil CS), Quaid-i-Azam University Islamabad",
+      "areasOfInterest": [
+        "Software Engineering",
+        "Data Mining",
+        "Data Warehousing"
+      ],
+      "contact": "umer.astab@hitecuni.edu.pk"
+    },
+    {
+      "name": "Mr. Nauman Ali Khan",
+      "designation": "Lecturer",
+      "qualification": "MS, Computer Science, SZABIST Islamabad",
+      "areasOfInterest": [
+        "Machine Learning",
+        "Data Mining",
+        "Deep Learning",
+        "Pattern Recognition"
+      ],
+      "contact": "nauman.ali@hitecuni.edu.pk"
+    },
+    {
+      "name": "Mr. Khurram Shahzad",
+      "designation": "Lecturer",
+      "qualification": "MS Computer Science COMSATS Wah; PhD (CS) HITEC University Taxila (In-Progress)",
+      "areasOfInterest": [
+        "Machine Learning",
+        "Data Mining"
+      ],
+      "contact": "khurram.shahzad@hitecuni.edu.pk"
+    },
+    {
+      "name": "Mr. Abdul Majid",
+      "designation": "Lecturer",
+      "qualification": "MS (Computer Science), COMSATS University Islamabad, Wah Campus, Pakistan; PhD (In Progress)",
+      "areasOfInterest": [
+        "Image Processing",
+        "Computer Vision",
+        "Machine Learning"
+      ],
+      "contact": "abdul.majid@hitecuni.edu.pk"
+    },
+    {
+      "name": "Mr. Abdul Samad Danish",
+      "designation": "Lecturer",
+      "qualification": "MS (Innovative Technologies in Learning), NUST Islamabad; PhD (in progress)",
+      "areasOfInterest": [
+        "Metaverse (AR, VR, MR and XR)",
+        "Internet of Things",
+        "Game Design and Development (Unity)",
+        "Educational Technology"
+      ],
+      "contact": "abdul.samad@hitecuni.edu.pk"
+    },
+    {
+      "name": "Mr. Asif Mehmood",
+      "designation": "Lecturer",
+      "qualification": "MS (Computer Science), COMSATS University Islamabad Wah Campus; PhD (In Progress)",
+      "areasOfInterest": [
+        "Image Processing",
+        "Computer Vision",
+        "Artificial Intelligence",
+        "Deep Learning",
+        "Pattern Recognition",
+        "Machine Learning",
+        "Biometrics"
+      ],
+      "contact": "asif.mehmoodkhattak@hitecuni.edu.pk"
+    },
+    {
+      "name": "Mr. Muhammad Khalid",
+      "designation": "Lecturer",
+      "qualification": "MS (Computer Science), University of Balochistan, Quetta; PhD (In Progress)",
+      "areasOfInterest": [
+        "Artificial Intelligence",
+        "Surveillance",
+        "Deep Learning",
+        "Facial Expressions Recognition",
+        "Educational Technology"
+      ],
+      "contact": "muhammad.khalid@hitecuni.edu.pk"
+    },
+    {
+      "name": "Mr. Muhammad Adnan Javed",
+      "designation": "Lab Demonstrator",
+      "qualification": "MS (Computer Science), HITEC University, Taxila, Pakistan",
+      "areasOfInterest": [
+        "Web Development",
+        "Database Management"
+      ],
+      "contact": "adnan.javed@hitecuni.edu.pk"
+    },
+    {
+      "name": "Mr. Irfan Haider",
+      "designation": "Lab Demonstrator",
+      "qualification": "MS Computer Science, HITEC University Taxila; PhD Computer Science, HITEC University Taxila (In Progress)",
+      "areasOfInterest": [
+        "Machine Learning",
+        "Computer Graphics",
+        "Mobile Application"
+      ],
+      "contact": "irfan.haider@hitecuni.edu.pk"
+    },
+    {
+      "name": "Ms. Faiza Jahangir",
+      "designation": "Lab Demonstrator",
+      "qualification": "MSc (Computer Science), University of Wah; MS (Computer Science), HITEC University Taxila (In Progress)",
+      "areasOfInterest": [
+        "Artificial Intelligence",
+        "Digital Image Processing",
+        "Computer Vision",
+        "Machine Learning",
+        "Deep Neural Network",
+        "Database Management"
+      ],
+      "contact": "faiza.jahangir@hitecuni.edu.pk"
+    },
+    {
+      "name": "Mr. Ameer Hamza",
+      "designation": "Lab Demonstrator",
+      "qualification": "BS (Computer Science) from HITEC University, Taxila; MSCS (in progress)",
+      "areasOfInterest": [
+        "Computer Vision",
+        "Machine Learning",
+        "Deep Learning",
+        "Medical Imaging",
+        "Swarm Intelligence"
+      ],
+      "contact": "ameer.hamza@hitecuni.edu.pk"
+    },
+    {
+      "name": "Mr. Muhammad Hasnain",
+      "designation": "Lab Demonstrator",
+      "qualification": "BS Computer Science (NUML Islamabad)",
+      "areasOfInterest": [
+        "Data Science",
+        "Artificial Intelligence",
+        "Mobile App Development"
+      ],
+      "contact": "muhammad.hasnain@hitecuni.edu.pk"
+    }
+  ],
+  "programs": {
+    "BS Computer Science": {
+      "description": "The BS Computer Science program at HITEC University aims to produce computer scientists and highly skilled programmers. The curriculum covers essential core courses along with specialized subjects in computing, artificial intelligence, information security, and data sciences. A mandatory final year project further strengthens practical skills.",
+      "schemeOfStudy": [
+        {
+          "semester": 1,
+          "totalCreditHours": 18,
+          "courses": [
+            {
+              "code": "CS-101",
+              "courseTitle": "Introduction to Information and Communication Tech",
+              "creditHours": "2+1"
+            },
+            {
+              "code": "CS-102",
+              "courseTitle": "Programming Fundamentals",
+              "creditHours": "3+1"
+            },
+            {
+              "code": "CS-103",
+              "courseTitle": "Discrete Structures",
+              "creditHours": "3+0"
+            },
+            {
+              "code": "HS-101",
+              "courseTitle": "English",
+              "creditHours": "3+0"
+            },
+            {
+              "code": "IS-211",
+              "courseTitle": "Islamic Studies",
+              "creditHours": "2+0"
+            },
+            {
+              "code": "MT-101",
+              "courseTitle": "Calculus and Analytic Geometry",
+              "creditHours": "3+0"
+            }
+          ]
+        },
+        {
+          "semester": 2,
+          "totalCreditHours": 18,
+          "courses": [
+            {
+              "code": "MT-203",
+              "courseTitle": "Linear Algebra",
+              "creditHours": "3+0"
+            },
+            {
+              "code": "HS-102",
+              "courseTitle": "Pakistan Studies",
+              "creditHours": "2+0"
+            },
+            {
+              "code": "HS-401",
+              "courseTitle": "Professional Values and Ethics",
+              "creditHours": "2+0"
+            },
+            {
+              "code": "CS-104",
+              "courseTitle": "Object Oriented Programming",
+              "creditHours": "3+1"
+            },
+            {
+              "code": "BS-105",
+              "courseTitle": "Applied Physics",
+              "creditHours": "2+1"
+            },
+            {
+              "code": "EC-121",
+              "courseTitle": "Digital Logic Design",
+              "creditHours": "3+1"
+            },
+            {
+              "code": "QT-101",
+              "courseTitle": "Translation of the Quran: Beliefs",
+              "creditHours": "*1+0"
+            }
+          ]
+        },
+        {
+          "semester": 3,
+          "totalCreditHours": 16,
+          "courses": [
+            {
+              "code": "MT-103",
+              "courseTitle": "Differential Equations",
+              "creditHours": "3+0"
+            },
+            {
+              "code": "HS-403",
+              "courseTitle": "Management and Entrepreneurship",
+              "creditHours": "3+0"
+            },
+            {
+              "code": "CS-201",
+              "courseTitle": "Data Structures and Algorithms",
+              "creditHours": "3+1"
+            },
+            {
+              "code": "CS-204",
+              "courseTitle": "Software Engineering",
+              "creditHours": "3+0"
+            },
+            {
+              "code": "HS-402",
+              "courseTitle": "Economics",
+              "creditHours": "2+0"
+            },
+            {
+              "code": "HS-201",
+              "courseTitle": "Technical Report Writing",
+              "creditHours": "3+0"
+            },
+            {
+              "code": "HS-203",
+              "courseTitle": "Community Service",
+              "creditHours": "0+1 (NC)"
+            }
+          ]
+        },
+        {
+          "semester": 4,
+          "totalCreditHours": 18,
+          "courses": [
+            {
+              "code": "CS-203",
+              "courseTitle": "Design & Analysis of Algorithms",
+              "creditHours": "3+0"
+            },
+            {
+              "code": "CS-206",
+              "courseTitle": "Computer Organization and Assembly Lang.",
+              "creditHours": "3+1"
+            },
+            {
+              "code": "MT-204",
+              "courseTitle": "Multivariable Calculus",
+              "creditHours": "3+0"
+            },
+            {
+              "code": "HS-302",
+              "courseTitle": "International Relations",
+              "creditHours": "3+0"
+            },
+            {
+              "code": "HS-103",
+              "courseTitle": "Communication Skills",
+              "creditHours": "3+0"
+            },
+            {
+              "code": "HS-404",
+              "courseTitle": "Foreign Language",
+              "creditHours": "1+1"
+            },
+            {
+              "code": "QT-201",
+              "courseTitle": "Translation of the Quran: Worships",
+              "creditHours": "*1+0"
+            }
+          ]
+        },
+        {
+          "semester": 5,
+          "totalCreditHours": 17,
+          "courses": [
+            {
+              "code": "CS-301",
+              "courseTitle": "Theory of Automata",
+              "creditHours": "3+0"
+            },
+            {
+              "code": "CS-303",
+              "courseTitle": "Operating Systems",
+              "creditHours": "3+1"
+            },
+            {
+              "code": "CS-304",
+              "courseTitle": "Database Systems",
+              "creditHours": "3+1"
+            },
+            {
+              "code": "CS-XXX",
+              "courseTitle": "Computer Science Elective – I",
+              "creditHours": "2+1"
+            },
+            {
+              "code": "MT-302",
+              "courseTitle": "Probability and Statistics",
+              "creditHours": "3+0"
+            }
+          ]
+        },
+        {
+          "semester": 6,
+          "totalCreditHours": 17,
+          "courses": [
+            {
+              "code": "CS-302",
+              "courseTitle": "Artificial Intelligence",
+              "creditHours": "3+1"
+            },
+            {
+              "code": "CS-306",
+              "courseTitle": "Data Communication & Computer Networks",
+              "creditHours": "3+1"
+            },
+            {
+              "code": "EC-444",
+              "courseTitle": "Parallel and Distributed Computing",
+              "creditHours": "2+1"
+            },
+            {
+              "code": "CS-XXX",
+              "courseTitle": "Computer Science Elective – II",
+              "creditHours": "2+1"
+            },
+            {
+              "code": "CS-308",
+              "courseTitle": "Software Quality Assurance",
+              "creditHours": "3+0"
+            },
+            {
+              "code": "QT-301",
+              "courseTitle": "Translation of the Quran: Moral Values",
+              "creditHours": "*1+0"
+            }
+          ]
+        },
+        {
+          "semester": 7,
+          "totalCreditHours": 16,
+          "courses": [
+            {
+              "code": "CS-401",
+              "courseTitle": "Compiler Construction",
+              "creditHours": "2+1"
+            },
+            {
+              "code": "CS-XXX",
+              "courseTitle": "Computer Science Elective – III",
+              "creditHours": "2+1"
+            },
+            {
+              "code": "CS-XXX",
+              "courseTitle": "Computer Science Elective – IV",
+              "creditHours": "3+0"
+            },
+            {
+              "code": "CS-408",
+              "courseTitle": "Human Computer Interaction",
+              "creditHours": "2+1"
+            },
+            {
+              "code": "ME-407",
+              "courseTitle": "Health Safety and Environment",
+              "creditHours": "1+0"
+            },
+            {
+              "code": "CS-499",
+              "courseTitle": "Final Year Project",
+              "creditHours": "0+3"
+            }
+          ]
+        },
+        {
+          "semester": 8,
+          "totalCreditHours": 15,
+          "courses": [
+            {
+              "code": "CS-402",
+              "courseTitle": "Information Security",
+              "creditHours": "3+0"
+            },
+            {
+              "code": "CS-405",
+              "courseTitle": "Numerical Computing",
+              "creditHours": "2+1"
+            },
+            {
+              "code": "CS-XXX",
+              "courseTitle": "Computer Science Elective – V",
+              "creditHours": "3+0"
+            },
+            {
+              "code": "CS-XXX",
+              "courseTitle": "Computer Science Elective – VI",
+              "creditHours": "3+0"
+            },
+            {
+              "code": "CS-499",
+              "courseTitle": "Final Year Project",
+              "creditHours": "0+3"
+            },
+            {
+              "code": "QT-401",
+              "courseTitle": "Translation of the Quran: Dealing",
+              "creditHours": "1+0"
+            }
+          ]
+        }
+      ],
+      "electives": {
+        "Information Security": [
+          {
+            "code": "CS-310",
+            "courseTitle": "Distributed Computing",
+            "creditHours": "3+0"
+          },
+          {
+            "code": "CS-404",
+            "courseTitle": "Data and Network Security",
+            "creditHours": "3+0"
+          },
+          {
+            "code": "CS-406",
+            "courseTitle": "Digital Image Processing",
+            "creditHours": "2+1"
+          },
+          {
+            "code": "CS-419",
+            "courseTitle": "Introduction to Optimization Techniques",
+            "creditHours": "3+0"
+          },
+          {
+            "code": "CS-420",
+            "courseTitle": "System Loss Prevention Methodologies",
+            "creditHours": "3+0"
+          },
+          {
+            "code": "CS-421",
+            "courseTitle": "Security Threats and Risk Assessment",
+            "creditHours": "3+0"
+          },
+          {
+            "code": "CS-422",
+            "courseTitle": "Information System Forensics & Investigation",
+            "creditHours": "2+1"
+          },
+          {
+            "code": "CS-423",
+            "courseTitle": "Network & Distributed Systems Security",
+            "creditHours": "3+0"
+          },
+          {
+            "code": "CS-424",
+            "courseTitle": "Introduction to Cryptography",
+            "creditHours": "3+0"
+          },
+          {
+            "code": "CS-425",
+            "courseTitle": "Wireless Network Security",
+            "creditHours": "2+1"
+          },
+          {
+            "code": "CS-426",
+            "courseTitle": "Computer Security",
+            "creditHours": "2+1"
+          },
+          {
+            "code": "CS-427",
+            "courseTitle": "Cyber Forensic Analysis",
+            "creditHours": "3+0"
+          }
+        ],
+        "Data Science": [
+          {
+            "code": "CS-305",
+            "courseTitle": "Computer Graphics",
+            "creditHours": "2+1"
+          },
+          {
+            "code": "CS-310",
+            "courseTitle": "Distributed Computing",
+            "creditHours": "3+0"
+          },
+          {
+            "code": "CS-311",
+            "courseTitle": "Data Warehousing",
+            "creditHours": "3+0"
+          },
+          {
+            "code": "CS-406",
+            "courseTitle": "Digital Image Processing",
+            "creditHours": "2+1"
+          },
+          {
+            "code": "CS-411",
+            "courseTitle": "Computer Vision",
+            "creditHours": "3+0"
+          },
+          {
+            "code": "CS-428",
+            "courseTitle": "Introduction to Machine Learning",
+            "creditHours": "2+1"
+          },
+          {
+            "code": "CS-429",
+            "courseTitle": "Introduction to Data Science",
+            "creditHours": "2+1"
+          },
+          {
+            "code": "CS-430",
+            "courseTitle": "Data Science and Engineering",
+            "creditHours": "3+0"
+          },
+          {
+            "code": "CS-431",
+            "courseTitle": "Big Data Programming",
+            "creditHours": "3+0"
+          },
+          {
+            "code": "CS-432",
+            "courseTitle": "Introduction to Big Data Mining",
+            "creditHours": "3+0"
+          },
+          {
+            "code": "CS-433",
+            "courseTitle": "Deep Learning and Applications",
+            "creditHours": "2+1"
+          },
+          {
+            "code": "CS-434",
+            "courseTitle": "Data Visualization",
+            "creditHours": "2+1"
+          }
+        ],
+        "Artificial Intelligence": [
+          {
+            "code": "CS-305",
+            "courseTitle": "Computer Graphics",
+            "creditHours": "2+1"
+          },
+          {
+            "code": "CS-407",
+            "courseTitle": "Fundamentals of Data Mining",
+            "creditHours": "3+0"
+          },
+          {
+            "code": "CS-410",
+            "courseTitle": "Artificial Neural Networks",
+            "creditHours": "3+0"
+          },
+          {
+            "code": "CS-412",
+            "courseTitle": "Expert Systems",
+            "creditHours": "2+1"
+          },
+          {
+            "code": "CS-413",
+            "courseTitle": "Fuzzy Logic Systems",
+            "creditHours": "3+0"
+          },
+          {
+            "code": "CS-414",
+            "courseTitle": "Computational Intelligence",
+            "creditHours": "2+1"
+          },
+          {
+            "code": "CS-415",
+            "courseTitle": "Multi Agent Systems",
+            "creditHours": "2+1"
+          },
+          {
+            "code": "CS-416",
+            "courseTitle": "Natural Language Processing",
+            "creditHours": "3+0"
+          },
+          {
+            "code": "CS-417",
+            "courseTitle": "Game Development",
+            "creditHours": "2+1"
+          },
+          {
+            "code": "CS-419",
+            "courseTitle": "Introduction to Optimization Techniques",
+            "creditHours": "3+0"
+          },
+          {
+            "code": "CS-428",
+            "courseTitle": "Introduction to Machine Learning",
+            "creditHours": "2+1"
+          },
+          {
+            "code": "CS-433",
+            "courseTitle": "Deep Learning and Applications",
+            "creditHours": "2+1"
+          }
+        ],
+        "Computing": [
+          {
+            "code": "CS-305",
+            "courseTitle": "Computer Graphics",
+            "creditHours": "2+1"
+          },
+          {
+            "code": "CS-309",
+            "courseTitle": "Web Design and Development",
+            "creditHours": "2+1"
+          },
+          {
+            "code": "CS-310",
+            "courseTitle": "Distributed Computing",
+            "creditHours": "3+0"
+          },
+          {
+            "code": "CS-312",
+            "courseTitle": "Web Engineering",
+            "creditHours": "2+1"
+          },
+          {
+            "code": "CS-313",
+            "courseTitle": "Formal Methods in Software Engineering",
+            "creditHours": "3+0"
+          },
+          {
+            "code": "CS-314",
+            "courseTitle": "Social Computing",
+            "creditHours": "3+0"
+          },
+          {
+            "code": "CS-403",
+            "courseTitle": "Mobile Application & Development",
+            "creditHours": "3+0"
+          },
+          {
+            "code": "CS-406",
+            "courseTitle": "Digital Image Processing",
+            "creditHours": "2+1"
+          },
+          {
+            "code": "CS-407",
+            "courseTitle": "Fundamentals of Data Mining",
+            "creditHours": "3+0"
+          },
+          {
+            "code": "CS-418",
+            "courseTitle": "Logical Paradigm of Computing",
+            "creditHours": "3+0"
+          },
+          {
+            "code": "CS-419",
+            "courseTitle": "Introduction to Optimization Techniques",
+            "creditHours": "3+0"
+          },
+          {
+            "code": "CS-428",
+            "courseTitle": "Introduction to Machine Learning",
+            "creditHours": "2+1"
+          }
+        ]
+      }
+    },
+    "MS Computer Science": {
+      "description": "The MS Computer Science program, initiated in Fall 2014, is designed to bridge the gap between professional computing and advanced research. It requires a total of 30 credit hours (24 credit hours from courses and 6 credit hours of thesis) and covers advanced topics in computer science.",
+      "coreCourses": [
+        {
+          "code": "CS-801",
+          "courseTitle": "Advanced Theory of Computation",
+          "creditHours": "3+0"
+        },
+        {
+          "code": "CS-802",
+          "courseTitle": "Advanced Algorithm Analysis",
+          "creditHours": "3+0"
+        },
+        {
+          "code": "EE-801",
+          "courseTitle": "Advanced Computer Architecture",
+          "creditHours": "3+0"
+        },
+        {
+          "code": "EC-861",
+          "courseTitle": "Advanced Operating Systems",
+          "creditHours": "3+0"
+        }
+      ],
+      "electiveCourses": [
+        {
+          "code": "CS-811",
+          "courseTitle": "Advanced Computer Networks",
+          "creditHours": "3+0"
+        },
+        {
+          "code": "CS-812",
+          "courseTitle": "Wireless Networks",
+          "creditHours": "3+0"
+        },
+        {
+          "code": "CS-813",
+          "courseTitle": "Network Simulation & Modeling",
+          "creditHours": "3+0"
+        },
+        {
+          "code": "CS-814",
+          "courseTitle": "Multimedia Communication",
+          "creditHours": "3+0"
+        },
+        {
+          "code": "CS-815",
+          "courseTitle": "Cryptography & Network Security",
+          "creditHours": "3+0"
+        },
+        {
+          "code": "CS-822",
+          "courseTitle": "Advanced Digital Image Processing",
+          "creditHours": "3+0"
+        },
+        {
+          "code": "CS-823",
+          "courseTitle": "Machine Learning",
+          "creditHours": "3+0"
+        },
+        {
+          "code": "CS-824",
+          "courseTitle": "Advanced Neural Networks",
+          "creditHours": "3+0"
+        },
+        {
+          "code": "CS-825",
+          "courseTitle": "Decision Support Systems",
+          "creditHours": "3+0"
+        },
+        {
+          "code": "CS-829",
+          "courseTitle": "Advanced Computer Vision",
+          "creditHours": "3+0"
+        },
+        {
+          "code": "CS-831",
+          "courseTitle": "Advanced Database Management Systems",
+          "creditHours": "3+0"
+        },
+        {
+          "code": "CS-832",
+          "courseTitle": "Data Mining",
+          "creditHours": "3+0"
+        },
+        {
+          "code": "CS-833",
+          "courseTitle": "Data Warehousing",
+          "creditHours": "3+0"
+        },
+        {
+          "code": "CS-834",
+          "courseTitle": "Web Engineering",
+          "creditHours": "3+0"
+        },
+        {
+          "code": "CS-835",
+          "courseTitle": "Advanced Web Analytics",
+          "creditHours": "3+0"
+        },
+        {
+          "code": "CS-836",
+          "courseTitle": "Semantic Web",
+          "creditHours": "3+0"
+        },
+        {
+          "code": "CS-841",
+          "courseTitle": "Advanced Software Engineering",
+          "creditHours": "3+0"
+        },
+        {
+          "code": "CS-842",
+          "courseTitle": "Advanced Software Project Management",
+          "creditHours": "3+0"
+        },
+        {
+          "code": "EC-842",
+          "courseTitle": "Wireless and Mobile Communication",
+          "creditHours": "3+0"
+        },
+        {
+          "code": "CS-843",
+          "courseTitle": "Software Quality Assurance",
+          "creditHours": "3+0"
+        },
+        {
+          "code": "CS-844",
+          "courseTitle": "Information Security",
+          "creditHours": "3+0"
+        },
+        {
+          "code": "CS-853",
+          "courseTitle": "Next Generation Networks",
+          "creditHours": "3+0"
+        },
+        {
+          "code": "EC-853",
+          "courseTitle": "Pattern Recognition & Analysis",
+          "creditHours": "3+0"
+        },
+        {
+          "code": "CS-854",
+          "courseTitle": "Advanced Information Management Systems",
+          "creditHours": "3+0"
+        },
+        {
+          "code": "EC-854",
+          "courseTitle": "Neural and Fuzzy Systems",
+          "creditHours": "3+0"
+        },
+        {
+          "code": "CS-855",
+          "courseTitle": "Object Oriented Databases",
+          "creditHours": "3+0"
+        },
+        {
+          "code": "CS-856",
+          "courseTitle": "Software Architecture",
+          "creditHours": "3+0"
+        },
+        {
+          "code": "CS-857",
+          "courseTitle": "Parallel & Distributed Systems",
+          "creditHours": "3+0"
+        },
+        {
+          "code": "CS-858",
+          "courseTitle": "Research Methods",
+          "creditHours": "3+0"
+        },
+        {
+          "code": "CS-859",
+          "courseTitle": "Mobile & Pervasive Computing",
+          "creditHours": "3+0"
+        },
+        {
+          "code": "CS-861",
+          "courseTitle": "Operation Research",
+          "creditHours": "3+0"
+        },
+        {
+          "code": "EC-872",
+          "courseTitle": "Data Communication & Networks",
+          "creditHours": "3+0"
+        },
+        {
+          "code": "EC-876",
+          "courseTitle": "Embedded Wireless Sensor Networks",
+          "creditHours": "3+0"
+        },
+        {
+          "code": "CS-877",
+          "courseTitle": "Soft Computing",
+          "creditHours": "3+0"
+        },
+        {
+          "code": "CS-878",
+          "courseTitle": "Intelligent Systems",
+          "creditHours": "3+0"
+        },
+        {
+          "code": "EC-878",
+          "courseTitle": "Adhoc Networks",
+          "creditHours": "3+0"
+        },
+        {
+          "code": "CS-879",
+          "courseTitle": "Multimedia Systems and Applications",
+          "creditHours": "3+0"
+        },
+        {
+          "code": "EC-879",
+          "courseTitle": "Distributed Embedded Computing",
+          "creditHours": "3+0"
+        },
+        {
+          "code": "CS-880",
+          "courseTitle": "Mobile Communication Systems",
+          "creditHours": "3+0"
+        },
+        {
+          "code": "CS-883",
+          "courseTitle": "Advanced Cloud Computing",
+          "creditHours": "3+0"
+        },
+        {
+          "code": "CS-885",
+          "courseTitle": "High Performance Computing",
+          "creditHours": "3+0"
+        },
+        {
+          "code": "EC-891",
+          "courseTitle": "Pervasive Devices and Technology",
+          "creditHours": "3+0"
+        },
+        {
+          "code": "EC-892",
+          "courseTitle": "Real-time Systems",
+          "creditHours": "3+0"
+        },
+        {
+          "code": "CS-940",
+          "courseTitle": "Special Topics in Requirement Engineering",
+          "creditHours": "3+0"
+        },
+        {
+          "code": "CS-950",
+          "courseTitle": "Selected Topics in Human Computer Interface",
+          "creditHours": "3+0"
+        },
+        {
+          "code": "EE-8XX",
+          "courseTitle": "Research Methodologies",
+          "creditHours": "3+0"
+        },
+        {
+          "code": "ME-8XX",
+          "courseTitle": "Modeling and Simulation",
+          "creditHours": "3+0"
+        },
+        {
+          "code": "CS-89",
+          "courseTitle": "MS Thesis",
+          "creditHours": "0+6"
+        }
+      ]
+    },
+    "PhD Computer Science": {
+      "description": "The PhD Computer Science program is a full-time, research-intensive program designed to train scholars in advanced topics and innovative research methodologies. It comprises 18 credit hours of coursework and 30 credit hours of research, with courses selected in consultation with PhD supervisors.",
+      "courses": {
+        "block1": [
+          {
+            "code": "EE-801",
+            "courseTitle": "Advanced Computer Architecture",
+            "creditHours": "3+0"
+          },
+          {
+            "code": "CS-802",
+            "courseTitle": "Advanced Algorithm Analysis",
+            "creditHours": "3+0"
+          },
+          {
+            "code": "EC-803",
+            "courseTitle": "VLSI Architecture & Design",
+            "creditHours": "3+0"
+          },
+          {
+            "code": "EC-805",
+            "courseTitle": "Microcontroller system design & applications",
+            "creditHours": "3+0"
+          },
+          {
+            "code": "EC-809",
+            "courseTitle": "High performance programming with multicore & GPUs",
+            "creditHours": "3+0"
+          },
+          {
+            "code": "CS-811",
+            "courseTitle": "Advanced Computer Networks",
+            "creditHours": "3+0"
+          },
+          {
+            "code": "CS-813",
+            "courseTitle": "Network Simulation & Modelling",
+            "creditHours": "3+0"
+          },
+          {
+            "code": "CS-814",
+            "courseTitle": "Multimedia Communication",
+            "creditHours": "3+0"
+          },
+          {
+            "code": "CS-815",
+            "courseTitle": "Cryptography & Network Security",
+            "creditHours": "3+0"
+          },
+          {
+            "code": "CS-816",
+            "courseTitle": "Advanced Wireless Networks",
+            "creditHours": "3+0"
+          },
+          {
+            "code": "CS-817",
+            "courseTitle": "Research Trends in Pervasive Computing",
+            "creditHours": "3+0"
+          },
+          {
+            "code": "CS-818",
+            "courseTitle": "Network Performance Evaluation",
+            "creditHours": "3+0"
+          },
+          {
+            "code": "CS-819",
+            "courseTitle": "Information Theory & Coding",
+            "creditHours": "3+0"
+          },
+          {
+            "code": "CS-822",
+            "courseTitle": "Advanced Digital Image Processing",
+            "creditHours": "3+0"
+          },
+          {
+            "code": "CS-823",
+            "courseTitle": "Machine Learning",
+            "creditHours": "3+0"
+          },
+          {
+            "code": "EC-825",
+            "courseTitle": "Embedded Control Systems",
+            "creditHours": "3+0"
+          },
+          {
+            "code": "CS-827",
+            "courseTitle": "Advanced Pattern Recognition",
+            "creditHours": "3+0"
+          },
+          {
+            "code": "CS-829",
+            "courseTitle": "Advanced Computer Vision",
+            "creditHours": "3+0"
+          },
+          {
+            "code": "CS-831",
+            "courseTitle": "Advanced Database Management Systems",
+            "creditHours": "3+0"
+          },
+          {
+            "code": "EC-831",
+            "courseTitle": "Advanced Digital Signal Processing",
+            "creditHours": "3+0"
+          },
+          {
+            "code": "CS-832",
+            "courseTitle": "Data Mining",
+            "creditHours": "3+0"
+          },
+          {
+            "code": "CS-835",
+            "courseTitle": "Advanced Web Analytics",
+            "creditHours": "3+0"
+          },
+          {
+            "code": "CS-837",
+            "courseTitle": "Distributed Database Systems",
+            "creditHours": "3+0"
+          },
+          {
+            "code": "CS-838",
+            "courseTitle": "Data Visualization",
+            "creditHours": "3+0"
+          },
+          {
+            "code": "CS-839",
+            "courseTitle": "Multimedia and Web Databases",
+            "creditHours": "3+0"
+          },
+          {
+            "code": "CS-841",
+            "courseTitle": "Advanced Software Engineering",
+            "creditHours": "3+0"
+          },
+          {
+            "code": "CS-844",
+            "courseTitle": "Information Security",
+            "creditHours": "3+0"
+          },
+          {
+            "code": "CS-845",
+            "courseTitle": "Research Trends in Requirement Engineering",
+            "creditHours": "3+0"
+          },
+          {
+            "code": "CS-846",
+            "courseTitle": "Intelligent User Interfaces",
+            "creditHours": "3+0"
+          }
+        ],
+        "block2": [
+          {
+            "code": "CS-847",
+            "courseTitle": "Global System Development",
+            "creditHours": "3+0"
+          },
+          {
+            "code": "EC-853",
+            "courseTitle": "Pattern Recognition & Analysis",
+            "creditHours": "3+0"
+          },
+          {
+            "code": "CS-857",
+            "courseTitle": "Parallel & Distributed Systems",
+            "creditHours": "3+0"
+          },
+          {
+            "code": "CS-876",
+            "courseTitle": "Neural and Fuzzy Systems",
+            "creditHours": "3+0"
+          },
+          {
+            "code": "CS-877",
+            "courseTitle": "Soft Computing",
+            "creditHours": "3+0"
+          },
+          {
+            "code": "CS-878",
+            "courseTitle": "Intelligent Systems",
+            "creditHours": "3+0"
+          },
+          {
+            "code": "CS-879",
+            "courseTitle": "Multimedia Systems and Applications",
+            "creditHours": "3+0"
+          },
+          {
+            "code": "CS-880",
+            "courseTitle": "Mobile Communication Systems",
+            "creditHours": "3+0"
+          },
+          {
+            "code": "CS-881",
+            "courseTitle": "Advanced Big Data Analysis",
+            "creditHours": "3+0"
+          },
+          {
+            "code": "CS-882",
+            "courseTitle": "Contemporary Issues in Distributed Database Systems",
+            "creditHours": "3+0"
+          },
+          {
+            "code": "CS-883",
+            "courseTitle": "Advanced Cloud Computing",
+            "creditHours": "3+0"
+          },
+          {
+            "code": "CS-884",
+            "courseTitle": "Advanced Evolutionary Computing",
+            "creditHours": "3+0"
+          },
+          {
+            "code": "CS-885",
+            "courseTitle": "High Performance Computing",
+            "creditHours": "3+0"
+          },
+          {
+            "code": "EC-892",
+            "courseTitle": "Real Time Systems",
+            "creditHours": "3+0"
+          },
+          {
+            "code": "CS-910",
+            "courseTitle": "Selected Topics in Computer Networks",
+            "creditHours": "3+0"
+          },
+          {
+            "code": "CS-920",
+            "courseTitle": "Selected Topics in Digital Image Processing",
+            "creditHours": "3+0"
+          },
+          {
+            "code": "CS-930",
+            "courseTitle": "Special Topics in Database Management Systems",
+            "creditHours": "3+0"
+          },
+          {
+            "code": "CS-941",
+            "courseTitle": "Selected Topics in Software Engineering",
+            "creditHours": "3+0"
+          },
+          {
+            "code": "EE-8XX",
+            "courseTitle": "Research Methodologies",
+            "creditHours": "3+0"
+          },
+          {
+            "code": "ME-8XX",
+            "courseTitle": "Modeling and Simulation",
+            "creditHours": "3+0"
+          },
+          {
+            "code": "CS-999",
+            "courseTitle": "PhD Thesis",
+            "creditHours": "0+30"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,977 @@
+{
+  "academicRegulations": {
+    "controllerOfExaminations": {
+      "name": "Engineer Istikhar Rehman",
+      "designation": "Controller of Examinations"
+    },
+    "overview": "The Office of the Controller of Examinations is responsible for all the examination matters and ensures that the examinations are held in free and fair environment. It notifies date sheets, appoints supervisory staff, issues admit cards, maintains strict secrecy, publishes results, and issues transcripts and certificates.",
+    "academicCalendar": {
+      "regularSemesters": {
+        "durationWeeks": 19,
+        "teachingWeeks": 16,
+        "examWeeks": 3
+      },
+      "summerSemester": {
+        "durationWeeks": 8,
+        "note": "Undergraduate only; full credit hours as regular semester"
+      },
+      "schedule2022_2023": {
+        "fall2022": "2022-09-19 to 2023-01-27",
+        "spring2023": "2023-02-13 to 2023-06-16",
+        "summer2023": "2023-06-19 to 2023-08-25"
+      }
+    },
+    "definitions": {
+      "contactHour": "One hour (including 10 min break) of academic/research activity per week per course.",
+      "creditCourse": "A mandatory course whose successful completion is required for degree award.",
+      "creditHour": "One lecture hour (including 10 min break) per week; seminars/tutorials/labs may require 2\u20133 contact hours."
+    },
+    "gradingSystem": {
+      "relative": [
+        {
+          "grade": "A",
+          "point": 4.0
+        },
+        {
+          "grade": "A-",
+          "point": 3.67
+        },
+        {
+          "grade": "B+",
+          "point": 3.33
+        },
+        {
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "grade": "B-",
+          "point": 2.67
+        },
+        {
+          "grade": "C+",
+          "point": 2.33
+        },
+        {
+          "grade": "C*",
+          "point": 2.0
+        },
+        {
+          "grade": "C-",
+          "point": 1.67
+        },
+        {
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "grade": "I",
+          "point": "Incomplete"
+        }
+      ],
+      "absoluteForSmallClasses": [
+        {
+          "marks": "90-100",
+          "grade": "A",
+          "point": 4.0
+        },
+        {
+          "marks": "85-89",
+          "grade": "A-",
+          "point": 3.67
+        },
+        {
+          "marks": "80-84",
+          "grade": "B+",
+          "point": 3.33
+        },
+        {
+          "marks": "75-79",
+          "grade": "B",
+          "point": 3.0
+        },
+        {
+          "marks": "70-74",
+          "grade": "B-",
+          "point": 2.67
+        },
+        {
+          "marks": "65-69",
+          "grade": "C+",
+          "point": 2.33
+        },
+        {
+          "marks": "60-64",
+          "grade": "C*",
+          "point": 2.0
+        },
+        {
+          "marks": "55-59",
+          "grade": "C-",
+          "point": 1.67
+        },
+        {
+          "marks": "50-54",
+          "grade": "D",
+          "point": 1.0
+        },
+        {
+          "marks": "<50",
+          "grade": "F",
+          "point": 0.0
+        },
+        {
+          "marks": "-",
+          "grade": "I",
+          "point": "Incomplete"
+        }
+      ]
+    },
+    "specialCases": {
+      "awardOfF": "Attendance < 75% or missing end-term exam \u2192 grade F; must repeat course.",
+      "awardOfI": "Miss end-term exam for approved reason with \u226575% attendance \u2192 grade I; makeup within 6 weeks, else F."
+    },
+    "attendanceRule": "Must have \u226575% attendance to sit end-semester exam; otherwise F grade.",
+    "gpaCalculations": {
+      "cgpaFormula": "CGPA = \u03a3(P \u00d7 N) / \u03a3(N)",
+      "gpaFormula": "GPA = \u03a3(P \u00d7 N) / \u03a3(N) for that semester"
+    },
+    "courseRepetition": {
+      "purpose": "Clear F grades or improve CGPA",
+      "rules": "Register, pay fee, attend all classes/exams; summer max grade B; up to 6 repeats UG, 2 repeats PG; transcript shows both grades but CGPA uses better."
+    },
+    "semesterFreeze": {
+      "allowed": "Up to 1 year with Chairperson approval for valid reasons (not first semester).",
+      "fees": "Pay normal registration fee; clear outstanding dues before return."
+    },
+    "finalGradeProcess": "Faculty consolidates marks from assignments, labs, sessionals, exams, projects, shows award lists for student review, submits to Department Board, then to Controller.",
+    "gradeRecheck": {
+      "policy": "No re-evaluation; rechecking on payment within 30 days; Dean may condone 15-day delay with double fee; verify marking and totals."
+    },
+    "preEndSemesterChange": "Only queries on final exam scripts accepted; no changes to quizzes, assignments, sessionals except clerical errors via Chairperson.",
+    "mediumOfInstruction": "English, unless otherwise permitted.",
+    "semesterEnrollment": {
+      "mandatory": true,
+      "deadline": "First 2 weeks",
+      "consequence": "Non\u2011enrollment \u2192 struck off rolls; can restore with fee and fine."
+    },
+    "courseAddDrop": {
+      "undergraduate": "Within first 2 weeks for program conflicts/personal grounds; no fee or result announcement; otherwise fee applies.",
+      "graduate": "Similar but drops after first sessional carry fee but no result announcement; otherwise fee and result apply."
+    },
+    "creditLoad": {
+      "undergraduate": "15\u201318 Cr Hrs regular, \u22649 Cr Hrs summer",
+      "masters": "\u226412 Cr Hrs",
+      "phd": "\u22649 Cr Hrs"
+    },
+    "performanceEvaluation": [
+      "Quizzes",
+      "Assignments",
+      "Case Studies/Seminars/Workshops",
+      "Practical/Lab Tests",
+      "Project",
+      "Internship",
+      "Viva Voce",
+      "Sessional Examinations",
+      "End Semester Examination"
+    ],
+    "undergraduateDeficiencies": {
+      "conditions": [
+        "F in any subject",
+        "First semester GPA < 2.00",
+        "CGPA < 2.00",
+        "I grade in any course"
+      ],
+      "outcomes": {
+        "probation": "CGPA < 2.00 (not 1st sem)",
+        "relegation": "On request/medical/disciplinary",
+        "withdrawal": "CGPA <2.00 after 7 years, fail all courses in 1st sem, 5 consecutive probations, disciplinary"
+      },
+      "durationLimits": {
+        "minYears": 4,
+        "maxYears": 7
+      },
+      "degreeAward": "Complete credit hours, CGPA \u2265 2.00, no F grades, clear dues"
+    },
+    "graduatePrograms": {
+      "masters": {
+        "deficiencies": [
+          "Fail >1 course",
+          "Uncleared F grade",
+          "CGPA < 2.50 after coursework and repeats",
+          "I in any course"
+        ],
+        "outcomes": {
+          "probation": "CGPA 2.00\u20132.49 or fail in a subject",
+          "withdrawal": "1st sem GPA <2.00, >1 fail in coursework, CGPA <2.50 after repeats"
+        },
+        "transferOfCredits": {
+          "rules": [
+            "Only B or higher",
+            "Max 12 Cr Hrs",
+            "Complete within HEC timeframe",
+            "Subject to Department Board approval",
+            "No migration after 3 weeks; no from affiliated colleges"
+          ]
+        },
+        "improvementOfCgpa": {
+          "rules": [
+            "Repeat up to 2 courses <3.00",
+            "Apply to Chairperson, pay fee, transcript shows both but CGPA uses better",
+            "Repeat within supervisor timeframe"
+          ]
+        },
+        "duration": {
+          "minYears": 1.5,
+          "maxYears": 4
+        },
+        "supervision": {
+          "appointment": "Chairperson + Dean approval",
+          "change": "By Chairperson + Dean + VC",
+          "coSupervisor": "PhD faculty or industry expert where needed"
+        },
+        "externalExaminer": {
+          "nomination": "Supervisor proposes panel of 3; Dean appoints 1 to evaluate thesis"
+        },
+        "thesisSubmission": {
+          "eligibility": "Coursework complete",
+          "language": "English unless approved",
+          "copiesForEvaluation": 2,
+          "finalCopies": 4,
+          "distribution": [
+            "University",
+            "Department",
+            "Supervisor",
+            "Student"
+          ]
+        },
+        "researchDuringProgram": [
+          "Complete 6 Cr Hrs thesis",
+          "Agree topic with Supervisor",
+          "No plagiarism",
+          "Thesis graded towards CGPA",
+          "Topic change discouraged; Board review if needed"
+        ],
+        "thesisEvaluation": {
+          "external": 1,
+          "presentation": "After positive external report",
+          "resubmission": {
+            "maxMonths": 6,
+            "firstResubmitMinMonths": 3,
+            "thirdResubmission": "Not allowed \u2192 fail"
+          }
+        },
+        "degreeAward": {
+          "requirements": [
+            "24 Cr Hrs coursework or HEC\u2011approved",
+            "6 Cr Hrs thesis or 2 additional courses",
+            "Successful defense",
+            "CGPA \u2265 2.50",
+            "No F grades",
+            "Clear dues"
+          ]
+        },
+        "feeAndDues": "Tuition and prescribed charges",
+        "plagiarismTest": "Before external submission by QAC"
+      },
+      "phd": {
+        "deficiencies": [
+          "F in >1 course",
+          "Uncleared F after repeat",
+          "CGPA <3.00 after repeats",
+          "Fail comp exam twice",
+          "Disciplinary"
+        ],
+        "improvementOfCgpa": {
+          "rules": [
+            "Repeat up to 2 courses <3.00",
+            "Apply to Chairperson + Supervisor",
+            "Transcript shows both but CGPA uses better",
+            "Repeat within supervisor timeframe"
+          ]
+        },
+        "confirmationOfAdmission": {
+          "compExam": {
+            "writtenOral": true,
+            "pass": "\u226560% overall, \u226540% each paper",
+            "maxAttempts": 2,
+            "timeline": "Within 2 years",
+            "uponPass": "Submit synopsis within 1 year to BAS&R"
+          }
+        },
+        "supervision": {
+          "appointmentSupervisor": "BAS&R approves on Department recommendation",
+          "gecFormation": "Within 1 month post-supervisor appointment; min 3 PhD members including external",
+          "proposalDefense": "Within 6 months of comp exam",
+          "coSupervisor": "PhD holder from other dept or outside"
+        },
+        "instructions": {
+          "medium": "English unless VC approves",
+          "progressReports": "Supervisor reports to BAS&R every June & Dec; 2 unsatisfactory \u2192 cancel admission",
+          "changeSupervisorTopic": "Once only, via BAS&R"
+        },
+        "duration": {
+          "minYears": 3,
+          "maxYears": 8,
+          "residencyYears": 2
+        },
+        "researchPublication": "At least one Y-category HEC journal paper as first author",
+        "externalExaminers": {
+          "localAndForeign": "From BAS&R-approved list; Supervisor proposes panel; VC appoints"
+        },
+        "plagiarismTest": "Before external submission by QAC",
+        "dissertationEvaluation": {
+          "external": [
+            "Foreign",
+            "Local"
+          ],
+          "positiveReport": "\u2192 final presentation",
+          "rejection": "If 2 experts ask resubmission \u2192 6 months to revise",
+          "resubmission": "After revisions; min 3 months after intimation"
+        },
+        "interpretationOfReports": {
+          "approved": "\u2192 open defence",
+          "modifications": "Minor without re-referral; major \u2192 resubmit within 1 year"
+        },
+        "externalFailResponse": "If no response in 3 months \u2192 next expert; repeat if needed",
+        "defence": {
+          "panel": [
+            "External reviewers",
+            "GEC",
+            "Department Chair"
+          ],
+          "notification": "Controller announces date",
+          "public": true,
+          "decision": "Majority vote"
+        },
+        "dissertationSubmission": {
+          "conditions": [
+            "Original contribution",
+            "Not duplicate past degree work"
+          ],
+          "initialSpiralCopies": 4,
+          "finalBoundCopies": 6,
+          "distribution": [
+            "University (3 sets)",
+            "Department",
+            "Supervisor",
+            "Library",
+            "Student"
+          ]
+        },
+        "degreeAward": {
+          "requirements": [
+            "Coursework + 2 years residency",
+            "30 Cr Hrs research",
+            "Pass defence"
+          ]
+        },
+        "codeOfEthics": [
+          "No candidate/spouse/relative contact with externals",
+          "Faculty blood-relations excluded from process",
+          "External examiners may not co-author with candidate/spouse/relative/supervisor"
+        ]
+      }
+    }
+  },
+  "admissions": {
+    "officeOfRegistrar": {
+      "responsibilities": "Coordinates all university activities, custodian of seal and academic records, secretariat support to Board of Governors and VC, maintains student/faculty/staff records, handles admissions, registrations, semester enrollments, degree preparation.",
+      "policy": "Admissions strictly on merit, open to all without prejudice. Provisional admission for candidates awaiting prerequisite exam results, subject to passing and submission of documents within two weeks of result declaration."
+    },
+    "programsOffered": {
+      "BS": [
+        "Mechanical Engineering",
+        "Electrical Engineering (Power, Electronics, Telecommunication, General)",
+        "Computer Engineering",
+        "Civil Engineering",
+        "Biomedical Engineering",
+        "Computer Science",
+        "Software Engineering",
+        "Cyber Security",
+        "Artificial Intelligence",
+        "Accounting & Finance",
+        "Business Administration",
+        "Business Analytics",
+        "Internet of Things",
+        "Robotics & Automation",
+        "Islamic Studies",
+        "Mathematics"
+      ],
+      "MBA": "Master of Business Administration \u2013 Morning/Evening",
+      "MS": [
+        "Mechanical Engineering",
+        "Electrical Engineering",
+        "Computer Engineering",
+        "Software Engineering",
+        "Computer Science",
+        "Mathematics",
+        "Islamic Studies"
+      ],
+      "PhD": [
+        "Mechanical Engineering",
+        "Electrical Engineering",
+        "Computer Engineering",
+        "Computer Science",
+        "Mathematics",
+        "Islamic Studies"
+      ]
+    },
+    "financialAssistanceBS": [
+      "100% Tuition Fee Waiver for Top 25 Board Position Holders",
+      "Tuition Fee Waiver for top 250 University Merit List position holders",
+      "High Achievers Semester Based Scholarships",
+      "Financial Assistance to Needy Students"
+    ],
+    "facilities": [
+      "Dedicated Boys and Girls Hostel",
+      "University Transport for Twin Cities",
+      "In-house Gymnasium",
+      "In-house Swimming Pool",
+      "Fully Air Conditioned Class Rooms",
+      "State of the Art Laboratories"
+    ],
+    "admissionTest": {
+      "formats": {
+        "Engineering": {
+          "English": "20%",
+          "Physics": "30%",
+          "Mathematics": "30%",
+          "Chemistry": "20%"
+        },
+        "Bio-Medical Engineering": {
+          "English": "20%",
+          "Physics": "30%",
+          "Biology/Mathematics": "30%",
+          "Chemistry": "20%"
+        },
+        "Computer Engineering": {
+          "English": "20%",
+          "Physics": "30%",
+          "Mathematics": "30%",
+          "Chemistry/Computer Science": "30%"
+        }
+      },
+      "eligibility": "Compulsory for UG engineering and CS/SE; valid NAT-IE/IM/ICS/IGS/ICOM/IA/HAT/ECAT results accepted"
+    },
+    "meritCalculationEngineering": {
+      "admissionTest": "50%",
+      "HSSC": "30%",
+      "SSC/O-level": "20%"
+    },
+    "onlineAdmission": {
+      "BSPrograms": "admissions.hitecuni.edu.pk",
+      "notes": "Campus-based test also available"
+    },
+    "keyPoints": [
+      "HSSC with Comp Sci + Physics & Math eligible for BS Engineering",
+      "DAE holders may apply on open merit",
+      "Pre-Medical eligible for various BS programs including Biomed, CS, SE, IoT, Robotics, Math, Islamic Studies, BBA, B-Analytics, AI, Cyber Sec"
+    ],
+    "accreditation": {
+      "engineering": "Level-II OBE Accreditation from PEC; degrees accepted under Washington Accord",
+      "softwareCS": "Accredited by NCEAC"
+    },
+    "contactDetails": {
+      "phone": [
+        "051-4908144",
+        "051-4908146-49"
+      ],
+      "mobile": [
+        "0320-5060001",
+        "0333-5172586"
+      ],
+      "email": "admissions@hitecuni.edu.pk"
+    },
+    "eligibilityCriteria": {
+      "BSElectricalEngineering": [
+        "FSc/A Level with Physics, Chemistry, Maths or relevant DAE (PEC-approved)",
+        "Minimum 60% marks"
+      ],
+      "BSRoboticsAndAutomation": [
+        "Intermediate or equivalent with Physics and Maths",
+        "Second Division"
+      ],
+      "BSMechanicalEngineering": [
+        "FSc/A Level with Physics, Chemistry, Maths or relevant DAE (PEC-approved)",
+        "Minimum 60% marks"
+      ],
+      "BSComputerEngineering": [
+        "FSc/A Level with Physics, Chemistry/Computer Science, Maths or relevant DAE (PEC-approved)",
+        "Minimum 60% marks"
+      ],
+      "BSIoT": [
+        "FSc/A Level/DAE",
+        "Minimum 50% marks"
+      ],
+      "BSCivilEngineering": [
+        "FSc/A Level with Physics, Chemistry, Maths or relevant DAE (PEC-approved)",
+        "Minimum 60% marks"
+      ],
+      "BSBiomedicalEngineering": [
+        "FSc/A Level with Biology/Maths, Chemistry, Physics or relevant DAE (PEC-approved)",
+        "Minimum 60% marks"
+      ],
+      "BSCS_SE": [
+        "FSc Pre-Engineering/Pre-Medical/ICS/A Level or equivalent",
+        "Minimum 50% marks"
+      ],
+      "BSMathematics": [
+        "Intermediate with Maths \u2013 50%",
+        "DAE \u2013 60%"
+      ],
+      "BSStatistics": [
+        "FA/FSc/A Level or equivalent",
+        "Minimum 45% marks"
+      ],
+      "BSIslamicStudies": [
+        "Intermediate/equivalent/Khassa Certificate (HEC-recognized)",
+        "Minimum 50% marks"
+      ],
+      "BBA": [
+        "Intermediate or equivalent \u2013 50%"
+      ],
+      "BSAccountingFinance": [
+        "Intermediate or equivalent \u2013 50%"
+      ],
+      "MSEngineering": [
+        "BE/BS/BSc Engineering in relevant discipline \u2013 CGPA \u22652.00 or 50%",
+        "GAT General/NTS or University test \u226550%"
+      ],
+      "MSCS_SE": [
+        "BS CS/SE, MCS/MSc CS \u2013 CGPA \u22652.00 or 50%",
+        "GAT General/NTS or University test \u226550%"
+      ],
+      "MSMathematics": [
+        "BS/MSc Mathematics \u2013 CGPA \u22652.00 or 50%",
+        "GAT General/NTS or University test \u226550%"
+      ],
+      "MSIslamicStudies": [
+        "MA/BS Islamic Studies/Shariah/Arabic or Dars-e-Nizami \u2013 50%",
+        "CGPA \u22652.00 or 50%",
+        "GAT General/NTS or University test \u226550%"
+      ],
+      "MBA": {
+        "pathway1": [
+          "BBA (Hons), B.Com (Hons), BSc A&F, CA, ACCA, ACMA, M.Com"
+        ],
+        "pathway2": [
+          "16 years education (MA, MSc, BS, MBBS, B-Pharm)"
+        ],
+        "CGPA": "\u22652.00 or 50%",
+        "GAT": "General/NTS or University test \u226550%"
+      },
+      "PhD": [
+        "MS/MPhil in relevant discipline \u2013 CGPA \u22653.00 or 70%",
+        "GAT Subject/NTS \u226560%"
+      ]
+    },
+    "announcementOfResults": "Results published as per schedule on website; selected candidates notified via email/SMS and list at Secretariat",
+    "lateAdmissions": "Not entertained; university may reject applications without reason",
+    "registrationAndEnrollment": {
+      "process": "Complete admission formalities and fee payment \u2192 registered as bona fide student \u2192 provide original documents \u2192 receive ID card \u2192 enroll courses within first 2 weeks or risk removal from rolls",
+      "provisional": "Until originals provided"
+    },
+    "internalTransfer": "Allowed only in extreme cases, same or lower-merit discipline on request"
+  },
+  "facilities": {
+    "transport": {
+      "description": "University owns a fleet of transport vehicles consisting of buses and vans for transporting students at nominal charges. The transport operates on two different routes. Route-1 covers Islamabad, whereas Route-2 facilitates students coming from Rawalpindi. Local transport is also available for students living in close proximity to the University.",
+      "routes": {
+        "Islamabad": {
+          "stops": [
+            {
+              "stop": "Zonal Office HIT Kashmir Road",
+              "time": "06:25 AM"
+            },
+            {
+              "stop": "Marirh Chowk",
+              "time": "06:30 AM"
+            },
+            {
+              "stop": "Liaqat Bagh",
+              "time": "06:35 AM"
+            },
+            {
+              "stop": "Commetti Chowk",
+              "time": "06:40 AM"
+            },
+            {
+              "stop": "Waris Khan",
+              "time": "06:42 AM"
+            },
+            {
+              "stop": "Chandni Chowk",
+              "time": "06:45 AM"
+            },
+            {
+              "stop": "Rehmanabad",
+              "time": "06:48 AM"
+            },
+            {
+              "stop": "6th Road",
+              "time": "06:50 AM"
+            },
+            {
+              "stop": "Stadium Road",
+              "time": "06:52 AM"
+            },
+            {
+              "stop": "I.J.P Chowk",
+              "time": "06:55 AM"
+            },
+            {
+              "stop": "I-9 Police Station",
+              "time": "07:00 AM"
+            },
+            {
+              "stop": "Peshawar Mor",
+              "time": "07:05 AM"
+            },
+            {
+              "stop": "Zero Point",
+              "time": "07:08 AM"
+            },
+            {
+              "stop": "I.S.I 7th Avenue",
+              "time": "07:10 AM"
+            },
+            {
+              "stop": "Jinnah Avenue",
+              "time": "07:13 AM"
+            },
+            {
+              "stop": "Centaurus",
+              "time": "07:17 AM"
+            },
+            {
+              "stop": "P.A.R.C",
+              "time": "07:20 AM"
+            },
+            {
+              "stop": "G-9 Markaz",
+              "time": "07:27 AM"
+            },
+            {
+              "stop": "G-10 Markaz",
+              "time": "07:32 AM"
+            },
+            {
+              "stop": "11th Avenue",
+              "time": "07:37 AM"
+            },
+            {
+              "stop": "Kashmir Highway",
+              "time": "07:40 AM"
+            },
+            {
+              "stop": "Police Line",
+              "time": "07:42 AM"
+            },
+            {
+              "stop": "G-11",
+              "time": "07:45 AM"
+            },
+            {
+              "stop": "G-13",
+              "time": "07:47 AM"
+            },
+            {
+              "stop": "Islamabad Chowk",
+              "time": "07:49 AM"
+            },
+            {
+              "stop": "26 No.",
+              "time": "07:52 AM"
+            },
+            {
+              "stop": "Tarnol",
+              "time": "07:55 AM"
+            },
+            {
+              "stop": "HITEC University (Final Stop)",
+              "time": ""
+            }
+          ],
+          "driverContact": {
+            "Fakhar Shah": [
+              "0317-4910701",
+              "0331-9503033"
+            ]
+          }
+        },
+        "Rawalpindi": {
+          "stops": [
+            {
+              "stop": "Zonal Office HIT Kashmir Road",
+              "time": "06:00 AM"
+            },
+            {
+              "stop": "Chatar Chowk",
+              "time": "06:30 AM"
+            },
+            {
+              "stop": "Fizaiya Colony",
+              "time": "06:35 AM"
+            },
+            {
+              "stop": "Gangal East",
+              "time": "06:40 AM"
+            },
+            {
+              "stop": "Koral Chowk",
+              "time": "06:45 AM"
+            },
+            {
+              "stop": "PWD",
+              "time": "06:50 AM"
+            },
+            {
+              "stop": "Gulzar e Quaid",
+              "time": "06:55 AM"
+            },
+            {
+              "stop": "Shah Khalid",
+              "time": "06:57 AM"
+            },
+            {
+              "stop": "Air Port",
+              "time": "07:00 AM"
+            },
+            {
+              "stop": "Rahimabad",
+              "time": "07:05 AM"
+            },
+            {
+              "stop": "Ammar Chowk",
+              "time": "07:10 AM"
+            },
+            {
+              "stop": "Jinnah Park",
+              "time": "07:12 AM"
+            },
+            {
+              "stop": "D.H.A",
+              "time": "07:20 AM"
+            },
+            {
+              "stop": "Morgah",
+              "time": "07:25 AM"
+            },
+            {
+              "stop": "New Lalazar",
+              "time": "07:27 AM"
+            },
+            {
+              "stop": "Kachehri",
+              "time": "07:30 AM"
+            },
+            {
+              "stop": "Saddar",
+              "time": "07:35 AM"
+            },
+            {
+              "stop": "Romi Park",
+              "time": "07:37 AM"
+            },
+            {
+              "stop": "Qasim Market",
+              "time": "07:40 AM"
+            },
+            {
+              "stop": "Wastrage",
+              "time": "07:42 AM"
+            },
+            {
+              "stop": "Chor Chowk",
+              "time": "07:45 AM"
+            },
+            {
+              "stop": "Golra Mor",
+              "time": "07:45 AM"
+            },
+            {
+              "stop": "Pir Wadai Mor",
+              "time": "07:50 AM"
+            },
+            {
+              "stop": "EME College",
+              "time": "08:00 AM"
+            },
+            {
+              "stop": "Jangi Syedna",
+              "time": "08:02 AM"
+            },
+            {
+              "stop": "HITEC University",
+              "time": "08:25 AM"
+            }
+          ],
+          "driverContact": {
+            "Driver Fasial": "0312-5693692",
+            "Driver Help Bilal": "0314-5351916"
+          }
+        },
+        "WahCantt": {
+          "stops": [
+            {
+              "stopNumber": 1,
+              "stopName": "New City Phase 2"
+            },
+            {
+              "stopNumber": 2,
+              "stopName": "Barrier #3"
+            },
+            {
+              "stopNumber": 3,
+              "stopName": "Aslam Market Stop"
+            },
+            {
+              "stopNumber": 4,
+              "stopName": "Main Gate Stop"
+            },
+            {
+              "stopNumber": 5,
+              "stopName": "Barrier #2 \u2013 POF Welfare Transport Parking"
+            },
+            {
+              "stopNumber": 6,
+              "stopName": "Benazir Colony"
+            },
+            {
+              "stopNumber": 7,
+              "stopName": "Uppal Chowk"
+            },
+            {
+              "stopNumber": 8,
+              "stopName": "Qubarstan Road"
+            },
+            {
+              "stopNumber": 9,
+              "stopName": "Losar Sharfu"
+            },
+            {
+              "stopNumber": 10,
+              "stopName": "Nawabad Stop"
+            },
+            {
+              "stopNumber": 11,
+              "stopName": "Kohistan Enclave"
+            },
+            {
+              "stopNumber": 12,
+              "stopName": "Sharif Hospital"
+            },
+            {
+              "stopNumber": 13,
+              "stopName": "Malakand Stop"
+            },
+            {
+              "stopNumber": 14,
+              "stopName": "Model Town"
+            },
+            {
+              "stopNumber": 15,
+              "stopName": "New City Phase 1"
+            },
+            {
+              "stopNumber": 16,
+              "stopName": "Officer Colony"
+            },
+            {
+              "stopNumber": 17,
+              "stopName": "Barrier #2 G.T Road"
+            },
+            {
+              "stopNumber": 18,
+              "stopName": "POF Guest House"
+            },
+            {
+              "stopNumber": 19,
+              "stopName": "Timber Market Stop"
+            },
+            {
+              "stopNumber": 20,
+              "stopName": "Maxmart / Barrier #5"
+            },
+            {
+              "stopNumber": 21,
+              "stopName": "23 Area Stop"
+            },
+            {
+              "stopNumber": 22,
+              "stopName": "Ghora Chowk Stop"
+            },
+            {
+              "stopNumber": 23,
+              "stopName": "Taxila Bus Stop"
+            },
+            {
+              "stopNumber": 24,
+              "stopName": "Jamilabad Stop"
+            },
+            {
+              "stopNumber": 25,
+              "stopName": "HITEC University"
+            }
+          ]
+        }
+      },
+      "contactNumbers": [
+        "0323-5252607",
+        "0317-4910701"
+      ]
+    },
+    "sports": {
+      "description": "The University provides extensive sports facilities for its students.",
+      "facilities": {
+        "Indoor Swimming Pool": "An all-weather indoor swimming pool is available for leisure and fitness. The water is changed regularly and maintained under excellent hygienic conditions. Students can use this facility at nominal charges.",
+        "Stadium": "The University stadium features a laser-leveled cricket ground with an international standard cricket pitch, a hockey ground, and a planned athletic track. It also includes a net practice area for cricket, a volleyball court, and futsal facilities, all set against the lush green backdrop of the Margalla mountain range.",
+        "Gymnasium": "A state-of-the-art gym in the HITEC sports complex is available with separate timings for male and female students. An additional aerobic centre is provided, and another gym facility is available in the HITEC Hostel for resident students and faculty.",
+        "Nusrat Auditorium": "A centrally air-conditioned auditorium with a seating capacity of 400, equipped with the latest multimedia/public address system, used for debates, contests, dramas, technical and scientific shows, and exhibitions.",
+        "Iqbal Auditorium": "A state-of-the-art facility for conferences and seminars with a seating capacity of 200."
+      }
+    },
+    "hostel": {
+      "description": "A fully functional Boys Hostel facility is available on campus to accommodate approximately 390 students. Jinnah Hostel is a purpose-built facility for 288 students, while an additional hostel can accommodate up to 100 students. The hostels offer fully furnished, well-ventilated, and airy rooms at very reasonable rates, along with indoor games, an indoor gymnasium, a TV room, and a mosque for students and faculty. There is also an exclusive hostel facility for girl students.",
+      "applicationProcedure": [
+        "Students must send their request for availing the hostel facility in Semester Fall 2023, clearly mentioning their Names and Registration Numbers, to alla.ud.din@hitecuni.edu.pk.",
+        "A Challan Form will be sent in reply by the DSA Office.",
+        "The reply will also include a link to a Google Form where students must upload a picture of the paid challan along with other required information.",
+        "A department copy is to be submitted directly to the DSA Office, and the accounts copy sent directly to the Accounts Department as per their verified procedure.",
+        "Student seat confirmation is dependent on completion and verification of all the above steps.",
+        "Hostel allotment is on a first-come, first-served basis."
+      ]
+    },
+    "cafeteria": {
+      "description": "Two cafeterias are operational in the University Campus located in the Rumi Block. They serve fresh, hygienic, and healthy food at reasonable prices in a clean atmosphere. The performance of the cafeterias is monitored by a Food Committee comprising faculty members and students."
+    }
+  },
+  "sportsFacilities": {
+    "description": "The sports facilities include an all-weather indoor swimming pool, a well-equipped stadium, gymnasium facilities, and auditoriums for various events.",
+    "details": {
+      "Indoor Swimming Pool": "Provides leisure and fitness opportunities with regular water changes and high hygiene standards.",
+      "Stadium": "Features a cricket ground with an international standard pitch, a hockey ground, and plans for an athletic track, along with additional facilities like a net practice area for cricket, a volleyball court, and futsal.",
+      "Gymnasium": "State-of-the-art gym in the sports complex and an additional gym in the hostel, with separate timings for male and female students, plus an Aerobic Centre.",
+      "Nusrat Auditorium": "Centrally air-conditioned auditorium with a seating capacity of 400, equipped with advanced multimedia systems.",
+      "Iqbal Auditorium": "A modern facility with a seating capacity of 200, designed for conferences and seminars."
+    }
+  },
+  "hostelFacility": {
+    "description": "The Boys Hostel provides accommodation for approximately 390 students with fully furnished, well-ventilated, and airy rooms. Additional facilities include indoor games, an indoor gymnasium, a TV room, and a mosque. Separate hostel facilities are available for girl students.",
+    "applicationInstructions": [
+      "Submit request in Semester Fall 2023 with Name and Registration Number to alla.ud.din@hitecuni.edu.pk.",
+      "Receive Challan Form reply from DSA Office.",
+      "Upload paid challan and required information via a provided Google Form.",
+      "Submit department copy to DSA Office and accounts copy to the Accounts Department.",
+      "Allotment is on a first-come, first-served basis."
+    ]
+  },
+  "cafeteriaFacility": {
+    "description": "There are two operational cafeterias in the Rumi Block that serve traditional and fast foods in a clean environment at reasonable prices."
+  }
+}

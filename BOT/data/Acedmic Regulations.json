@@ -1,0 +1,287 @@
+
+{
+  "academicRegulations": {
+    "controllerOfExaminations": {
+      "name": "Engineer Istikhar Rehman",
+      "designation": "Controller of Examinations"
+    },
+    "overview": "The Office of the Controller of Examinations is responsible for all the examination matters and ensures that the examinations are held in free and fair environment. It notifies date sheets, appoints supervisory staff, issues admit cards, maintains strict secrecy, publishes results, and issues transcripts and certificates.",
+    "academicCalendar": {
+      "regularSemesters": {
+        "durationWeeks": 19,
+        "teachingWeeks": 16,
+        "examWeeks": 3
+      },
+      "summerSemester": {
+        "durationWeeks": 8,
+        "note": "Undergraduate only; full credit hours as regular semester"
+      },
+      "schedule2022_2023": {
+        "fall2022": "2022-09-19 to 2023-01-27",
+        "spring2023": "2023-02-13 to 2023-06-16",
+        "summer2023": "2023-06-19 to 2023-08-25"
+      }
+    },
+    "definitions": {
+      "contactHour": "One hour (including 10 min break) of academic/research activity per week per course.",
+      "creditCourse": "A mandatory course whose successful completion is required for degree award.",
+      "creditHour": "One lecture hour (including 10 min break) per week; seminars/tutorials/labs may require 2–3 contact hours."
+    },
+    "gradingSystem": {
+      "relative": [
+        { "grade": "A",  "point": 4.00 },
+        { "grade": "A-", "point": 3.67 },
+        { "grade": "B+", "point": 3.33 },
+        { "grade": "B",  "point": 3.00 },
+        { "grade": "B-", "point": 2.67 },
+        { "grade": "C+", "point": 2.33 },
+        { "grade": "C*", "point": 2.00 },
+        { "grade": "C-", "point": 1.67 },
+        { "grade": "D",  "point": 1.00 },
+        { "grade": "F",  "point": 0.00 },
+        { "grade": "I",  "point": "Incomplete" }
+      ],
+      "absoluteForSmallClasses": [
+        { "marks": "90-100", "grade": "A",  "point": 4.00 },
+        { "marks": "85-89",  "grade": "A-", "point": 3.67 },
+        { "marks": "80-84",  "grade": "B+", "point": 3.33 },
+        { "marks": "75-79",  "grade": "B",  "point": 3.00 },
+        { "marks": "70-74",  "grade": "B-", "point": 2.67 },
+        { "marks": "65-69",  "grade": "C+", "point": 2.33 },
+        { "marks": "60-64",  "grade": "C*", "point": 2.00 },
+        { "marks": "55-59",  "grade": "C-", "point": 1.67 },
+        { "marks": "50-54",  "grade": "D",  "point": 1.00 },
+        { "marks": "<50",    "grade": "F",  "point": 0.00 },
+        { "marks": "-",      "grade": "I",  "point": "Incomplete" }
+      ]
+    },
+    "specialCases": {
+      "awardOfF": "Attendance < 75% or missing end-term exam → grade F; must repeat course.",
+      "awardOfI": "Miss end-term exam for approved reason with ≥75% attendance → grade I; makeup within 6 weeks, else F."
+    },
+    "attendanceRule": "Must have ≥75% attendance to sit end-semester exam; otherwise F grade.",
+    "gpaCalculations": {
+      "cgpaFormula": "CGPA = Σ(P × N) / Σ(N)",
+      "gpaFormula": "GPA = Σ(P × N) / Σ(N) for that semester"
+    },
+    "courseRepetition": {
+      "purpose": "Clear F grades or improve CGPA",
+      "rules": "Register, pay fee, attend all classes/exams; summer max grade B; up to 6 repeats UG, 2 repeats PG; transcript shows both grades but CGPA uses better."
+    },
+    "semesterFreeze": {
+      "allowed": "Up to 1 year with Chairperson approval for valid reasons (not first semester).",
+      "fees": "Pay normal registration fee; clear outstanding dues before return."
+    },
+    "finalGradeProcess": "Faculty consolidates marks from assignments, labs, sessionals, exams, projects, shows award lists for student review, submits to Department Board, then to Controller.",
+    "gradeRecheck": {
+      "policy": "No re-evaluation; rechecking on payment within 30 days; Dean may condone 15-day delay with double fee; verify marking and totals."
+    },
+    "preEndSemesterChange": "Only queries on final exam scripts accepted; no changes to quizzes, assignments, sessionals except clerical errors via Chairperson.",
+    "mediumOfInstruction": "English, unless otherwise permitted.",
+    "semesterEnrollment": {
+      "mandatory": true,
+      "deadline": "First 2 weeks",
+      "consequence": "Non‑enrollment → struck off rolls; can restore with fee and fine."
+    },
+    "courseAddDrop": {
+      "undergraduate": "Within first 2 weeks for program conflicts/personal grounds; no fee or result announcement; otherwise fee applies.",
+      "graduate": "Similar but drops after first sessional carry fee but no result announcement; otherwise fee and result apply."
+    },
+    "creditLoad": {
+      "undergraduate": "15–18 Cr Hrs regular, ≤9 Cr Hrs summer",
+      "masters": "≤12 Cr Hrs",
+      "phd": "≤9 Cr Hrs"
+    },
+    "performanceEvaluation": [
+      "Quizzes",
+      "Assignments",
+      "Case Studies/Seminars/Workshops",
+      "Practical/Lab Tests",
+      "Project",
+      "Internship",
+      "Viva Voce",
+      "Sessional Examinations",
+      "End Semester Examination"
+    ],
+    "undergraduateDeficiencies": {
+      "conditions": [
+        "F in any subject",
+        "First semester GPA < 2.00",
+        "CGPA < 2.00",
+        "I grade in any course"
+      ],
+      "outcomes": {
+        "probation": "CGPA < 2.00 (not 1st sem)",
+        "relegation": "On request/medical/disciplinary",
+        "withdrawal": "CGPA <2.00 after 7 years, fail all courses in 1st sem, 5 consecutive probations, disciplinary"
+      },
+      "durationLimits": {
+        "minYears": 4,
+        "maxYears": 7
+      },
+      "degreeAward": "Complete credit hours, CGPA ≥ 2.00, no F grades, clear dues"
+    },
+    "graduatePrograms": {
+      "masters": {
+        "deficiencies": [
+          "Fail >1 course",
+          "Uncleared F grade",
+          "CGPA < 2.50 after coursework and repeats",
+          "I in any course"
+        ],
+        "outcomes": {
+          "probation": "CGPA 2.00–2.49 or fail in a subject",
+          "withdrawal": "1st sem GPA <2.00, >1 fail in coursework, CGPA <2.50 after repeats"
+        },
+        "transferOfCredits": {
+          "rules": [
+            "Only B or higher",
+            "Max 12 Cr Hrs",
+            "Complete within HEC timeframe",
+            "Subject to Department Board approval",
+            "No migration after 3 weeks; no from affiliated colleges"
+          ]
+        },
+        "improvementOfCgpa": {
+          "rules": [
+            "Repeat up to 2 courses <3.00",
+            "Apply to Chairperson, pay fee, transcript shows both but CGPA uses better",
+            "Repeat within supervisor timeframe"
+          ]
+        },
+        "duration": {
+          "minYears": 1.5,
+          "maxYears": 4
+        },
+        "supervision": {
+          "appointment": "Chairperson + Dean approval",
+          "change": "By Chairperson + Dean + VC",
+          "coSupervisor": "PhD faculty or industry expert where needed"
+        },
+        "externalExaminer": {
+          "nomination": "Supervisor proposes panel of 3; Dean appoints 1 to evaluate thesis"
+        },
+        "thesisSubmission": {
+          "eligibility": "Coursework complete",
+          "language": "English unless approved",
+          "copiesForEvaluation": 2,
+          "finalCopies": 4,
+          "distribution": ["University", "Department", "Supervisor", "Student"]
+        },
+        "researchDuringProgram": [
+          "Complete 6 Cr Hrs thesis",
+          "Agree topic with Supervisor",
+          "No plagiarism",
+          "Thesis graded towards CGPA",
+          "Topic change discouraged; Board review if needed"
+        ],
+        "thesisEvaluation": {
+          "external": 1,
+          "presentation": "After positive external report",
+          "resubmission": {
+            "maxMonths": 6,
+            "firstResubmitMinMonths": 3,
+            "thirdResubmission": "Not allowed → fail"
+          }
+        },
+        "degreeAward": {
+          "requirements": [
+            "24 Cr Hrs coursework or HEC‑approved",
+            "6 Cr Hrs thesis or 2 additional courses",
+            "Successful defense",
+            "CGPA ≥ 2.50",
+            "No F grades",
+            "Clear dues"
+          ]
+        },
+        "feeAndDues": "Tuition and prescribed charges",
+        "plagiarismTest": "Before external submission by QAC"
+      },
+      "phd": {
+        "deficiencies": [
+          "F in >1 course",
+          "Uncleared F after repeat",
+          "CGPA <3.00 after repeats",
+          "Fail comp exam twice",
+          "Disciplinary"
+        ],
+        "improvementOfCgpa": {
+          "rules": [
+            "Repeat up to 2 courses <3.00",
+            "Apply to Chairperson + Supervisor",
+            "Transcript shows both but CGPA uses better",
+            "Repeat within supervisor timeframe"
+          ]
+        },
+        "confirmationOfAdmission": {
+          "compExam": {
+            "writtenOral": true,
+            "pass": "≥60% overall, ≥40% each paper",
+            "maxAttempts": 2,
+            "timeline": "Within 2 years",
+            "uponPass": "Submit synopsis within 1 year to BAS&R"
+          }
+        },
+        "supervision": {
+          "appointmentSupervisor": "BAS&R approves on Department recommendation",
+          "gecFormation": "Within 1 month post-supervisor appointment; min 3 PhD members including external",
+          "proposalDefense": "Within 6 months of comp exam",
+          "coSupervisor": "PhD holder from other dept or outside"
+        },
+        "instructions": {
+          "medium": "English unless VC approves",
+          "progressReports": "Supervisor reports to BAS&R every June & Dec; 2 unsatisfactory → cancel admission",
+          "changeSupervisorTopic": "Once only, via BAS&R"
+        },
+        "duration": {
+          "minYears": 3,
+          "maxYears": 8,
+          "residencyYears": 2
+        },
+        "researchPublication": "At least one Y-category HEC journal paper as first author",
+        "externalExaminers": {
+          "localAndForeign": "From BAS&R-approved list; Supervisor proposes panel; VC appoints"
+        },
+        "plagiarismTest": "Before external submission by QAC",
+        "dissertationEvaluation": {
+          "external": ["Foreign", "Local"],
+          "positiveReport": "→ final presentation",
+          "rejection": "If 2 experts ask resubmission → 6 months to revise",
+          "resubmission": "After revisions; min 3 months after intimation"
+        },
+        "interpretationOfReports": {
+          "approved": "→ open defence",
+          "modifications": "Minor without re-referral; major → resubmit within 1 year"
+        },
+        "externalFailResponse": "If no response in 3 months → next expert; repeat if needed",
+        "defence": {
+          "panel": ["External reviewers", "GEC", "Department Chair"],
+          "notification": "Controller announces date",
+          "public": true,
+          "decision": "Majority vote"
+        },
+        "dissertationSubmission": {
+          "conditions": [
+            "Original contribution",
+            "Not duplicate past degree work"
+          ],
+          "initialSpiralCopies": 4,
+          "finalBoundCopies": 6,
+          "distribution": ["University (3 sets)", "Department", "Supervisor", "Library", "Student"]
+        },
+        "degreeAward": {
+          "requirements": [
+            "Coursework + 2 years residency",
+            "30 Cr Hrs research",
+            "Pass defence"
+          ]
+        },
+        "codeOfEthics": [
+          "No candidate/spouse/relative contact with externals",
+          "Faculty blood-relations excluded from process",
+          "External examiners may not co-author with candidate/spouse/relative/supervisor"
+        ]
+      }
+    }
+  }
+}

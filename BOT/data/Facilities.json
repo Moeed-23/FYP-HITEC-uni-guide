@@ -1,0 +1,159 @@
+
+{
+  "facilities": {
+    "transport": {
+      "description": "University owns a fleet of transport vehicles consisting of buses and vans for transporting students at nominal charges. The transport operates on two different routes. Route-1 covers Islamabad, whereas Route-2 facilitates students coming from Rawalpindi. Local transport is also available for students living in close proximity to the University.",
+      "routes": {
+        "Islamabad": {
+          "stops": [
+            { "stop": "Zonal Office HIT Kashmir Road", "time": "06:25 AM" },
+            { "stop": "Marirh Chowk", "time": "06:30 AM" },
+            { "stop": "Liaqat Bagh", "time": "06:35 AM" },
+            { "stop": "Commetti Chowk", "time": "06:40 AM" },
+            { "stop": "Waris Khan", "time": "06:42 AM" },
+            { "stop": "Chandni Chowk", "time": "06:45 AM" },
+            { "stop": "Rehmanabad", "time": "06:48 AM" },
+            { "stop": "6th Road", "time": "06:50 AM" },
+            { "stop": "Stadium Road", "time": "06:52 AM" },
+            { "stop": "I.J.P Chowk", "time": "06:55 AM" },
+            { "stop": "I-9 Police Station", "time": "07:00 AM" },
+            { "stop": "Peshawar Mor", "time": "07:05 AM" },
+            { "stop": "Zero Point", "time": "07:08 AM" },
+            { "stop": "I.S.I 7th Avenue", "time": "07:10 AM" },
+            { "stop": "Jinnah Avenue", "time": "07:13 AM" },
+            { "stop": "Centaurus", "time": "07:17 AM" },
+            { "stop": "P.A.R.C", "time": "07:20 AM" },
+            { "stop": "G-9 Markaz", "time": "07:27 AM" },
+            { "stop": "G-10 Markaz", "time": "07:32 AM" },
+            { "stop": "11th Avenue", "time": "07:37 AM" },
+            { "stop": "Kashmir Highway", "time": "07:40 AM" },
+            { "stop": "Police Line", "time": "07:42 AM" },
+            { "stop": "G-11", "time": "07:45 AM" },
+            { "stop": "G-13", "time": "07:47 AM" },
+            { "stop": "Islamabad Chowk", "time": "07:49 AM" },
+            { "stop": "26 No.", "time": "07:52 AM" },
+            { "stop": "Tarnol", "time": "07:55 AM" },
+            { "stop": "HITEC University (Final Stop)", "time": "" }
+          ],
+          "driverContact": {
+            "Fakhar Shah": ["0317-4910701", "0331-9503033"]
+          }
+        },
+        "Rawalpindi": {
+          "stops": [
+            { "stop": "Zonal Office HIT Kashmir Road", "time": "06:00 AM" },
+            { "stop": "Chatar Chowk", "time": "06:30 AM" },
+            { "stop": "Fizaiya Colony", "time": "06:35 AM" },
+            { "stop": "Gangal East", "time": "06:40 AM" },
+            { "stop": "Koral Chowk", "time": "06:45 AM" },
+            { "stop": "PWD", "time": "06:50 AM" },
+            { "stop": "Gulzar e Quaid", "time": "06:55 AM" },
+            { "stop": "Shah Khalid", "time": "06:57 AM" },
+            { "stop": "Air Port", "time": "07:00 AM" },
+            { "stop": "Rahimabad", "time": "07:05 AM" },
+            { "stop": "Ammar Chowk", "time": "07:10 AM" },
+            { "stop": "Jinnah Park", "time": "07:12 AM" },
+            { "stop": "D.H.A", "time": "07:20 AM" },
+            { "stop": "Morgah", "time": "07:25 AM" },
+            { "stop": "New Lalazar", "time": "07:27 AM" },
+            { "stop": "Kachehri", "time": "07:30 AM" },
+            { "stop": "Saddar", "time": "07:35 AM" },
+            { "stop": "Romi Park", "time": "07:37 AM" },
+            { "stop": "Qasim Market", "time": "07:40 AM" },
+            { "stop": "Wastrage", "time": "07:42 AM" },
+            { "stop": "Chor Chowk", "time": "07:45 AM" },
+            { "stop": "Golra Mor", "time": "07:45 AM" },
+            { "stop": "Pir Wadai Mor", "time": "07:50 AM" },
+            { "stop": "EME College", "time": "08:00 AM" },
+            { "stop": "Jangi Syedna", "time": "08:02 AM" },
+            { "stop": "HITEC University", "time": "08:25 AM" }
+          ],
+          "driverContact": {
+            "Driver Fasial": "0312-5693692",
+            "Driver Help Bilal": "0314-5351916"
+          }
+        },
+        "WahCantt": {
+          "stops": [
+            { "stopNumber": 1, "stopName": "New City Phase 2" },
+            { "stopNumber": 2, "stopName": "Barrier #3" },
+            { "stopNumber": 3, "stopName": "Aslam Market Stop" },
+            { "stopNumber": 4, "stopName": "Main Gate Stop" },
+            { "stopNumber": 5, "stopName": "Barrier #2 – POF Welfare Transport Parking" },
+            { "stopNumber": 6, "stopName": "Benazir Colony" },
+            { "stopNumber": 7, "stopName": "Uppal Chowk" },
+            { "stopNumber": 8, "stopName": "Qubarstan Road" },
+            { "stopNumber": 9, "stopName": "Losar Sharfu" },
+            { "stopNumber": 10, "stopName": "Nawabad Stop" },
+            { "stopNumber": 11, "stopName": "Kohistan Enclave" },
+            { "stopNumber": 12, "stopName": "Sharif Hospital" },
+            { "stopNumber": 13, "stopName": "Malakand Stop" },
+            { "stopNumber": 14, "stopName": "Model Town" },
+            { "stopNumber": 15, "stopName": "New City Phase 1" },
+            { "stopNumber": 16, "stopName": "Officer Colony" },
+            { "stopNumber": 17, "stopName": "Barrier #2 G.T Road" },
+            { "stopNumber": 18, "stopName": "POF Guest House" },
+            { "stopNumber": 19, "stopName": "Timber Market Stop" },
+            { "stopNumber": 20, "stopName": "Maxmart / Barrier #5" },
+            { "stopNumber": 21, "stopName": "23 Area Stop" },
+            { "stopNumber": 22, "stopName": "Ghora Chowk Stop" },
+            { "stopNumber": 23, "stopName": "Taxila Bus Stop" },
+            { "stopNumber": 24, "stopName": "Jamilabad Stop" },
+            { "stopNumber": 25, "stopName": "HITEC University" }
+          ]
+        }
+      },
+      "contactNumbers": [
+        "0323-5252607",
+        "0317-4910701"
+      ]
+    },
+    "sports": {
+      "description": "The University provides extensive sports facilities for its students.",
+      "facilities": {
+        "Indoor Swimming Pool": "An all-weather indoor swimming pool is available for leisure and fitness. The water is changed regularly and maintained under excellent hygienic conditions. Students can use this facility at nominal charges.",
+        "Stadium": "The University stadium features a laser-leveled cricket ground with an international standard cricket pitch, a hockey ground, and a planned athletic track. It also includes a net practice area for cricket, a volleyball court, and futsal facilities, all set against the lush green backdrop of the Margalla mountain range.",
+        "Gymnasium": "A state-of-the-art gym in the HITEC sports complex is available with separate timings for male and female students. An additional aerobic centre is provided, and another gym facility is available in the HITEC Hostel for resident students and faculty.",
+        "Nusrat Auditorium": "A centrally air-conditioned auditorium with a seating capacity of 400, equipped with the latest multimedia/public address system, used for debates, contests, dramas, technical and scientific shows, and exhibitions.",
+        "Iqbal Auditorium": "A state-of-the-art facility for conferences and seminars with a seating capacity of 200."
+      }
+    },
+    "hostel": {
+      "description": "A fully functional Boys Hostel facility is available on campus to accommodate approximately 390 students. Jinnah Hostel is a purpose-built facility for 288 students, while an additional hostel can accommodate up to 100 students. The hostels offer fully furnished, well-ventilated, and airy rooms at very reasonable rates, along with indoor games, an indoor gymnasium, a TV room, and a mosque for students and faculty. There is also an exclusive hostel facility for girl students.",
+      "applicationProcedure": [
+        "Students must send their request for availing the hostel facility in Semester Fall 2023, clearly mentioning their Names and Registration Numbers, to alla.ud.din@hitecuni.edu.pk.",
+        "A Challan Form will be sent in reply by the DSA Office.",
+        "The reply will also include a link to a Google Form where students must upload a picture of the paid challan along with other required information.",
+        "A department copy is to be submitted directly to the DSA Office, and the accounts copy sent directly to the Accounts Department as per their verified procedure.",
+        "Student seat confirmation is dependent on completion and verification of all the above steps.",
+        "Hostel allotment is on a first-come, first-served basis."
+      ]
+    },
+    "cafeteria": {
+      "description": "Two cafeterias are operational in the University Campus located in the Rumi Block. They serve fresh, hygienic, and healthy food at reasonable prices in a clean atmosphere. The performance of the cafeterias is monitored by a Food Committee comprising faculty members and students."
+    }
+  },
+  "sportsFacilities": {
+    "description": "The sports facilities include an all-weather indoor swimming pool, a well-equipped stadium, gymnasium facilities, and auditoriums for various events.",
+    "details": {
+      "Indoor Swimming Pool": "Provides leisure and fitness opportunities with regular water changes and high hygiene standards.",
+      "Stadium": "Features a cricket ground with an international standard pitch, a hockey ground, and plans for an athletic track, along with additional facilities like a net practice area for cricket, a volleyball court, and futsal.",
+      "Gymnasium": "State-of-the-art gym in the sports complex and an additional gym in the hostel, with separate timings for male and female students, plus an Aerobic Centre.",
+      "Nusrat Auditorium": "Centrally air-conditioned auditorium with a seating capacity of 400, equipped with advanced multimedia systems.",
+      "Iqbal Auditorium": "A modern facility with a seating capacity of 200, designed for conferences and seminars."
+    }
+  },
+  "hostelFacility": {
+    "description": "The Boys Hostel provides accommodation for approximately 390 students with fully furnished, well-ventilated, and airy rooms. Additional facilities include indoor games, an indoor gymnasium, a TV room, and a mosque. Separate hostel facilities are available for girl students.",
+    "applicationInstructions": [
+      "Submit request in Semester Fall 2023 with Name and Registration Number to alla.ud.din@hitecuni.edu.pk.",
+      "Receive Challan Form reply from DSA Office.",
+      "Upload paid challan and required information via a provided Google Form.",
+      "Submit department copy to DSA Office and accounts copy to the Accounts Department.",
+      "Allotment is on a first-come, first-served basis."
+    ]
+  },
+  "cafeteriaFacility": {
+    "description": "There are two operational cafeterias in the Rumi Block that serve traditional and fast foods in a clean environment at reasonable prices."
+  }
+}

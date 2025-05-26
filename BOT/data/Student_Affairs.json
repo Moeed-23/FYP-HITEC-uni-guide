@@ -1,0 +1,197 @@
+
+{
+  "studentAffairs": {
+    "actingDirector": {
+      "name": "Muhammad Talha Asghar",
+      "designation": "Assistant Professor / Acting Director Student Affairs",
+      "qualifications": "M.S (Electrical Engineering), COMSATS, Islamabad"
+    },
+    "description": "Responsible for co‑curricular and extra‑curricular student activities, discipline and welfare; organizes events within and outside campus.",
+    "objectives": [
+      "Provide opportunities for overall grooming and development",
+      "Enhance student potential in sports, literature, music, culture, arts, entrepreneurship and community development",
+      "Maintain liaison with industries for projects, visits, placements and internships",
+      "Arrange inter‑university events (Olympiad), Open House, Job Fair, Excursion Trips"
+    ],
+    "hostels": {
+      "totalCapacity": 400,
+      "jinnah": {
+        "capacity": 288,
+        "description": "Fully furnished, ventilated rooms with indoor games, gymnasium, TV room and mosque at reasonable rates."
+      },
+      "nusrat": {
+        "capacity": 100,
+        "description": "Exclusive girls’ hostel with similar facilities."
+      }
+    },
+    "swimmingPool": {
+      "description": "All‑weather indoor pool with regular water changes and maintained hygiene; available at nominal charges."
+    },
+    "stadium": {
+      "description": "Laser‑levelled cricket ground (international pitch), football and hockey grounds, net practice area, volleyball court, futsal facility; used for HEC national events; athletic track planned."
+    },
+    "gymnasium": {
+      "description": "State‑of‑the‑art gym in sports complex with separate timings; Aerobic Centre; additional gym in hostel."
+    },
+    "nusratAuditorium": {
+      "capacity": 400,
+      "description": "Air‑conditioned hall with multimedia/P.A. system for debates, dramas, exhibitions, scientific shows."
+    },
+    "iqbalAuditorium": {
+      "capacity": 200,
+      "description": "State‑of‑the‑art facility for conferences and seminars."
+    },
+    "societies": [
+      {
+        "name": "Literary Society",
+        "description": "Encourages literary activities; organizes inter‑department and inter‑university debates, part of University Magazine editorial board.",
+        "events": ["Pukaar debating competition", "HITMUN Model United Nations"]
+      },
+      {
+        "name": "Creative Art Society",
+        "description": "Promotes artistic talents; holds art competitions, cultural events, exhibitions, funfairs and musical programs."
+      },
+      {
+        "name": "Adventure & Social Welfare Society",
+        "description": "Raises environmental awareness; undertakes cleanliness and tree‑planting drives; organizes social events, excursions, trekking, paragliding."
+      },
+      {
+        "name": "Sports Society",
+        "description": "Promotes sports via inter‑department competitions and encourages inter‑university participation; sports include basketball, football, cricket, hockey, volleyball, badminton, table tennis."
+      },
+      {
+        "name": "Science Society",
+        "description": "Enhances scientific knowledge; organizes project competitions, exhibitions, quizzes, conferences, seminars; collaborates with IEEE, ASHRAE, ASME, SMEP."
+      },
+      {
+        "name": "Character Building Society",
+        "description": "Fosters moral and ethical values via lectures, discussions and essay writing competitions."
+      },
+      {
+        "name": "Girls Society",
+        "description": "Develops leadership in female students; organizes extra‑/co‑curricular activities; partners with Pink Ribbon for girls’ health awareness."
+      }
+    ],
+    "financialAssistance": {
+      "description": "Supports need‑cum‑merit scholarships and processes them; scholarships funded by university or external organizations.",
+      "programs": ["Razia Sultana Scholarship", "University Need‑cum‑Merit Assistance (from 2nd semester)", "Abdul Mateen Ansari Scholarship", "Huffaz stipend (Rs. 1000/月)", "Ihsan Trust interest‑free loans via Meezan Bank"]
+    },
+    "studentCounseling": {
+      "description": "Provides personal and group counseling; arranges professional psychological help from HIT Hospital."
+    },
+    "openHouse": {
+      "name": "Job Fair",
+      "description": "Connects students and alumni with employers; facilitates career exploration and development."
+    },
+    "communityService": {
+      "description": "Mandatory for undergraduates; projects include school assistance, rainwater harvesting, poverty elimination, waste management aligned with UN SDGs."
+    },
+    "alumniPlacementCell": {
+      "description": "Maintains alumni records; bridges students with industry via on‑campus interviews, 'Window to Industry' lectures; supported by Career Counselors and Internship Officers."
+    },
+    "dressCode": {
+      "boys": {
+        "summers": "Formal trousers/jeans with shirts or T‑shirts; no shorts, sleeveless or ripped garments; Shalwar kameez with waist coat and sandals on Fridays.",
+        "winters": "Blazers, jerseys, coats, jackets, scarves; no shawls."
+      },
+      "girls": {
+        "summers": "Shalwar kameez, trousers or jeans with scarf/dupatta/abaya; knee‑length tops; no sleeveless, tights or indecent attire; closed shoes.",
+        "winters": "Blazers, jerseys, coats, jackets, scarves, shawls."
+      },
+      "notes": [
+        "University ID cards must be displayed during working hours",
+        "Dress code violations are subject to fine"
+      ]
+    },
+    "studentAchievements": [
+      {
+        "event": "Patari Talent Hunt",
+        "location": "Islamabad",
+        "date": "January 2020",
+        "achievements": ["1st position in Singing Competition"]
+      },
+      {
+        "event": "Magnovita’19",
+        "location": "Wah Engineering College, Wah Cantt",
+        "achievements": ["1st in Photography (Portrait & Landscape)", "Winner 100m Race", "1st in Stick Bridge/Eiffel Tower/Paper Plane modules", "1st in Scavenger Hunt", "Won Scrap Tech and Water Rocket events", "1st in Egg Drop Competition", "Winner Line Following", "Won Poster Designing and Design IT (AutoCAD)"]
+      },
+      {
+        "event": "GTV Ramzan Transmission 2019",
+        "achievements": ["1st position in Quiz Competition"]
+      },
+      {
+        "event": "EME Olympiad19",
+        "location": "NUST College of EME, Rawalpindi",
+        "achievements": ["1st in Declamation Contest", "Snooker", "Tekken", "Egg Drop Competition", "Integration Bee", "Minute to Win It", "Crime Scene Investigation", "Bridge Building", "Theme Photography", "Logo Designing"]
+      },
+      {
+        "event": "TECHFEST & RENAISSANCE’19",
+        "location": "GIKI, Swabi",
+        "achievements": ["1st in 3D Modeling", "The Rorschach Dilemma", "Speed Coding", "Debating Competition", "Medium Independent Power Transmission"]
+      },
+      {
+        "event": "IST Youth Carnival’19",
+        "location": "IST, Islamabad",
+        "achievements": ["1st in On‑Spot Fast Film", "Wind Mill Challenge", "Gravity Vehicle Competition", "Short Film Competition", "Singing Competition"]
+      },
+      {
+        "event": "Air Nexus’19",
+        "location": "Air University, Islamabad",
+        "achievements": ["1st in Wall Graffiti", "Bait Bazi", "Call of Duty"]
+      },
+      {
+        "event": "FUUAST Innovatia’19",
+        "location": "FUUAST, Islamabad",
+        "achievements": ["Runner‑up champion university", "1st in Drama Competition", "Project Exhibition", "Bait Bazi", "Poetry", "Need for Speed", "Photography (Portrait & Landscape)", "Videography", "Egg Drop Competition", "Knockout Warrior", "TechnoBuzz", "PUBG", "Bridge Making", "Scavenger Hunt"]
+      },
+      {
+        "event": "Sports Week’19",
+        "location": "UET, Taxila",
+        "achievements": ["1st position in Futsal"]
+      },
+      {
+        "event": "FUUAST Innovatia’18",
+        "location": "FUUAST, Islamabad",
+        "achievements": ["Champion University 2018", "1st in Speed Wiring Competition", "Digital Logic Design", "Proteus Circuit Design", "RC Car", "Need for Speed", "Fifa’14", "Call of Duty’4", "Selfie Competition", "Urdu & English Declamation", "Poetry"]
+      },
+      {
+        "event": "SZABIST",
+        "location": "Islamabad, 2018",
+        "achievements": ["1st in Declamation Contests"]
+      },
+      {
+        "event": "All Punjab Sultan Bahu Declamation Contest",
+        "location": "Government College Univ., Jhang, 2018",
+        "achievements": ["1st position"]
+      },
+      {
+        "event": "NAB Declamation Contest",
+        "location": "NAB Islamabad Headquarters, 2018",
+        "achievements": ["Best Urdu Speaker"]
+      },
+      {
+        "event": "Wah Educational Expo’18",
+        "location": "University of Wah, Wah Cantt",
+        "achievements": ["1st in Speech Competition"]
+      },
+      {
+        "event": "2nd All Pakistan Declamation Contest",
+        "location": "Air University, 2018",
+        "achievements": ["1st position"]
+      },
+      {
+        "event": "All Pakistan IEEE Student Congress (PSYWSC’18)",
+        "location": "PIEAS, Islamabad",
+        "achievements": ["Winner in YP TISP Session"]
+      },
+      {
+        "event": "IMEC’19",
+        "location": "GIKI",
+        "achievements": ["1st in Scavenger Hunt"]
+      }
+    ],
+    "hitecOlympiad": {
+      "description": "Interuniversity competition started in 2015 with 22 events and 24 universities; by 2020 hosted 58 modules and 50 universities."
+    }
+  }
+}

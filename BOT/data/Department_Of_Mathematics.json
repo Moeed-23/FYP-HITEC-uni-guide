@@ -1,0 +1,421 @@
+
+{
+  "department": "Department of Mathematics",
+  "description": "It is a universally established fact that Mathematics infuses logic, rationality and a systematic process of analysis. These attributes provide the requisite 'spine' to the basic sciences, formulating the foundation of all engineering subjects. The Department of Mathematics at HITEC University was established in 2010 with the aim of providing comprehensive knowledge of Mathematics at the undergraduate, graduate, and doctoral levels. Undergraduate students in engineering disciplines are provided with knowledge of Applied and Engineering Mathematics. The MS & PhD (Mathematics) programme has earned great repute over the years, and students from across the country show great enthusiasm for admission. Students receive state-of-the-art education and a curriculum designed to produce conceptual and motivated mathematicians of international standard. Various syllabi have been designed to enrich the students’ understanding and to help them successfully encounter practical problems in their careers. In addition to coursework, students are encouraged to carry out research leading to publications in renowned international journals. Highly qualified, research-oriented permanent faculty members (all PhDs except one) have been inducted to meet the challenges at all levels. The department has successfully produced 22 PhDs and more than 200 MSs in a typical span of time. With the launch of the four-year BS (Mathematics) programme in Fall 2019, the department is set to build its own incubation space for research students in the MS & PhD programmes. The programme develops analytical, abstract, and structured thinking and covers a broad range of topics including Pure and Applied Mathematics, Mathematical Modeling, Numerical Analysis, Statistics, and Operational Research. In addition to technical proficiency, there is a strong emphasis on character building so that graduates emerge as good mathematicians, good citizens, and good Muslims. In today’s data-driven world, the role of statistics as part of mathematics is also critically important. The department has established a flagship forum, 'ICAEM', for the mathematics community which provides a platform for discussing emerging ideas and concepts in Applied and Engineering Mathematics. This forum brings together system designers and practicing engineers to review state-of-the-art research findings, and hosts an annual International Conference on Applied and Engineering Mathematics with national and international keynotes.",
+  "faculty": [
+    {
+      "name": "Dr. Rashid Mehmood",
+      "designation": "Associate Professor & Chairperson",
+      "qualification": "PhD (Mathematics), Quaid-i-Azam University, Islamabad",
+      "areasOfInterest": [
+        "Nanofluids",
+        "Rheology",
+        "Heat Transfer",
+        "Numerical and Series Solutions"
+      ],
+      "contact": "rashid.mehmood@hitecuni.edu.pk"
+    },
+    {
+      "name": "Dr. Naveed Ahmed",
+      "designation": "Assistant Professor",
+      "qualification": "PhD (Mathematics), HITEC University, Taxila",
+      "areasOfInterest": [
+        "Fluid Mechanics",
+        "Numerical and Analytical Techniques",
+        "Solitary Wave Theory",
+        "Fractional Calculus"
+      ],
+      "contact": "naveed.ahmed@hitecuni.edu.pk"
+    },
+    {
+      "name": "Dr. Farman Ullah Khan",
+      "designation": "Assistant Professor",
+      "qualification": "PhD (Mathematics), COMSATS University Islamabad",
+      "areasOfInterest": [
+        "Computational Fluid Dynamics",
+        "Liquid Chromatography",
+        "Process Engineering"
+      ],
+      "contact": "farman.khan@hitecuni.edu.pk"
+    },
+    {
+      "name": "Ms. Rafay Mustafa",
+      "designation": "Lecturer",
+      "qualification": "MPhil (Mathematics), NUST Islamabad",
+      "areasOfInterest": [
+        "Computational Mathematics"
+      ],
+      "contact": "rafay.mustafa@hitecuni.edu.pk"
+    },
+    {
+      "name": "Dr. Arif Ullah Khan",
+      "designation": "Lecturer",
+      "qualification": "PhD (Mathematics), Quaid-i-Azam University, Islamabad",
+      "areasOfInterest": [
+        "Fluid Mechanics",
+        "Numerical Analysis",
+        "Simulations"
+      ],
+      "contact": "arifullah.khan@hitecuni.edu.pk"
+    },
+    {
+      "name": "Dr. Dania Saleem Malik",
+      "designation": "Lecturer",
+      "qualification": "PhD (Mathematics), Quaid-i-Azam University, Islamabad",
+      "areasOfInterest": [
+        "Applied Cryptography"
+      ],
+      "contact": "dania.saleem@hitecuni.edu.pk"
+    },
+    {
+      "name": "Dr. Feroz Khan",
+      "designation": "Lecturer",
+      "qualification": "PhD (Central South University, Hunan, China). AFHEA, UK",
+      "areasOfInterest": [
+        "Numerical Analysis",
+        "Analysis of Stochastic PDEs",
+        "Solving PDEs using Deep Learning"
+      ],
+      "contact": "feroz.khan@hitecuni.edu.pk"
+    },
+    {
+      "name": "Dr. Naeem Ullah",
+      "designation": "Lecturer",
+      "qualification": "PhD (Mathematics), Quaid-i-Azam University, Islamabad, Pakistan",
+      "areasOfInterest": [
+        "Applied Mathematics",
+        "Fluid Dynamics",
+        "Computational Fluid Dynamics",
+        "Modeling and Simulation",
+        "Nanofluids",
+        "Partial Differential Equations",
+        "Numerical Analysis",
+        "Finite Element Method"
+      ],
+      "contact": "naeem.ullah@hitecuni.edu.pk"
+    },
+    {
+      "name": "Dr. Misbah Farheen",
+      "designation": "Lecturer",
+      "qualification": "PhD (Mathematics), Quaid-i-Azam University, Islamabad",
+      "areasOfInterest": [
+        "Fixed Point Theory"
+      ],
+      "contact": "misbah.farhen@hitecuni.edu.pk"
+    },
+    {
+      "name": "Dr. Muhammad Irfan",
+      "designation": "Lecturer",
+      "qualification": "PhD (Mathematics), National University of Science and Technology (NUST), Islamabad",
+      "areasOfInterest": [
+        "Boundary Layer Flows",
+        "Heat and Mass Transfer Flows",
+        "Newtonian and Non-Newtonian Fluids",
+        "Stretching Sheet Flows",
+        "Incompressible and Compressible Flows",
+        "Steady and Unsteady Flows",
+        "Nanofluid",
+        "Bionanofluid",
+        "Computational Fluid Dynamics"
+      ],
+      "contact": "muhammad.irfan@hitecuni.edu.pk"
+    },
+    {
+      "name": "Mohammad Noman Alam",
+      "designation": "Lecturer",
+      "qualification": "MPhil (Mathematics), Allama Iqbal Open University, Islamabad",
+      "areasOfInterest": [
+        "Fluid Mechanics"
+      ],
+      "contact": "nouman.alam@hitecuni.edu.pk"
+    }
+  ],
+  "programs": {
+    "BS Mathematics": {
+      "description": "The BS Mathematics programme is designed for students who want to pursue their study in the field of Mathematics. It is a wide-ranging bachelor degree program that covers subjects like Calculus, Discrete Mathematics, Elementary Number Theory, Real Analysis, and Analytical Mechanics. The curriculum is in accordance with HEC guidelines and provides students with the necessary academic foundation to pursue higher degrees such as MS and PhD in Mathematics. The program spans four years (eight semesters) and comprises 132 credit hours.",
+      "schemeOfStudy": [
+        {
+          "semester": 1,
+          "totalCreditHours": 18,
+          "courses": [
+            { "code": "IS-211", "courseTitle": "Islamic Studies", "creditHours": "2+0" },
+            { "code": "HS-101", "courseTitle": "English", "creditHours": "3+0" },
+            { "code": "CS-101", "courseTitle": "Introduction to Information and Introduction to Mechanics", "creditHours": "2+1" },
+            { "code": "MTH-104", "courseTitle": "Mathematical Logic", "creditHours": "3+1" },
+            { "code": "PHY-101", "courseTitle": "Elements of Set Theory and Mathematical Logic", "creditHours": "3+0" },
+            { "code": "MTH-105", "courseTitle": "Calculus-I", "creditHours": "3+0" },
+            { "code": "QT-101", "courseTitle": "Translation of the Quran: Beliefs", "creditHours": "*1+0" }
+          ]
+        },
+        {
+          "semester": 2,
+          "totalCreditHours": 18,
+          "courses": [
+            { "code": "HS-102", "courseTitle": "Pakistan Studies", "creditHours": "2+0" },
+            { "code": "HS-103", "courseTitle": "Communication Skills", "creditHours": "3+0" },
+            { "code": "PHY-102", "courseTitle": "Electricity and Magnetism", "creditHours": "2+1" },
+            { "code": "EC-110", "courseTitle": "Computing Fundamentals", "creditHours": "2+1" },
+            { "code": "MTH-106", "courseTitle": "Calculus-II", "creditHours": "3+0" },
+            { "code": "MTH-107", "courseTitle": "Linear Algebra", "creditHours": "4+0" }
+          ]
+        },
+        {
+          "semester": 3,
+          "totalCreditHours": 18,
+          "courses": [
+            { "code": "HS-201", "courseTitle": "Technical Report Writing", "creditHours": "3+0" },
+            { "code": "HS-403", "courseTitle": "Management & Entrepreneurship", "creditHours": "3+0" },
+            { "code": "MTH-205", "courseTitle": "Mathematical Computation with Software Packages", "creditHours": "2+1" },
+            { "code": "MTH-206", "courseTitle": "Calculus-III", "creditHours": "3+0" },
+            { "code": "MTH-207", "courseTitle": "Discrete Mathematics", "creditHours": "3+0" },
+            { "code": "MTH-208", "courseTitle": "Mathematical Statistics-I", "creditHours": "3+0" },
+            { "code": "QT-201", "courseTitle": "Translation of the Quran: Worships", "creditHours": "*1+0" }
+          ]
+        },
+        {
+          "semester": 4,
+          "totalCreditHours": 18,
+          "courses": [
+            { "code": "HS-402", "courseTitle": "Economics", "creditHours": "2+0" },
+            { "code": "HS-404", "courseTitle": "Foreign Language", "creditHours": "1+1" },
+            { "code": "MTH-209", "courseTitle": "Group Theory", "creditHours": "3+0" },
+            { "code": "MTH-210", "courseTitle": "Elementary Number Theory", "creditHours": "3+0" },
+            { "code": "MTH-211", "courseTitle": "Ordinary Differential Equations-I", "creditHours": "3+0" },
+            { "code": "MTH-212", "courseTitle": "Mathematical Statistics-II", "creditHours": "3+0" }
+          ]
+        },
+        {
+          "semester": 5,
+          "totalCreditHours": 17,
+          "courses": [
+            { "code": "HS-401", "courseTitle": "Professional Values & Ethics", "creditHours": "2+0" },
+            { "code": "MTH-301", "courseTitle": "Real Analysis – I", "creditHours": "3+0" },
+            { "code": "MTH-304", "courseTitle": "Complex Analysis", "creditHours": "3+0" },
+            { "code": "MTH-305", "courseTitle": "Metric and Topological Spaces", "creditHours": "3+0" },
+            { "code": "MTH-306", "courseTitle": "Ordinary Differential Equations-II", "creditHours": "3+0" },
+            { "code": "MTH-308", "courseTitle": "Differential Geometry and Tensor Analysis", "creditHours": "3+0" },
+            { "code": "QT-301", "courseTitle": "Translation of the Quran: Moral Values", "creditHours": "*1+0" }
+          ]
+        },
+        {
+          "semester": 6,
+          "totalCreditHours": 15,
+          "courses": [
+            { "code": "MTH-307", "courseTitle": "Partial Differential Equations", "creditHours": "3+0" },
+            { "code": "MTH-309", "courseTitle": "Analytical Mechanics", "creditHours": "3+0" },
+            { "code": "MTH-310", "courseTitle": "Functional Analysis", "creditHours": "3+0" },
+            { "code": "MTH-311", "courseTitle": "Real Analysis – II", "creditHours": "3+0" },
+            { "code": "MTH-312", "courseTitle": "Rings and Fields", "creditHours": "3+0" },
+            { "code": "HS-203", "courseTitle": "Community Service", "creditHours": "*1+0 (NC)" }
+          ]
+        },
+        {
+          "semester": 7,
+          "totalCreditHours": 18,
+          "courses": [
+            { "code": "MTH-401", "courseTitle": "Calculus of Variations", "creditHours": "3+0" },
+            { "code": "MTH-402", "courseTitle": "Numerical Techniques", "creditHours": "3+0" },
+            { "code": "MTH-403", "courseTitle": "Fluid Mechanics", "creditHours": "3+0" },
+            { "code": "MTH-xxx", "courseTitle": "Elective – I (E-1)", "creditHours": "3+0" },
+            { "code": "MTH-xxx", "courseTitle": "Elective – II (E-2)", "creditHours": "3+0" },
+            { "code": "QT-401", "courseTitle": "Translation of the Quran: Dealings & Commandments", "creditHours": "*1+0" }
+          ]
+        },
+        {
+          "semester": 8,
+          "totalCreditHours": 15,
+          "courses": [
+            { "code": "MTH-404", "courseTitle": "Integral Equations", "creditHours": "3+0" },
+            { "code": "MTH-405", "courseTitle": "Mathematical Modelling with Applications", "creditHours": "3+0" },
+            { "code": "MTH-xxx", "courseTitle": "Project", "creditHours": "3+0" },
+            { "code": "MTH-xxx", "courseTitle": "Elective – III (E-3)", "creditHours": "3+0" },
+            { "code": "MTH-xxx", "courseTitle": "Elective – IV (E-4)", "creditHours": "3+0" }
+          ]
+        }
+      ]
+    },
+    "BS Statistics": {
+      "description": "Statistics provides the skills needed for probability, data analysis, mathematical statistics, and statistical computing. In today's era, the demand for Data Science and Analytics has increased substantially. The BS in Statistics program emphasizes applied statistics for everyday life, and its graduates find employment in academia, healthcare, and applied life science research. This is a four-year program spanning 132 credit hours.",
+      "schemeOfStudy": [
+        {
+          "semester": 1,
+          "totalCreditHours": 17,
+          "courses": [
+            { "code": "IS-211", "courseTitle": "Islamic Studies", "creditHours": "2+0" },
+            { "code": "HS-101", "courseTitle": "English", "creditHours": "3+0" },
+            { "code": "CS-101", "courseTitle": "Introduction to Information and Communication Technologies", "creditHours": "2+1" },
+            { "code": "STAT-101", "courseTitle": "Introductory Statistics", "creditHours": "3+0" },
+            { "code": "MTH-104", "courseTitle": "Elements of Set Theory and Mathematical Logic", "creditHours": "3+0" },
+            { "code": "MTH-105", "courseTitle": "Calculus-I", "creditHours": "3+0" },
+            { "code": "QT-1", "courseTitle": "Beliefs (Non-Credit)", "creditHours": "NC" }
+          ]
+        },
+        {
+          "semester": 2,
+          "totalCreditHours": 18,
+          "courses": [
+            { "code": "HS-102", "courseTitle": "Pakistan Studies", "creditHours": "2+0" },
+            { "code": "HS-103", "courseTitle": "Communication Skills", "creditHours": "3+0" },
+            { "code": "MTH-107", "courseTitle": "Linear Algebra", "creditHours": "4+0" },
+            { "code": "EC-110", "courseTitle": "Computing Fundamentals", "creditHours": "2+1" },
+            { "code": "MTH-106", "courseTitle": "Calculus-II", "creditHours": "3+0" },
+            { "code": "STAT-102", "courseTitle": "Introduction to Probability Theory", "creditHours": "3+0" }
+          ]
+        },
+        {
+          "semester": 3,
+          "totalCreditHours": 18,
+          "courses": [
+            { "code": "HS-201", "courseTitle": "Technical Report Writing", "creditHours": "3+0" },
+            { "code": "HS-403", "courseTitle": "Management & Entrepreneurship", "creditHours": "3+0" },
+            { "code": "MTH-205", "courseTitle": "Mathematical Computation with Software Packages", "creditHours": "2+1" },
+            { "code": "STAT-201", "courseTitle": "Introduction to Probability Distributions", "creditHours": "3+0" },
+            { "code": "STAT-202", "courseTitle": "Basic Inferential Statistics-I", "creditHours": "3+0" },
+            { "code": "STAT-203", "courseTitle": "Exploratory Data Analysis & Visualization", "creditHours": "3+0" },
+            { "code": "QT-2", "courseTitle": "Worships (Non-Credit)", "creditHours": "NC" }
+          ]
+        },
+        {
+          "semester": 4,
+          "totalCreditHours": 17,
+          "courses": [
+            { "code": "MGT-101", "courseTitle": "Principles of Management", "creditHours": "3+0" },
+            { "code": "HS-404", "courseTitle": "Foreign Language", "creditHours": "1+1" },
+            { "code": "MTH-211", "courseTitle": "Ordinary Differential Equations-I", "creditHours": "3+0" },
+            { "code": "STAT-204", "courseTitle": "Basic Inferential Statistics-II", "creditHours": "3+0" },
+            { "code": "STAT-205", "courseTitle": "Introduction to Regression Analysis & Experimental Design", "creditHours": "3+0" },
+            { "code": "STAT-206", "courseTitle": "Probability & Probability Distribution-I", "creditHours": "3+0" }
+          ]
+        },
+        {
+          "semester": 5,
+          "totalCreditHours": 17,
+          "courses": [
+            { "code": "HS-401", "courseTitle": "Professional Values & Ethics", "creditHours": "2+0" },
+            { "code": "STAT-301", "courseTitle": "Sampling Techniques-I", "creditHours": "3+0" },
+            { "code": "STAT-302", "courseTitle": "Statistical Inference-I", "creditHours": "3+0" },
+            { "code": "STAT-303", "courseTitle": "Probability & Probability Distribution-II", "creditHours": "3+0" },
+            { "code": "STAT-304", "courseTitle": "Design & Analysis of Experiments-I", "creditHours": "3+0" },
+            { "code": "STAT-305", "courseTitle": "Statistical Packages", "creditHours": "3+0" },
+            { "code": "QT-3", "courseTitle": "Moral Values (Non-Credit)", "creditHours": "NC" }
+          ]
+        },
+        {
+          "semester": 6,
+          "totalCreditHours": 15,
+          "courses": [
+            { "code": "STAT-306", "courseTitle": "Sampling Techniques-II", "creditHours": "3+0" },
+            { "code": "STAT-307", "courseTitle": "Statistical Inference-II", "creditHours": "3+0" },
+            { "code": "STAT-308", "courseTitle": "Design & Analysis of Experiments-II", "creditHours": "3+0" },
+            { "code": "STAT-309", "courseTitle": "Regression Analysis & Econometrics-I", "creditHours": "3+0" },
+            { "code": "STAT-310", "courseTitle": "Software Tools", "creditHours": "3+0" },
+            { "code": "Community Service", "courseTitle": "Community Service (Non-Credit)", "creditHours": "0+1 NC" }
+          ]
+        },
+        {
+          "semester": 7,
+          "totalCreditHours": 15,
+          "courses": [
+            { "code": "STAT-401", "courseTitle": "Multivariate Analysis-I", "creditHours": "3+0" },
+            { "code": "STAT-402", "courseTitle": "Regression Analysis & Econometrics-II", "creditHours": "3+0" },
+            { "code": "STAT-403", "courseTitle": "Time Series Analysis & Forecasting", "creditHours": "3+0" },
+            { "code": "STAT-XXX", "courseTitle": "E-1 (Elective I)", "creditHours": "3+0" },
+            { "code": "STAT-XXX", "courseTitle": "E-2 (Elective II)", "creditHours": "3+0" },
+            { "code": "QT-4", "courseTitle": "Dealings & Commandments (Non-Credit)", "creditHours": "NC" }
+          ]
+        },
+        {
+          "semester": 8,
+          "totalCreditHours": 15,
+          "courses": [
+            { "code": "STAT-404", "courseTitle": "Multivariate Analysis-II", "creditHours": "3+0" },
+            { "code": "STAT-405", "courseTitle": "Programming Language", "creditHours": "3+0" },
+            { "code": "STAT-XXX", "courseTitle": "Project / E-3", "creditHours": "3+0" },
+            { "code": "STAT-XXX", "courseTitle": "E-4", "creditHours": "3+0" },
+            { "code": "STAT-XXX", "courseTitle": "E-5", "creditHours": "3+0" }
+          ]
+        }
+      ]
+    },
+    "MS Mathematics": {
+      "description": "The MS Mathematics programme requires 24 credit hours of coursework plus an additional 6 credit hours that can be completed either through a research thesis (with successful defense) or by taking two additional courses. This programme imparts specialized knowledge in various areas of Mathematics and exposes students to the latest developments. Special efforts are made to nurture and enhance the research capabilities of students through seminars, workshops, and critique sessions. Typical research topics include Numerical Analysis, Analytical and Numerical techniques for ODEs and PDEs, and Finite Element Analysis. Research opportunities are also available in Numerical Linear Algebra, Fluid Mechanics (Newtonian and Non-Newtonian), Computational Fluid Dynamics, Computational Rheology, and Liquid Chromatography.",
+      "creditRequirement": "24 + 6 (thesis or additional courses)"
+    },
+    "PhD Mathematics": {
+      "description": "The Doctor of Philosophy (PhD) in Mathematics is the highest degree awarded by the Department. The program comprises 18 credit hours of coursework and 30 credit hours of research thesis. Courses are selected in consultation with the Supervisor and student progress is continuously monitored by the Guidance and Evaluation Committee (GEC). Applicants must possess an MS/MPhil degree with a minimum CGPA of 3.0 out of 4 and must have passed the GAT (Subject) examination as per HEC requirements. After completing the coursework, students must pass a comprehensive examination to be granted candidacy as a PhD scholar. The program requires two years of residency at HITEC University, and the PhD thesis is evaluated by one local and two foreign experts. Upon positive evaluation, the PhD scholar must undertake an open defense. The degree is awarded in recognition of high-level scholarship, independent research ability, and research publications in reputed national and international journals. The department sponsors research activities in areas such as analytic and numerical solutions of ODEs and PDEs, Finite Element Analysis, Numerical Linear Algebra, Newtonian and Non-Newtonian Fluid Mechanics, and Computational Fluid Dynamics.",
+      "creditRequirement": "18 (coursework) + 30 (research thesis)"
+    }
+  },
+  "msPhdCourses": {
+    "table1": [
+      { "code": "MTH-801", "courseTitle": "Perturbation Methods-I", "creditHours": "3+0" },
+      { "code": "MTH-805", "courseTitle": "Mathematical Modelling", "creditHours": "3+0" },
+      { "code": "MTH-806", "courseTitle": "Mathematical Essentials for Cryptography", "creditHours": "3+0" },
+      { "code": "MTH-807", "courseTitle": "Relativistic Astrophysics", "creditHours": "3+0" },
+      { "code": "MTH-808", "courseTitle": "Advanced Ordinary Differential Equations with Applications", "creditHours": "3+0" },
+      { "code": "MTH-809", "courseTitle": "Advanced Numerical Analysis", "creditHours": "3+0" },
+      { "code": "MTH-810", "courseTitle": "Numerical Linear Algebra", "creditHours": "3+0" },
+      { "code": "MTH-812", "courseTitle": "Computational Fluid Dynamics", "creditHours": "3+0" },
+      { "code": "MTH-815", "courseTitle": "Boundary Value Problems-I", "creditHours": "3+0" },
+      { "code": "MTH-817", "courseTitle": "Integral Equations and Applications", "creditHours": "3+0" },
+      { "code": "MTH-818", "courseTitle": "Advanced Partial Differential Equations and Applications", "creditHours": "3+0" },
+      { "code": "MTH-820", "courseTitle": "Variational Inequalities and Applications", "creditHours": "3+0" },
+      { "code": "MTH-821", "courseTitle": "Numerical Solution of Partial Differential Equations", "creditHours": "3+0" },
+      { "code": "MTH-823", "courseTitle": "Finite Element Analysis-I", "creditHours": "3+0" },
+      { "code": "MTH-824", "courseTitle": "Advanced Numerical Linear Algebra", "creditHours": "3+0" },
+      { "code": "MTH-826", "courseTitle": "Advanced Mathematical Physics", "creditHours": "3+0" },
+      { "code": "MTH-828", "courseTitle": "Advanced Cryptography", "creditHours": "3+0" }
+    ],
+    "table2": [
+      { "code": "MTH-829", "courseTitle": "Fractional Calculus & Applications", "creditHours": "3+0" },
+      { "code": "MTH-831", "courseTitle": "Numerical Solution of Boundary Value Problems for ODEs", "creditHours": "3+0" },
+      { "code": "MTH-832", "courseTitle": "Advanced Fluid Mechanics", "creditHours": "3+0" },
+      { "code": "MTH-833", "courseTitle": "Non-Newtonian Fluid Mechanics", "creditHours": "3+0" },
+      { "code": "MTH-834", "courseTitle": "Numerical Optimization & Applications", "creditHours": "3+0" },
+      { "code": "MTH-835", "courseTitle": "Integral Transforms & their Applications", "creditHours": "3+0" },
+      { "code": "MTH-836", "courseTitle": "Turbulence Modelling", "creditHours": "3+0" },
+      { "code": "MTH-837", "courseTitle": "Thermal and Concentration Boundary Layer", "creditHours": "3+0" },
+      { "code": "MTH-838", "courseTitle": "Mathematical Theory of Elastodynamics", "creditHours": "3+0" },
+      { "code": "MTH-839", "courseTitle": "Advanced Numerical Techniques", "creditHours": "3+0" },
+      { "code": "MTH-840", "courseTitle": "Mathematical Theory of Liquid Chromatography", "creditHours": "3+0" },
+      { "code": "MTH-841", "courseTitle": "Statistical Mechanics", "creditHours": "3+0" },
+      { "code": "MTH-900", "courseTitle": "Special Topics", "creditHours": "3+0" },
+      { "code": "EM-501", "courseTitle": "Topics of Engineering for Mathematicians", "creditHours": "3+0" },
+      { "code": "MTH-869", "courseTitle": "Thesis (MS level)", "creditHours": "6+0" },
+      { "code": "MTH-886", "courseTitle": "PhD Thesis", "creditHours": "30+0" }
+    ]
+  },
+  "electives": {
+    "BS Mathematics Electives": [
+      { "code": "MTH-451", "courseTitle": "Fuzzy Logic", "creditHours": "3+0" },
+      { "code": "MTH-452", "courseTitle": "Advanced Group Theory", "creditHours": "3+0" },
+      { "code": "MTH-453", "courseTitle": "Theory of Modules", "creditHours": "3+0" },
+      { "code": "MTH-454", "courseTitle": "Analytical Dynamics", "creditHours": "3+0" },
+      { "code": "MTH-455", "courseTitle": "Quantum Mechanics", "creditHours": "3+0" },
+      { "code": "MTH-456", "courseTitle": "Algebraic Geometry", "creditHours": "3+0" },
+      { "code": "MTH-457", "courseTitle": "Theory of Manifolds", "creditHours": "3+0" },
+      { "code": "MTH-458", "courseTitle": "Functional Analysis-II", "creditHours": "3+0" },
+      { "code": "MTH-459", "courseTitle": "Operations Research", "creditHours": "3+0" },
+      { "code": "MTH-460", "courseTitle": "Optimization Theory", "creditHours": "3+0" },
+      { "code": "MTH-461", "courseTitle": "Mathematical Modelling & Simulation", "creditHours": "3+0" },
+      { "code": "MTH-462", "courseTitle": "Theory of Elasticity", "creditHours": "3+0" },
+      { "code": "MTH-463", "courseTitle": "Electromagnetism", "creditHours": "3+0" },
+      { "code": "MTH-464", "courseTitle": "Special Theory of Relativity", "creditHours": "3+0" }
+    ],
+    "Courses Offered to Other Departments": [
+      { "code": "MT-100", "courseTitle": "Basic Mathematics", "creditHours": "2+0" },
+      { "code": "MT-101", "courseTitle": "Calculus and Analytic Geometry", "creditHours": "3+0" },
+      { "code": "MT-103", "courseTitle": "Differential Equations", "creditHours": "3+0" },
+      { "code": "MT-104", "courseTitle": "Linear Algebra and Vector Calculus", "creditHours": "2+0" },
+      { "code": "MT-108", "courseTitle": "Pre-Calculus-I", "creditHours": "3+0" },
+      { "code": "MT-109", "courseTitle": "Pre-Calculus-II", "creditHours": "3+0" },
+      { "code": "MT-201", "courseTitle": "Complex Variables and Transforms", "creditHours": "3+0" },
+      { "code": "MT-202", "courseTitle": "Numerical Methods", "creditHours": "2+1" },
+      { "code": "MT-203", "courseTitle": "Linear Algebra", "creditHours": "3+0" },
+      { "code": "MT-204", "courseTitle": "Multivariable Calculus", "creditHours": "3+0" },
+      { "code": "MT-205", "courseTitle": "Linear Algebra and Differential Equations", "creditHours": "3+0" },
+      { "code": "MT-302", "courseTitle": "Probability and Statistics", "creditHours": "3+0" },
+      { "code": "MT-303", "courseTitle": "Applied Linear Algebra", "creditHours": "3+0" }
+    ]
+  }
+}

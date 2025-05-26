@@ -1,0 +1,52 @@
+{
+  "directorate": "Directorate of Quality Assurance & Collaborations (QA&C)",
+  "established": "2012",
+  "description": "The Directorate of Quality Assurance and Collaborations (QA&C) was established in 2012. Its primary role is to assure quality in synchronism with the guidelines of the Higher Education Commission (HEC) and the Pakistan Engineering Council (PEC). The directorate is responsible for establishing and monitoring MOUs for collaboration with other universities and reputable organizations. It ensures that teaching, learning, and evaluation processes are carried out according to international norms and practices. An extensive system is in place to solicit and analyze feedback from students, faculty, and other stakeholders, addressing any shortcomings promptly. Additionally, the directorate keeps records of all proceedings and furnishes the required information to PEC and HEC on a regular basis, which is essential for accreditation of academic programs.",
+  "outcomeBasedEducation": {
+    "description": "HITEC University has transformed into an Outcome Based Education (OBE) Institute. This transformation has added new dimensions to the functions and responsibilities of the directorate, which now closely monitors the attainment of Course Learning Outcomes (CLOs), Program Learning Outcomes (PLOs), and Program Educational Objectives (PEOs).",
+    "peos": [
+      "PEO-1: Our graduates will be proficient engineers in industry, academia or manage self-initiated business activity.",
+      "PEO-2: They will exhibit adaptation to advancements in knowledge for creating solutions for complex problems.",
+      "PEO-3: They will contribute as effective team members and managers in their organizations.",
+      "PEO-4: In dealing with others, they will conduct themselves with dignity, integrity and demonstrate commitment to social responsibilities."
+    ],
+    "plos": [
+      "PLO-1: Engineering Knowledge",
+      "PLO-2: Problem Analysis",
+      "PLO-3: Design/Development of Solutions",
+      "PLO-4: Investigation",
+      "PLO-5: Modern Tool Usage",
+      "PLO-6: The Engineer and Society",
+      "PLO-7: Environment and Sustainability",
+      "PLO-8: Ethics",
+      "PLO-9: Individual and Team Work",
+      "PLO-10: Communication",
+      "PLO-11: Project Management",
+      "PLO-12: Lifelong Learning"
+    ],
+    "note": "HITEC University ensures that all engineering programs conform to these 12 PLOs. The attainment of PLOs is measured through the successful achievement of the Course Learning Outcomes (CLOs) defined for each course of study."
+  },
+  "foreignCollaborations": {
+    "description": "The University actively collaborates with internationally recognized institutions. These collaborations provide opportunities for students and faculty to benefit from academic programs and research and development activities at partner institutions.",
+    "collaborations": [
+      {
+        "name": "University of Strathclyde, Glasgow, UK",
+        "details": "Students opting for studies at Strathclyde spend the first 2 years at HITEC University and the remaining 2 years at Strathclyde. They are awarded a Bachelor of Science in Engineering by Strathclyde University. The MoU also facilitates HITEC graduates in pursuing M.Sc. and PhD programs; several graduates are already enrolled in postgraduate studies."
+      },
+      {
+        "name": "Istanbul Technical University (ITU) and Universiti Teknologi Malaysia (UTM)",
+        "details": "After completing 6 semesters at HITEC University, students can opt for a one-year exchange program at ITU and UTM. They will be awarded a HITEC University Degree. The MoU with UTM has propelled HITEC University to be an integral part of the Asia Technological University Network (ATU-NET), which comprises prestigious universities from 18 Asian countries. The directorate monitors the performance of exchange students and is actively working to broaden the scope of existing collaborations."
+      }
+    ]
+  },
+  "qualityAssurance": {
+    "description": "Quality assurance is not perceived as an added layer activity at HITEC University but as an integral attribute of all academic programs and services. The directorate's activities ensure continual improvement in the quality of education and administrative support.",
+    "activities": [
+      "Monitoring teaching, learning, and evaluation processes according to international norms and practices.",
+      "Soliciting and analyzing feedback from students, faculty, and other stakeholders.",
+      "Addressing shortcomings promptly based on the feedback.",
+      "Maintaining records and furnishing required information to PEC and HEC on a regular basis.",
+      "Measuring the attainment of PLOs through Course Learning Outcomes (CLOs) assessment."
+    ]
+  }
+}

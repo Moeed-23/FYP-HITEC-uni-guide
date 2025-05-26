@@ -1,0 +1,566 @@
+
+{
+  "department": "Department of Islamic Studies",
+  "description": "Established in 2008, the Department of Islamic Studies envisioned evolving into a center of excellence for producing religious scholars to revitalize the spirit of Islamic thought and scientific inquiry. The curricula and syllabi are designed to provide in-depth knowledge of fundamental Islamic Sciences such as Al Quran, Al Hadith, Al Fiqh, Islamic history, Islamic thought, Seerah, Islamic culture, and Islamic civilization. The program aims to provide a thorough understanding of the fundamental sources of Islam, address present challenges, and create logical solutions for contemporary problems. The Department invites students to pursue BS, Master, and PhD programs and offers a variety of courses aimed at producing researchers capable of dealing with current and future issues. It also motivates students to work for the cause of Islam, provides quality education in Islamic thought and culture, and promotes the propagation of Islamic concepts and practices beyond cultural and geographical boundaries. Additionally, the Department helps students become acquainted with the convergence of Islam and sciences.",
+  "faculty": [
+    {
+      "name": "Dr. Rab Nawaz",
+      "designation": "Chairperson/Assistant Professor",
+      "qualification": "PhD Tafsir and Quranic Sciences, International Islamic University, Islamabad",
+      "areasOfInterest": [
+        "Quranic Sciences",
+        "Tafsir"
+      ],
+      "contact": "rab.nawaz@hitecuni.edu.pk"
+    },
+    {
+      "name": "Dr. Manzoor Ahmad Alazhari",
+      "designation": "Associate Professor",
+      "qualification": "PhD Legal Policy, Al-Azhar University, Egypt; Post Doc, University of Oxford, UK",
+      "areasOfInterest": [
+        "Islamic Shariah",
+        "Law & Economics"
+      ],
+      "contact": "manzoor.ahmad@hitecuni.edu.pk"
+    },
+    {
+      "name": "Dr. FarhadUllah",
+      "designation": "Associate Professor",
+      "qualification": "PhD Islamic Studies, University of Peshawar, Peshawar",
+      "areasOfInterest": [
+        "Quranic Sciences",
+        "Tafsir"
+      ],
+      "contact": "farhadullah@hitecuni.edu.pk"
+    },
+    {
+      "name": "Dr. Ahmad Hassan",
+      "designation": "Assistant Professor",
+      "qualification": "PhD Islamic Studies; Post Doc in progress, IIU, Islamabad",
+      "areasOfInterest": [
+        "Seerat",
+        "Islamic History"
+      ],
+      "contact": "ahmad.hassan@hitecuni.edu.pk"
+    },
+    {
+      "name": "Dr. Taj Ul Deen Azhari",
+      "designation": "Assistant Professor",
+      "qualification": "PhD Islamic Studies, Punjab University, Lahore",
+      "areasOfInterest": [
+        "Hadith",
+        "Hadith Sciences"
+      ],
+      "contact": "tajudin.azhari@hitecuni.edu.pk"
+    },
+    {
+      "name": "Dr. Saeed Ahmad",
+      "designation": "Lecturer",
+      "qualification": "PhD Islamic Studies, AIOU, Islamabad",
+      "areasOfInterest": [
+        "Quranic Sciences",
+        "Tafseer"
+      ],
+      "contact": "saeed.ahmad@hitecuni.edu.pk"
+    },
+    {
+      "name": "Dr. Rafi Ullah",
+      "designation": "Lecturer",
+      "qualification": "PhD Islamic Studies, HITEC University, Taxila",
+      "areasOfInterest": [
+        "Maqasid Al-Shariah (Objective of Islamic Shariah)"
+      ],
+      "contact": "rafiullah.qureshi@hitecuni.edu.pk"
+    },
+    {
+      "name": "Mrs. Zahida Jabeen",
+      "designation": "Lecturer",
+      "qualification": "PhD International Relations (in progress, NUML Islamabad); M.Phil Peace and Conflict Studies, National Defense University, Islamabad",
+      "areasOfInterest": [
+        "Conflict Resolution in South Asia",
+        "Foreign Policy Analysis"
+      ],
+      "contact": "zahida.jabeen@hitecuni.edu.pk"
+    },
+    {
+      "name": "Mrs. Ruqya Safder",
+      "designation": "Lecturer",
+      "qualification": "MS Islamic Studies; PhD (in progress), HITEC University, Taxila",
+      "areasOfInterest": [
+        "Quranic Sciences",
+        "Tafsir"
+      ],
+      "contact": "ruqya.zubair@hitecuni.edu.pk"
+    },
+    {
+      "name": "Mr. Jafar Nazir",
+      "designation": "Lecturer",
+      "qualification": "M.Phil Pakistan Studies, Quaid_e_Azam University, Islamabad",
+      "areasOfInterest": [
+        "Governance & Administrative Systems",
+        "Patterns in Different Parts of Pakistan"
+      ],
+      "contact": "jafar.nazir@hitecuni.edu.pk"
+    }
+  ],
+  "programs": {
+    "BS Islamic Studies": {
+      "description": "The BS Islamic Studies program provides students with a thorough grounding in Islamic sciences, history, thought, and culture. It is designed to enable students to deal with contemporary challenges using the fundamental sources of Islam and to produce researchers capable of addressing current and future issues in the field.",
+      "schemeOfStudy": [
+        {
+          "semester": 1,
+          "totalCreditHours": 15,
+          "courses": [
+            {
+              "code": "HS-104",
+              "courseTitle": "English",
+              "creditHours": "3+0"
+            },
+            {
+              "code": "MT-107",
+              "courseTitle": "Math/Stat-I",
+              "creditHours": "3+0"
+            },
+            {
+              "code": "IS-101",
+              "courseTitle": "Tajwid Quran",
+              "creditHours": "3+0"
+            },
+            {
+              "code": "AR-101",
+              "courseTitle": "Arabic Language",
+              "creditHours": "3+0"
+            },
+            {
+              "code": "CS-101",
+              "courseTitle": "Introduction to Information & Communication Technologies",
+              "creditHours": "2+1"
+            },
+            {
+              "code": "QT-*",
+              "courseTitle": "Intermediate English I (Non-Credit)",
+              "creditHours": "*1+0"
+            }
+          ]
+        },
+        {
+          "semester": 2,
+          "totalCreditHours": 17,
+          "courses": [
+            {
+              "code": "HS-103",
+              "courseTitle": "Communication Skills",
+              "creditHours": "3+0"
+            },
+            {
+              "code": "IS-102",
+              "courseTitle": "Quranic Arabic",
+              "creditHours": "3+0"
+            },
+            {
+              "code": "IS-103",
+              "courseTitle": "Study of Sirah of Holy Prophet (PBUH)",
+              "creditHours": "3+0"
+            },
+            {
+              "code": "IS-105",
+              "courseTitle": "Introduction to Logic",
+              "creditHours": "3+0"
+            },
+            {
+              "code": "HS-102",
+              "courseTitle": "Pakistan Studies",
+              "creditHours": "2+0"
+            },
+            {
+              "code": "AR-102",
+              "courseTitle": "Arabic Language II (Comprehension)",
+              "creditHours": "3+0"
+            },
+            {
+              "code": "QT-101",
+              "courseTitle": "Translation of the Quran: Beliefs (Non-Credit)",
+              "creditHours": "*1+0"
+            },
+            {
+              "code": "QT-*",
+              "courseTitle": "Intermediate English II (Non-Credit)",
+              "creditHours": "*1+0"
+            }
+          ]
+        },
+        {
+          "semester": 3,
+          "totalCreditHours": 18,
+          "courses": [
+            {
+              "code": "IS-411",
+              "courseTitle": "Study of Ethics",
+              "creditHours": "3+0"
+            },
+            {
+              "code": "AR-201",
+              "courseTitle": "Arabic Literature",
+              "creditHours": "3+0"
+            },
+            {
+              "code": "IS-201",
+              "courseTitle": "Textual Study of Holy Quran-I",
+              "creditHours": "3+0"
+            },
+            {
+              "code": "IS-202",
+              "courseTitle": "Islamic History",
+              "creditHours": "3+0"
+            },
+            {
+              "code": "IS-203",
+              "courseTitle": "Ulum-al-Quran",
+              "creditHours": "3+0"
+            },
+            {
+              "code": "IS-210",
+              "courseTitle": "Intro to Selected Topics of the Holy Quran",
+              "creditHours": "3+0"
+            },
+            {
+              "code": "QT-*",
+              "courseTitle": "Intermediate Pak Studies (Non-Credit)",
+              "creditHours": "*1+0"
+            }
+          ]
+        },
+        {
+          "semester": 4,
+          "totalCreditHours": 18,
+          "courses": [
+            {
+              "code": "IS-204",
+              "courseTitle": "History and Compilation of Hadith",
+              "creditHours": "3+0"
+            },
+            {
+              "code": "IS-205",
+              "courseTitle": "Textual Study of Holy Quran-II",
+              "creditHours": "3+0"
+            },
+            {
+              "code": "HS-402",
+              "courseTitle": "Economics",
+              "creditHours": "2+0"
+            },
+            {
+              "code": "IS-206",
+              "courseTitle": "History of Islamic Law",
+              "creditHours": "3+0"
+            },
+            {
+              "code": "IS-208",
+              "courseTitle": "Al-Da’wah-wal-Irshad",
+              "creditHours": "3+0"
+            },
+            {
+              "code": "IS-209",
+              "courseTitle": "History of Tafsir",
+              "creditHours": "3+0"
+            },
+            {
+              "code": "QT-201",
+              "courseTitle": "Translation of the Quran: Worships (Non-Credit)",
+              "creditHours": "*1+0"
+            }
+          ]
+        },
+        {
+          "semester": 5,
+          "totalCreditHours": 18,
+          "courses": [
+            {
+              "code": "IS-301",
+              "courseTitle": "Textual Study of Quran III",
+              "creditHours": "3+0"
+            },
+            {
+              "code": "IS-302",
+              "courseTitle": "Textual Study of Hadith",
+              "creditHours": "3+0"
+            },
+            {
+              "code": "IS-303",
+              "courseTitle": "Contemporary Muslim World & Movements",
+              "creditHours": "3+0"
+            },
+            {
+              "code": "IS-304",
+              "courseTitle": "Introduction to World Religions",
+              "creditHours": "3+0"
+            },
+            {
+              "code": "IS-305",
+              "courseTitle": "Fiqh al-Quran",
+              "creditHours": "3+0"
+            },
+            {
+              "code": "IS-311",
+              "courseTitle": "Ulum-al-Hadith",
+              "creditHours": "3+0"
+            }
+          ]
+        },
+        {
+          "semester": 6,
+          "totalCreditHours": 18,
+          "courses": [
+            {
+              "code": "IS-306",
+              "courseTitle": "Research Writing",
+              "creditHours": "3+0"
+            },
+            {
+              "code": "IS-307",
+              "courseTitle": "Muslim Family Laws",
+              "creditHours": "3+0"
+            },
+            {
+              "code": "IS-308",
+              "courseTitle": "Interfaith Dialogue",
+              "creditHours": "3+0"
+            },
+            {
+              "code": "IS-309",
+              "courseTitle": "Textual Study of Al-Fiqh-Al-Akbar",
+              "creditHours": "3+0"
+            },
+            {
+              "code": "IS-310",
+              "courseTitle": "Study of Islamic Fiqh (Al-Ibadaat)",
+              "creditHours": "3+0"
+            },
+            {
+              "code": "IS-313",
+              "courseTitle": "Comparative Study of IHL & Islamic International Law",
+              "creditHours": "3+0"
+            },
+            {
+              "code": "QT-301",
+              "courseTitle": "Translation of the Quran: Moral Values (Non-Credit)",
+              "creditHours": "*1+0"
+            }
+          ]
+        },
+        {
+          "semester": 7,
+          "totalCreditHours": 18,
+          "courses": [
+            {
+              "code": "IS-401",
+              "courseTitle": "Islamic Law of Inheritance",
+              "creditHours": "3+0"
+            },
+            {
+              "code": "IS-410",
+              "courseTitle": "Usul-al-Fiqh-al-Islami",
+              "creditHours": "3+0"
+            },
+            {
+              "code": "IS-403",
+              "courseTitle": "Economic System of Islam",
+              "creditHours": "3+0"
+            },
+            {
+              "code": "IS-409",
+              "courseTitle": "Study of Hadith’s Text and Orientalists",
+              "creditHours": "3+0"
+            },
+            {
+              "code": "IS-402",
+              "courseTitle": "Quran and Sciences",
+              "creditHours": "3+0"
+            },
+            {
+              "code": "IS-404",
+              "courseTitle": "Research Project",
+              "creditHours": "3+0"
+            },
+            {
+              "code": "-",
+              "courseTitle": "Intermediate English I",
+              "creditHours": "*1+0"
+            }
+          ]
+        },
+        {
+          "semester": 8,
+          "totalCreditHours": 15,
+          "courses": [
+            {
+              "code": "IS-405",
+              "courseTitle": "Islamic Spirituality",
+              "creditHours": "3+0"
+            },
+            {
+              "code": "IS-406",
+              "courseTitle": "Gender Studies and Human Rights",
+              "creditHours": "3+0"
+            },
+            {
+              "code": "IS-407",
+              "courseTitle": "Islam and Modern Political Thought",
+              "creditHours": "3+0"
+            },
+            {
+              "code": "IS-408",
+              "courseTitle": "Islamic History of Sub-Continent",
+              "creditHours": "3+0"
+            },
+            {
+              "code": "IS-404",
+              "courseTitle": "Research Project",
+              "creditHours": "3+0"
+            },
+            {
+              "code": "QT-401",
+              "courseTitle": "Translation of the Quran: Dealings and Commandments",
+              "creditHours": "*1+0"
+            }
+          ]
+        }
+      ]
+    },
+    "MS Islamic Studies": {
+      "description": "The Department offers an MS in Islamic Studies, a broad-based program that focuses on contemporary socio-political and economic issues, Ijtihad, the objectives of Islamic Shariah, Islamic philosophy, international relations, the Islamic worldview, and the contemporary study of major world religions. Researchers are encouraged to work on practical issues to meet the needs of society and humanity. The MS degree is awarded after the completion of 30 credit hours, with 24 credit hours of coursework and an additional 6 credit hours which can be fulfilled either through a research thesis or by taking two additional courses."
+    },
+    "PhD Islamic Studies": {
+      "description": "The Doctor of Philosophy (Ph.D.) in Islamic Studies is the highest degree awarded by the Department. The program comprises 18 credit hours of coursework and 30 credit hours of research thesis. Courses are selected in consultation with the thesis supervisor, and student progress is continuously monitored by the Guidance and Evaluation Committee (GEC). Eligible candidates must possess an MS/M.Phil. degree with a minimum CGPA of 3.0 out of 4 and have passed the GAT subject examination as per HEC requirements. Coursework completion is followed by a comprehensive examination for Ph.D. candidacy. The program requires two years of residency at HITEC University and involves an open thesis defense after evaluation by one local and two foreign experts. The degree is awarded in recognition of high-level scholarship, independent research ability, and publication of research in reputed journals. The Department encourages research on current and futuristic issues related to the renaissance of Islamic thought, philosophy, and scientific knowledge."
+    }
+  },
+  "msPhdCourses": {
+    "MS Islamic Studies Courses": [
+      {
+        "code": "IS-801",
+        "courseTitle": "Development of Quranic Commentary Literature and its Trends",
+        "creditHours": "3+0"
+      },
+      {
+        "code": "IS-802",
+        "courseTitle": "Diligence in Islam (Ijtihad)",
+        "creditHours": "3+0"
+      },
+      {
+        "code": "IS-803",
+        "courseTitle": "Objectives of Islamic Shariah (Maqasid al-Shariah)",
+        "creditHours": "3+0"
+      },
+      {
+        "code": "IS-804",
+        "courseTitle": "Islamic Thoughts and Sciences: Source Literature",
+        "creditHours": "3+0"
+      },
+      {
+        "code": "IS-805",
+        "courseTitle": "Islamic Philosophy",
+        "creditHours": "3+0"
+      },
+      {
+        "code": "IS-806",
+        "courseTitle": "Contemporary Issues: Islamic View Point",
+        "creditHours": "3+0"
+      },
+      {
+        "code": "IS-807",
+        "courseTitle": "Hadith Studies",
+        "creditHours": "3+0"
+      },
+      {
+        "code": "IS-808",
+        "courseTitle": "Principles of Tafsir",
+        "creditHours": "3+0"
+      },
+      {
+        "code": "IS-809",
+        "courseTitle": "Principles of Hadith",
+        "creditHours": "3+0"
+      },
+      {
+        "code": "IS-810",
+        "courseTitle": "Comparative Study of Tafsir Literature",
+        "creditHours": "3+0"
+      },
+      {
+        "code": "IS-811",
+        "courseTitle": "Principles of Fiqh",
+        "creditHours": "3+0"
+      },
+      {
+        "code": "IS-812",
+        "courseTitle": "Comparative Study of Different Juristic Schools of Thought",
+        "creditHours": "3+0"
+      },
+      {
+        "code": "IS-813",
+        "courseTitle": "Islamic Banking and Finance",
+        "creditHours": "3+0"
+      },
+      {
+        "code": "IS-814",
+        "courseTitle": "Management & Administration in Islam",
+        "creditHours": "3+0"
+      },
+      {
+        "code": "IS-815",
+        "courseTitle": "Islamic World View",
+        "creditHours": "3+0"
+      },
+      {
+        "code": "IS-816",
+        "courseTitle": "International Relations and Islam",
+        "creditHours": "3+0"
+      },
+      {
+        "code": "IS-817",
+        "courseTitle": "Comparative Study of Major World Religions",
+        "creditHours": "3+0"
+      },
+      {
+        "code": "IS-818",
+        "courseTitle": "Islam and Science",
+        "creditHours": "3+0"
+      },
+      {
+        "code": "IS-819",
+        "courseTitle": "Research Methodology",
+        "creditHours": "3+0"
+      },
+      {
+        "code": "IS-820",
+        "courseTitle": "Analytical Study of Seerah",
+        "creditHours": "3+0"
+      },
+      {
+        "code": "IS-821",
+        "courseTitle": "Ethics of Disagreement in Islam (Adab al-Ikhtalaf)",
+        "creditHours": "3+0"
+      },
+      {
+        "code": "IS-822",
+        "courseTitle": "Dawah Principles & Techniques",
+        "creditHours": "3+0"
+      },
+      {
+        "code": "IS-823",
+        "courseTitle": "Islamic Economics",
+        "creditHours": "3+0"
+      },
+      {
+        "code": "IS-824",
+        "courseTitle": "Islamic Political System",
+        "creditHours": "3+0"
+      },
+      {
+        "code": "IS-886",
+        "courseTitle": "MS Thesis/Two Courses",
+        "creditHours": "6+0"
+      }
+    ]
+  }
+}

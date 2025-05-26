@@ -1,0 +1,61 @@
+# fastapi==0.100.0
+# uvicorn==0.23.0
+# sentence-transformers==2.2.2
+# transformers==4.35.2
+# # numpy left unpinned so pip can pull the right wheel for Python 3.12
+
+# fastapi==0.100.0
+# uvicorn==0.23.0
+# transformers==4.35.2
+# torch>=2.0.0
+# numpy
+
+
+#################
+
+# fastapi==0.100.0
+# uvicorn==0.23.0
+# sentence-transformers==2.2.2
+# transformers==4.35.2
+# torch>=2.0.0
+# numpy
+# faiss-cpu
+# gpt4all
+# huggingface-hub
+# flask
+
+
+##############################
+# --extra-index-url https://abetlen.github.io/llama-cpp-python/whl/cpu
+# llama-cpp-python<0.2.0
+
+# fastapi==0.100.0
+# uvicorn==0.23.0
+# faiss-cpu
+# sentence-transformers==2.2.2
+# torch>=2.0.0
+# huggingface-hub==0.13.4
+# llama-cpp-python<0.2.0  # pulls in a llama.cpp 1.x binding that accepts GGUF
+# pymongo
+
+
+
+
+# Core web service
+fastapi==0.100.0
+uvicorn[standard]==0.23.0
+
+# LLM binding
+llama-cpp-python<0.2.0   # uses llama.cpp 1.x with GGUF support
+
+# Retrieval & embedding
+faiss-cpu>=1.7.4         # pin to a recent stable FAISS-CPU
+sentence-transformers==2.2.2
+torch>=2.0.0
+
+# Transformer models (used in build_index.py)
+transformers>=4.30.0
+huggingface-hub>=0.13.4
+
+# MongoDB client
+pymongo>=4.0.0

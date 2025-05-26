@@ -1,0 +1,41 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Env files
+.env
+
+# React build
+client/build/
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# .gitignore
+BOT/venv/
+BOT/lib/
+BOT/resources/
+*.dll
+*.gguf
+*.exe
+*.mp4
+*.lib
+
+# Large binary/model files
+BOT/lib/
+BOT/Mistral-7B-Instruct/
+BOT/resources/
+*.gguf
+*.dll
+*.lib
+
+# Python environment
+BOT/venv/

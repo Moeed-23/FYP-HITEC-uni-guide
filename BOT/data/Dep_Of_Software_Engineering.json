@@ -1,0 +1,210 @@
+
+{
+  "department": "Department of Software Engineering",
+  "description": "Software plays a central and underpinning role in almost all aspects of daily life: communications, government, manufacturing, banking and finance, education, transportation, entertainment, medicine, agriculture, and law. The number, size, and application domains of computer programs have grown dramatically; as a result, huge sums are being spent on software development. Software products help us to be more efficient and productive. They provide information, make us more effective problem solvers, and provide safer, more flexible, and less confining work, entertainment, and recreation environments. Software Engineering is the application of a systematic, disciplined and quantifiable approach to the design, development, operation, and maintenance of software systems. It is in fact the practice of designing and implementing large, reliable, efficient and economical software by applying the principles and practices of engineering. The department aims to train students in all aspects of the software life cycle from specification through analysis and design to testing, maintenance and evolution of software products.",
+  "programs": {
+    "BS Software Engineering": {
+      "schemeOfStudy": [
+        {
+          "semester": 1,
+          "totalCreditHours": "18",
+          "courses": [
+            { "code": "CS-101", "courseTitle": "Introduction to Information and Communication Technologies", "creditHours": "2+1" },
+            { "code": "CS-102", "courseTitle": "Programming Fundamentals", "creditHours": "3+1" },
+            { "code": "HS-101", "courseTitle": "English", "creditHours": "3+0" },
+            { "code": "MT-101", "courseTitle": "Calculus & Analytical Geometry", "creditHours": "3+0" },
+            { "code": "HS-102", "courseTitle": "Pakistan Studies", "creditHours": "2+0" },
+            { "code": "BS-105", "courseTitle": "Applied Physics", "creditHours": "2+1" },
+            { "code": "QT-101", "courseTitle": "Translation of the Quran: Beliefs", "creditHours": "*1+0" }
+          ]
+        },
+        {
+          "semester": 2,
+          "totalCreditHours": "18",
+          "courses": [
+            { "code": "CS-104", "courseTitle": "Object Oriented Programming", "creditHours": "3+1" },
+            { "code": "HS-103", "courseTitle": "Communication Skills", "creditHours": "3+0" },
+            { "code": "CS-103", "courseTitle": "Discrete Structures", "creditHours": "3+0" },
+            { "code": "IS-211", "courseTitle": "Islamic Studies", "creditHours": "2+0" },
+            { "code": "CS-204", "courseTitle": "Software Engineering", "creditHours": "3+0" },
+            { "code": "HS-403", "courseTitle": "Management & Entrepreneurship", "creditHours": "3+0" }
+          ]
+        },
+        {
+          "semester": 3,
+          "totalCreditHours": "16",
+          "courses": [
+            { "code": "CS-201", "courseTitle": "Data Structures & Algorithms", "creditHours": "3+1" },
+            { "code": "SE-201", "courseTitle": "Software Requirement Engineering", "creditHours": "3+0" },
+            { "code": "CS-408", "courseTitle": "Human Computer Interaction", "creditHours": "2+1" },
+            { "code": "MT-203", "courseTitle": "Linear Algebra", "creditHours": "3+0" },
+            { "code": "HS-302", "courseTitle": "International Relations", "creditHours": "3+0" },
+            { "code": "HS-203", "courseTitle": "Community Service", "creditHours": "0+1" },
+            { "code": "QT-201", "courseTitle": "Translation of the Quran: Worships", "creditHours": "*1+0" }
+          ]
+        },
+        {
+          "semester": 4,
+          "totalCreditHours": "17",
+          "courses": [
+            { "code": "CS-303", "courseTitle": "Operating Systems", "creditHours": "3+1" },
+            { "code": "CS-304", "courseTitle": "Database Systems", "creditHours": "3+1" },
+            { "code": "SE-202", "courseTitle": "Software Design & Architecture", "creditHours": "2+1" },
+            { "code": "MT-302", "courseTitle": "Probability and Statistics", "creditHours": "3+0" },
+            { "code": "CS-302", "courseTitle": "Artificial Intelligence", "creditHours": "2+1" }
+          ]
+        },
+        {
+          "semester": 5,
+          "totalCreditHours": "16",
+          "courses": [
+            { "code": "SE-305", "courseTitle": "Software Construction & Development", "creditHours": "2+1" },
+            { "code": "CS-306", "courseTitle": "Data Communication and Computer Networks", "creditHours": "3+1" },
+            { "code": "HS-201", "courseTitle": "Technical Report Writing", "creditHours": "3+0" },
+            { "code": "SE-3XX", "courseTitle": "SE Supporting – I", "creditHours": "3+0" },
+            { "code": "SE-3XX", "courseTitle": "SE Supporting – II", "creditHours": "3+0" },
+            { "code": "QT-301", "courseTitle": "Translation of the Quran: Moral Values", "creditHours": "*1+0" }
+          ]
+        },
+        {
+          "semester": 6,
+          "totalCreditHours": "17",
+          "courses": [
+            { "code": "SE-306", "courseTitle": "Software Quality Engineering", "creditHours": "3+0" },
+            { "code": "CS-402", "courseTitle": "Information Security", "creditHours": "3+0" },
+            { "code": "HS-401", "courseTitle": "Professional Values and Ethics", "creditHours": "2+0" },
+            { "code": "CS-312", "courseTitle": "Web Engineering", "creditHours": "2+1" },
+            { "code": "SE-4XX", "courseTitle": "SE Elective – I", "creditHours": "3+0" },
+            { "code": "SE-3XX", "courseTitle": "SE Supporting – III", "creditHours": "3+0" }
+          ]
+        },
+        {
+          "semester": 7,
+          "totalCreditHours": "16",
+          "courses": [
+            { "code": "SE-401", "courseTitle": "Software Project Management", "creditHours": "3+0" },
+            { "code": "SE-402", "courseTitle": "Software Re-Engineering", "creditHours": "3+0" },
+            { "code": "SE-4XX", "courseTitle": "SE Elective – II", "creditHours": "3+0" },
+            { "code": "SE-4XX", "courseTitle": "SE Elective – III", "creditHours": "3+0" },
+            { "code": "ME-407", "courseTitle": "Health Safety and Environment", "creditHours": "1+0" },
+            { "code": "SE-499", "courseTitle": "Final Year Project – I", "creditHours": "0+3" },
+            { "code": "QT-401", "courseTitle": "Translation of the Quran: Dealing & Commandments", "creditHours": "*1+0" }
+          ]
+        },
+        {
+          "semester": 8,
+          "totalCreditHours": "13",
+          "courses": [
+            { "code": "SE-4XX", "courseTitle": "SE Elective – IV", "creditHours": "3+0" },
+            { "code": "SE-4XX", "courseTitle": "SE Elective – V", "creditHours": "3+0" },
+            { "code": "HS-404", "courseTitle": "Foreign Language", "creditHours": "1+1" },
+            { "code": "HS-402", "courseTitle": "Economics", "creditHours": "2+0" },
+            { "code": "SE-499", "courseTitle": "Final Year Project – II", "creditHours": "0+3" }
+          ]
+        }
+      ]
+    },
+    "SupportingCourses": {
+      "description": "Any Three to be opted – Total 9 Credit Hours",
+      "courses": [
+        { "code": "SE-301", "courseTitle": "Business Process Engineering", "creditHours": "3+0" },
+        { "code": "CS-313", "courseTitle": "Formal Methods in Software Engineering", "creditHours": "3+0" },
+        { "code": "SE-302", "courseTitle": "Operations Research", "creditHours": "3+0" },
+        { "code": "SE-303", "courseTitle": "Simulation and Modelling", "creditHours": "3+0" },
+        { "code": "SE-304", "courseTitle": "Stochastic Processes", "creditHours": "3+0" }
+      ]
+    },
+    "ElectiveCourses": {
+      "description": "Any Five to be opted – Total 15 Credit Hours",
+      "courses": [
+        { "code": "SE-403", "courseTitle": "Agent Based Software Engineering", "creditHours": "3+0" },
+        { "code": "SE-404", "courseTitle": "Big Data Analytics", "creditHours": "3+0" },
+        { "code": "SE-405", "courseTitle": "Cloud Computing", "creditHours": "3+0" },
+        { "code": "SE-406", "courseTitle": "Data Encryption and Security", "creditHours": "3+0" },
+        { "code": "SE-407", "courseTitle": "Global Software Development", "creditHours": "3+0" },
+        { "code": "SE-408", "courseTitle": "Information Systems Audit", "creditHours": "3+0" },
+        { "code": "SE-409", "courseTitle": "Management Information Systems", "creditHours": "3+0" },
+        { "code": "SE-410", "courseTitle": "Multimedia Communication", "creditHours": "3+0" },
+        { "code": "SE-411", "courseTitle": "Real Time Systems", "creditHours": "3+0" },
+        { "code": "SE-412", "courseTitle": "Semantic Web", "creditHours": "3+0" },
+        { "code": "SE-413", "courseTitle": "Software Engineering Economics", "creditHours": "3+0" },
+        { "code": "SE-414", "courseTitle": "Software Metrics", "creditHours": "3+0" },
+        { "code": "SE-415", "courseTitle": "Systems Programming", "creditHours": "3+0" },
+        { "code": "CS-305", "courseTitle": "Computer Graphics", "creditHours": "3+0" },
+        { "code": "CS-417", "courseTitle": "Game Development", "creditHours": "3+0" },
+        { "code": "CS-403", "courseTitle": "Mobile Application Development", "creditHours": "3+0" },
+        { "code": "CS-416", "courseTitle": "Natural Language Processing", "creditHours": "3+0" }
+      ]
+    }
+  },
+  "laboratories": {
+    "ComputingLabI": "This general-purpose Computing Lab provides open access support for students. All general-purpose software packages are installed on the latest machines.",
+    "ComputingLabII": "Each machine of this lab provides specialized software in addition to general purpose software for core computing courses. Students gain hands-on experience using the latest workstations, simulation tools, and training kits.",
+    "EmbeddedSystemsLab": "Provides embedded and other hardware resources required for designing, analyzing, and implementing embedded systems. The lab contains analog and digital equipment for experimentation and project completion at both junior and senior undergraduate levels.",
+    "DataCommunicationAndNetworksLab": "Used to conduct experiments for communication courses in wired and wireless communication; demonstrates different network topologies and simulation packages for an in-depth understanding of data transmission.",
+    "ArtificialIntelligenceLab": "Focuses on advancing computer vision and decision-making systems through research in deep learning, reinforcement learning, cognitive learning, game theory, natural language processing, and robotics.",
+    "DatabaseSystemsLab": "Equipped with a wide variety of graphics, CAD, and database management software, it is used for designing database solutions, generating queries, interactive processing, and developing GUIs.",
+    "FinalYearProjectLab": "Dedicated lab for final year projects, equipped with necessary software and state-of-the-art systems.",
+    "ElectronicsLab": "Equipped with components such as diodes, transistors, operational amplifiers, oscilloscopes, power supplies, and function generators to implement theoretical concepts of electronic systems practically.",
+    "DigitalSystemsLab": "Designed for understanding digital logic concepts and practical implementations of adders, logic circuits, microprocessor interfacing, and other sequential logic circuits using oscilloscopes, digital trainers, microprocessor kits, and related accessories."
+  },
+  "msSoftwareEngineering": {
+    "description": "The Department aims to launch MS Software Engineering from Fall 2021. To fulfill the MS degree requirements, a student must complete 30 credit hours by taking 8 courses (24 credit hours) and 6 credit hours of thesis. The thesis enables students to select a problem, identify research questions, develop a hypothesis, conduct experiments, and present their findings. Alternatively, a non-thesis option is available in which the student takes 10 courses and submits a mandatory technical report. The curriculum is designed according to HEC guidelines, and courses can be selected from the offered list in the semesters.",
+    "coreCourses": [
+      { "code": "SE-701", "courseTitle": "Advanced Requirements Engineering", "creditHours": "3+0" },
+      { "code": "SE-702", "courseTitle": "Advanced Software System Architecture", "creditHours": "3+0" },
+      { "code": "SE-703", "courseTitle": "Software Testing and Quality Assurance", "creditHours": "3+0" }
+    ],
+    "electiveCourses": [
+      { "code": "SE-801", "courseTitle": "Software Measurement and Metrics", "creditHours": "3+0" },
+      { "code": "SE-802", "courseTitle": "Component Based Software Engineering", "creditHours": "3+0" },
+      { "code": "SE-803", "courseTitle": "Advanced Formal Methods", "creditHours": "3+0" },
+      { "code": "SE-804", "courseTitle": "Advanced Human-Computer Interaction", "creditHours": "3+0" },
+      { "code": "SE-805", "courseTitle": "Agile Software Development Methods", "creditHours": "3+0" },
+      { "code": "SE-806", "courseTitle": "Empirical Software Engineering", "creditHours": "3+0" },
+      { "code": "CS-841", "courseTitle": "Advanced Software Engineering", "creditHours": "3+0" },
+      { "code": "CS-842", "courseTitle": "Advanced Software Project Management", "creditHours": "3+0" },
+      { "code": "CS-843", "courseTitle": "Software Quality Assurance", "creditHours": "3+0" },
+      { "code": "CS-854", "courseTitle": "Advanced Information Management Systems", "creditHours": "3+0" },
+      { "code": "CS-877", "courseTitle": "Soft Computing", "creditHours": "3+0" },
+      { "code": "CS-879", "courseTitle": "Multimedia Systems and Applications", "creditHours": "3+0" },
+      { "code": "CS-883", "courseTitle": "Advanced Cloud Computing", "creditHours": "3+0" }
+    ],
+    "generalElectiveCourses": [
+      { "code": "SE-807", "courseTitle": "Software Risk Management", "creditHours": "3+0" },
+      { "code": "SE-808", "courseTitle": "Software Configuration Management", "creditHours": "3+0" },
+      { "code": "SE-809", "courseTitle": "Reliability Engineering", "creditHours": "3+0" },
+      { "code": "SE-810", "courseTitle": "Complex Networks", "creditHours": "3+0" },
+      { "code": "SE-811", "courseTitle": "Agent Based Modeling", "creditHours": "3+0" },
+      { "code": "CS-823", "courseTitle": "Machine Learning", "creditHours": "3+0" },
+      { "code": "CS-832", "courseTitle": "Data Mining", "creditHours": "3+0" },
+      { "code": "CS-834", "courseTitle": "Web Engineering", "creditHours": "3+0" },
+      { "code": "CS-835", "courseTitle": "Advanced Web Analytics", "creditHours": "3+0" },
+      { "code": "CS-836", "courseTitle": "Semantic Web", "creditHours": "3+0" },
+      { "code": "CS-844", "courseTitle": "Information Security", "creditHours": "3+0" },
+      { "code": "CS-854", "courseTitle": "Advanced Information Management Systems", "creditHours": "3+0" },
+      { "code": "CS-856", "courseTitle": "Software Architecture", "creditHours": "3+0" },
+      { "code": "CS-858", "courseTitle": "Research Methods", "creditHours": "3+0" },
+      { "code": "EC-861", "courseTitle": "Advanced Operating Systems", "creditHours": "3+0" },
+      { "code": "CS-899", "courseTitle": "Thesis", "creditHours": "6+0" }
+    ]
+  },
+  "researchGroups": {
+    "CVML": {
+      "name": "Computer Vision and Machine Learning (CVML) Research Group",
+      "description": "The CVML research group focuses on applied research in deep learning, pattern recognition, computer vision, and machine learning for solving real-world large-scale problems. Its objective is to design and develop systems capable of recognizing images and videos to support decision making. This work addresses complex classification and clustering challenges as well as computational questions."
+    },
+    "MPCR": {
+      "name": "Multimedia and Pervasive Computing (MPCR) Research Group",
+      "description": "The MPCR research group brings together researchers from various countries in the field of intelligent multimedia innovations and applications. Their research includes video streaming, intelligent behavior modeling and control for mobile manipulators, mobile gaming, video indexing, augmented and virtual environments, ambient intelligence, and prevention/detection of attacks on ubiquitous databases. The group fosters collaboration among students and researchers."
+    },
+    "SRAM": {
+      "name": "Software Research and Application Modelling (SRAM) Research Group",
+      "description": "The SRAM research group conducts cutting-edge research on theoretical and practical issues in software development and application modelling. Its focus includes specification, analysis, application modelling processes, verification, testing, user experience, and human-computer interaction."
+    },
+    "CAN": {
+      "name": "Computer Architecture and Networks (CAN) Research Group",
+      "description": "The CAN research group focuses on developing multi-job scheduling algorithms for heterogeneous computer architectures, including GPU core sharing, improved network interconnect utilization between CPUs and GPUs, and accelerating scientific and embedded applications using many-core GPUs with modern APIs."
+    }
+  }
+}
